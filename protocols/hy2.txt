@@ -1,1 +1,2 @@
-
+hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000/?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-pa
+hy2://123456789StrongPa
