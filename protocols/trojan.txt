@@ -73,8 +73,8 @@ trojan://M08tvzYWtUEJNtbpHp@nl-4.tr202512.com:443?security=tls&sni=nl-4.tr202512
 trojan://T9BpZIVMNv@v1.dabache.top:8443?path=%2Famd&security=tls&insecure=1&host=sweden.vmaxpanel.com&type=ws&allowInsecure=1&sni=sweden.vmaxpanel.com#⚡
 trojan://4eddbd4a-ae04-49b9-9e6d-90f88eb4ef36@vpn.nnet.online:443?security=tls&sni=VPN.NNET.Online&type=ws&host=nnet.online&path=/trojan-tls#🇺🇸
 trojan://IL37892054@select-marmoset.rooster465.autos:443?security=tls&sni=select-marmoset.rooster465.autos&path=/#🇰🇷
-trojan://ZY07256934@delicate-buck.rooster465.autos:443?security=tls&path=/#🇸🇬
 trojan://ZY07256934@glowing-deer.rooster465.autos:443?security=tls&sni=glowing-deer.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷
+trojan://ZY07256934@delicate-buck.rooster465.autos:443?security=tls&path=/#🇸🇬
 trojan://ZY07256934@glowing-deer.rooster465.autos:443?security=tls&sni=glowing-deer.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=1#🇰🇷
 trojan://uThbm8eGmXZ7GKqnWy@nl-4.tr202507.com:443?allowInsecure=1#🇳🇱
 trojan://M08tvzYWtUEJNtbpHp@nl-4.tr202512.com:443?allowInsecure=1#😈31@oneclickvpnkeys
