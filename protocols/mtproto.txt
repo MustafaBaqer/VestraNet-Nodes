@@ -84,8 +84,8 @@ https://t.me/proxy?server=157.90.161.12&port=443&@MTProtoTG&secret=ee00000000000
 https://t.me/proxy?server=tg.magproxy.com&port=443&secret=eeb30fc4df699024f7a5dec0b0e66524b165682e766b2e636f6d
 tg://proxy?server=snail57teleconeettooweb56persploi6taiconsoleandroudios45iq.cydianewland.ir&port=2251&secret=7tgITt8otAHdAXdrCr1JFMhwbGF5Lmdvb2dsZS5jb20=)✓[Proxy](
 https://t.me/proxy?server=mirthb6ae-a2f8c311.proxytg.ink&port=443&secret=eec8142566b13717f23846aae67ca0ba686465627269732e6c6f63616c
-https://t.me/proxy?server=142.132.229.79&port=443&@MTProtoTG&secret=7tpqp8KsYZwGDzVfPxcyVzdzZWdtZW50LnByb2QuYmlkci5pbw&@MTProtoTG
 https://t.me/proxy?server=88.198.142.208&port=443&@MTProtoTG&secret=eea3639b5555c7777d8888f1516e1e2fac494e5354414752414d2e464c4c4b312d372e464e412e464243444e2e4e4554&@MTProtoTG
+https://t.me/proxy?server=142.132.229.79&port=443&@MTProtoTG&secret=7tpqp8KsYZwGDzVfPxcyVzdzZWdtZW50LnByb2QuYmlkci5pbw&@MTProtoTG
 https://t.me/proxy?server=142.132.155.4&port=443&@MTProtoTG&secret=7gAAAAAAAAAAAAAAAAAAAABoZXJvLmJvcmRlbi5qYWMucmVzdW4uY28udWs&@MTProtoTG
 https://t.me/proxy?server=45.109.38.205&port=443&@MTProtoTG&secret=ee9fe931d4d9db062cab1ebce8984b591762696e672e636f6d&@MTProtoTG
 https://t.me/proxy?server=185.213.167.217&port=80&@MTProtoTG&secret=ee75c831b3e15fa6d0dac18a3d6c0f06866361666562617a6161722e6972&@MTProtoTG
@@ -218,10 +218,10 @@ https://t.me/proxy?server=138.201.54.122&port=443&secret=7gnbgVp
 https://t.me/proxy?server=www.alibaba1409.org.&port=22&secret=fgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNng%3D%3D
 https://t.me/proxy?server=mci.3pita.com&port=25565&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=117.55.202.155&port=443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)✓[Proxy](
-tg://proxy?server=212.34.138.132&port=443&secret=eecBAgABAAfwAwOG4kw63QAAAARueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29t)‌‌|‌[اندروید](
 tg://proxy?server=51.250.121.113&port=443&secret=ee6164732e78352e72758b0cfeb66fba
 tg://proxy?server=62.113.116.140&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D)‌|‌[ایرانسل](
 https://t.me/proxy?server=64.188.80.92&port=443&secret=ca66dbb8b5d66a92fe3c01c441972826
+tg://proxy?server=212.34.138.132&port=443&secret=eecBAgABAAfwAwOG4kw63QAAAARueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29t)‌‌|‌[اندروید](
 https://t.me/proxy?server=germany.nuremberg.ir&port=443&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D
 https://t.me/proxy?server=tci.3pita.com&port=25565&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=185.245.107.102&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D)✓[Proxy](
