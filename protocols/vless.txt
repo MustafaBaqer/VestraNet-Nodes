@@ -1305,10 +1305,10 @@ vless://1babf197-af69-406e-aae2-83c411ae979f@144.31.166.42:443?encryption=none&f
 vless://3d737761-5951-462e-86c1-ff921d9f9999@144.31.85.93:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=tZ-tscsitfHIe63_9FAqruCnJaNFhRaKCnR8G-e4-CM&security=reality&sid=ae&sni=images.apple.com&type=tcp#🕊️6@oneclickvpnkeys
 vless://3d737761-5951-462e-86c1-ff921d9f9999@de-2.barryvpn.com:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=tZ-tscsitfHIe63_9FAqruCnJaNFhRaKCnR8G-e4-CM&security=reality&sid=ae&sni=images.apple.com&type=tcp#🕊️47@oneclickvpnkeys
 vless://a23cd4b4-f5f3-4d00-a8d9-fe9867bb1138@5.42.120.20:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=deepl.com&pbk=vnjp7zIK2H3CGdjSis_79KXqS6IG-opmpbETPUD-EC8&sid=15affa0af66dfc79#🇷🇺
+vless://1e97f262-296c-45cf-afc0-6ed86f768013@57.129.119.115:443?encryption=none&path=/&security=none&type=ws#🕊️19@oneclickvpnkeys
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?encryption=none&path=/http&security=none&type=ws#🕊️20@oneclickvpnkeys
 vless://fad2b7e0-d80c-4b7b-a84f-d86e0e49f627@45.15.128.75:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=BSsqyfTD-avgb1CyUdy_qJA95HwyMadBMJt7-EQjggk&security=reality&sid=e473bbc75224b9df&sni=max.ru&type=tcp#🇵🇱[openproxylist.com]
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@vip2.kaixincloud.top:443?allowInsecure=1&encryption=none&host=terazhediii.info&path=/sghiyws&security=tls&sni=terazhediii.info&type=ws#🇩🇪[openproxylist.com]
-vless://1e97f262-296c-45cf-afc0-6ed86f768013@57.129.119.115:443?encryption=none&path=/&security=none&type=ws#🕊️19@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.153.231:2096?path=/?ed&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#🇨🇦
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.155.209:2053?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=/&security=tls&sni=sni.111000.indevs.in&type=ws#🇸🇬
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.64.222:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=/&security=tls&sni=sni.111000.dynv6.net&type=ws#🇨🇦
@@ -2580,8 +2580,8 @@ vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@v1.dabache.top:443?type=ws&encrypti
 vless://6053689d-39d6-4005-b1bd-c0dce854f429@de-fast.chunkyvpn.shop:443?allowInsecure=1&alpn=h2&encryption=none&flow=xtls-rprx-vision&security=tls&sni=de-fast.chunkyvpn.shop&type=tcp#
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.53.180:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@172.66.44.211:443?encryption=none&type=ws&security=tls&path=/sghiyws&host=terazhediii.info&fp=chrome&sni=terazhediii.info#🇺🇸
-vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@ov-france1.09vpn.com:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.153.191:2096?type=ws&encryption=none&host=sni.my111000.tech&path=Telegram%F0%9F%87%A8%F0%9F%87%B3@WangCai2/&security=tls&sni=sni.my111000.tech&allowInsecure=1#🇺🇸
+vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@ov-france1.09vpn.com:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 vless://6053689d-39d6-4005-b1bd-c0dce854f429@103.27.157.202:9443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=&pbk=7hzTkQJRlSLjoomGf7FWglp3CfmkJngUYZ3JCSX0NxQ&sid=1d1d8128eb137af3&sni=maps.apple.com&path=&host=#@v2rayconfigamir
 vless://e8fb0f43-3497-4ef3-8a89-35bae56549b7@93.94.51.8:13380?encryption=none&fp=chrome&pbk=JitkQnVQffSjGpth1UKvZP4yLX6HmcshmClfzbC70T4&security=reality&sid=99de062f46387d3e&sni=yandex.ru&type=tcp#😈75@oneclickvpnkeys
 vless://098fd515-29de-4d74-b77d-d8ab878a7e2c@lucy.ns.cloudflare.com:443?allowInsecure=1&encryption=none&host=rivvers.info&path=/resgdws&security=tls&sni=rivvers.info&type=ws#
@@ -2590,8 +2590,8 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@87.229.97.221:8443?allowInsecure=1&
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@162.159.36.5:443?allowInsecure=1&encryption=none&host=terazhediii.info&path=%2Fsghiyws&security=tls&sni=terazhediii.info&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://90c9c25c-df6c-4438-83d3-ef97166a9184@64.188.57.215:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=A3PWLCRX9oeSyPvrmrwj2jUXcLo2uCwAISRBHtNE1Xw&security=reality&sni=5post-gate.x5.ru&type=tcp#⛽️49@oneclickvpnkeys
 vless://c031d6c7-5132-4d81-8efc-3b13a947984e@81.88.25.20:59029?security=&amp
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.32.47:2053?type=ws&encryption=none&host=sni.111000.indevs.in&path=/&security=tls&sni=sni.111000.indevs.in&allowInsecure=1#🇺🇸
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.147.191:2096?allowInsecure=1&encryption=none&host=sni.my111000.tech&path=Telegram%F0%9F%87%A8%F0%9F%87%B3@WangCai2/&security=tls&sni=sni.my111000.tech&type=ws#🇺🇸
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.32.47:2053?type=ws&encryption=none&host=sni.111000.indevs.in&path=/&security=tls&sni=sni.111000.indevs.in&allowInsecure=1#🇺🇸
 vless://d1209ffb-c159-48d5-b40d-542ce11fc768@it1.axinode.sbs:10965?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=lHxeD2nYtDb1V7JseV-sUTEuqH6_jie7U_iOARX7cT0&security=reality&sid=9f3a7c6d2e8b41af&sni=deepl.com&type=tcp#
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.53.182:23576?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fuck.rkn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&type=tcp&headerType=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN#⚡
 vless://098fd515-29de-4d74-b77d-d8ab878a7e2c@lucy.ns.cloudflare.com:443?allowInsecure=1&encryption=none&host=rivvers.info&path=%2Fresgdws&security=tls&sni=rivvers.info&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AAT
