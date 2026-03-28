@@ -60,6 +60,7 @@ trojan://4123ae62-0999-4984-8ead-091630e594a9@n3.chateditimage.com:443?allowInse
 trojan://IL37892054@healthy-ewe.rooster465.autos:443?allowInsecure=1#[🏁]t.me/ConfigsHub
 trojan://IL37892054@healthy-ewe.rooster465.autos:443?allowInsecure=1
 trojan://T9BpZIVMNv@v1.dabache.top:8443?security=tls&type=ws&sni=sweden.vmaxpanel.com&path=/amd&host=sweden.vmaxpanel.com#%E6%9C%AA%E7%9F%A533
+trojan://4123ae62-0999-4984-8ead-091630e594a9@n3.chateditimage.com:443?sni=n3.chateditimage.com#⚡
 trojan://IL37892054@select-marmoset.rooster465.autos:443?security=tls&sni=select-marmoset.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-3.34.140.83-0226
 trojan://ZY07256934@free-duckling.rooster465.autos:443?security=tls#⚡
 trojan://M08tvzYWtUEJNtbpHp@nl-4.tr202512.com:443?#%F0%9F%87%B3%F0%9F%87%B1NL%E8%8D%B7%E5%85%B0%205.1MB%2Fs
@@ -119,7 +120,7 @@ trojan://4eddbd4a-ae04-49b9-9e6d-90f88eb4ef36@vpn.nnet.online:443?security=tls&s
 trojan://M08tvzYWtUEJNtbpHp@nl-4.tr202512.com:443?allowInsecure=1#
 trojan://uThbm8eGmXZ7GKqnWy@nl-4.tr202507.com:443?allowInsecure=1
 trojan://M08tvzYWtUEJNtbpHp@nl-4.tr202512.com:443?security=tls&sni=nl-4.tr202512.com&path=/#🇳🇱
-trojan://T9BpZIVMNv@v1.dabache.top:8443?path=/amd&security=tls&insecure=1&host=sweden.vmaxpanel.com&fp=chrome&type=ws&allowInsecure=1&sni=sweden.vmaxpanel.com#@v2rayngzendegimamad🕊️
 trojan://M08tvzYWtUEJNtbpHp@nl-4.tr202512.com:443?#⚡
+trojan://T9BpZIVMNv@v1.dabache.top:8443?path=/amd&security=tls&insecure=1&host=sweden.vmaxpanel.com&fp=chrome&type=ws&allowInsecure=1&sni=sweden.vmaxpanel.com#@v2rayngzendegimamad🕊️
 trojan://M08tvzYWtUEJNtbpHp@nl-4.tr202512.com:443?#
 trojan://uThbm8eGmXZ7GKqnWy@nl-4.tr202507.com:443?allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AXX
