@@ -73,6 +73,6 @@ wireguard://4ML%2BIg3hkredUfBhQwbG8ojvtReK8cKg%2BBHZYPQzB0k%3D@162.159.192.15:87
 wireguard://AJw%2Fou0GT1nJpVAhZgYGrw58NdI4vKwHP6hrcH%2FD3FQ%3D@162.159.195.2:1002?address=172.16.0.2%2F32&reserved=72%2C160%2C156&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1380&keepalive=25&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#Ops
 wireguard://8ASQJvRFn5Bmf%2F0FNe%2BXuyxq8BxFcON8QI%2F5mhNYkns%3D@162.159.192.19:2408?address=172.16.0.2%2F32&reserved=237%2C226%2C100&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1380&keepalive=25&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#Ops
 wireguard://GCpkNcdHkbft3GDGx370jW6SZtYQ17C1CB2lV1QA92Q%3D@[2606:4700:d0::a29f:c008]:5279?addre
-wireguard://AC%2Fly8P9sG6O9gkfQ%2B%2FKIjIhHaTp5BpvtLOOtY87FE8%3D@162.159.195.1:5279?addre
 wireguard://2ItoVskaVkddiVyZD5IvBD8nerwdE%2Fw90H87xNc5cmQ%3D@162.159.192.12:8742?addre
+wireguard://AC%2Fly8P9sG6O9gkfQ%2B%2FKIjIhHaTp5BpvtLOOtY87FE8%3D@162.159.195.1:5279?addre
 wireguard://4AnPXcw8kmCcY6hB4BC5CS1BrVYjP3O1%2BNXrtm5TdXs%3D@162.159.192.14:4177?addre
