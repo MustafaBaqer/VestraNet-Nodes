@@ -8,7 +8,6 @@ tg://proxy?server=142.54.189.108&port=443&secret=7gnbgVptgqMf2nb4ciMMaddwa2didWl
 tg://proxy?server=31.47.51.152&port=8582&secret=ddbb01e59aa510ca70ce9e935c471df2d8
 tg://proxy?server=77.72.80.80&port=443&secret=79e344818749bd7ac519130220c25d0
 https://t.me/proxy?server=nitro.alotaxi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d
-https://t.me/proxy?server=free.FCKRKNBOT.COM&port=443&secret=ddf48f621b110f302e468756840c29f916
 tg://proxy?server=hyper.happvpn.cc&port=8443&secret=ee4852c1c04ab83db8a328c60eaf9a0db268797065722e6861707076706e2e6363
 tg://proxy?server=nano.happvpn.cc&port=4514&secret=ee0a638f4a7bd9db9e94449c652ea963066e616e6f2e6861707076706e2e6363
 https://t.me/proxy?server=138.201.204.218&port=443&secret=ee09db815a6d82a31fda76f872230c69d7706b676275696c642e6f7267#
@@ -257,6 +256,7 @@ tg://proxy?server=46.38.138.28&port=56969&secret=767cf6f14f461cdd166b54eddb53e1b
 tg://proxy?server=77.221.142.123&port=3443&secret=eeeeaf2a08cb735517c611e9e2817526
 tg://proxy?server=mt.jebance.ru&port=8443&secret=dd28df1727029aed45d15f3a44d31e7e20
 tg://proxy?server=46.38.143.236&port=48069&secret=767cf6f14f461cdd166b54eddb53e1b0
+https://t.me/proxy?server=free.FCKRKNBOT.COM&port=443&secret=ddf48f621b110f302e468756840c29f916
 https://t.me/proxy?server=tg.scroogevpn.com&port=443&secret=59d307276beb8f4d8a0ed547eb6a461a
 https://t.me/proxy?server=65.109.215.115&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=5.78.93.16&port=4415&secret=dd104462821249bd7ac519130220c25d09
