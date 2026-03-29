@@ -42,8 +42,8 @@ wireguard://6PAZW9O95BQgDwFjby
 wireguard://8ASQJvRFn5Bmf%2F0FNe%2BXuyxq8BxFcON8QI%2F5mhNYkns%3D@162.159.192.19:2408?addre
 wireguard://8CBaFoNjMJ64gMWudh%2BrjxrHtCq0lktrhxseaYo2S0k%3D@162.159.192.20:903?addre
 wireguard://0FEiV9b16z2%2FpWfXPTmExhlGmvQawEyIMhff24VAaX0%3D@162.159.192.5:1014?addre
-wireguard://0OKSCIjVLhndzbUid2EJ
 wireguard://2Ak49U0feePOvQxTKdKNOOfwwOWCbspSTcRKsomga14%3D@162.159.192.8:1070?addre
+wireguard://0OKSCIjVLhndzbUid2EJ
 wireguard://2FW3iUxaHeJhgnzKuJAWyJkkApKmvUrtHu7XOKcl31Q%3D@162.159.192.10:2371?addre
 wireguard://0GMJqr1gPE2uQC3OgjnoNMFbBVvWQNu6GseTYh%2BRfVc%3D@162.159.192.6:946?addre
 wireguard://2Ax5nKaBrfiMpaH1MNn8JG%2FrJH5WB11wbgad%2Bihcv0s%3D@162.159.192.9:7559?addre
