@@ -77,6 +77,7 @@ tg://proxy?server=raven8471-14d968ab.proxytg.ink&port=443&secret=eead14f006e0691
 https://t.me/proxy?server=185.177.229.195&port=443&@MTProtoTG&secret=eea5c67fa4236f748dc09e6b39e824a99e64697661722e6972&@MTProtoTG
 https://t.me/proxy?server=139.144.71.241&port=443&@MTProtoTG&secret=eec210ca2aa6d3d81670ed32899925445b626c6f672e636c6f7564666c6172652e636f6d&@MTProtoTG
 https://t.me/proxy?server=81.90.25.84&port=443&secret=eecce5f6809071bf82621a510337c591bc706574726f766963682e7275
+https://t.me/proxy?server=77.238.251.205&port=8443&secret=dd54bee7b42b9df58276bc326fece52705
 tg://proxy?server=saturnlink.space&port=443&secret=eea85f2776cc83dbff66b440fb03050cf773617475726e6c696e6b2e7370616365
 https://t.me/proxy?server=tg.safepal.life&port=443&secret=ee65682e766b2e636f6d4c2dce97862b
 https://t.me/proxy?server=de-03.satoshidiary.org&port=8443&secret=ee6d33147f1bbc63e9b39efe483516ab85617669746f2e7374
@@ -94,7 +95,6 @@ tg://proxy?server=5.78.190.71&port=4455&secret=ddbe3f0adb4ae53a594fd5fec4dd00287
 https://t.me/proxy?server=freedom-vpn.lat&port=443&secret=7pHoYvZkGmXOej2wPeAhts9jbG91ZGZsYXJlLmNvbQ
 https://t.me/proxy?server=internet-freedom.lat&port=443&secret=7pHoYvZkGmXOej2wPeAhts9jbG91ZGZsYXJlLmNvbQ
 https://t.me/proxy?server=162.55.162.11&port=8888&@MTProtoTG&secret=7gAAAAAAAAAAAAAAAAAAAABJTlNUQUdSQU0uRkxMSzEtNy5GTkEuRkJDRE4uTkVU&@MTProtoTG
-https://t.me/proxy?server=77.238.251.205&port=8443&secret=dd54bee7b42b9df58276bc326fece52705
 https://t.me/proxy?server=107.150.34.100&port=443&secret=7gnbgVptgqMf2nb4ciMMaddwa2didWlsZC5vcmc
 https://t.me/proxy?server=91.107.174.85&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=104.167.199.41&port=5&secret=111111111111111110000w
