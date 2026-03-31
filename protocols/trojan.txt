@@ -68,8 +68,8 @@ trojan://4123ae62-0999-4984-8ead-091630e594a9@n2.chateditimage.com:443?sni=n2.ch
 trojan://4123ae62-0999-4984-8ead-091630e594a9@n3.chateditimage.com:443?path=/#🇺🇸
 trojan://ZY07256934@glowing-deer.rooster465.autos:443?security=tls&sni=glowing-deer.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-54.180.131.34-0236
 trojan://4123ae62-0999-4984-8ead-091630e594a9@n3.chateditimage.com:443?allowInsecure=0&sni=n3.chateditimage.com#🇺🇸[openproxylist.com]
-trojan://ZY07256934@glowing-deer.rooster465.autos:443?security=tls&sni=glowing-deer.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-54.180.131.34-0260
 trojan://de7d6444-a7a8-4b3a-bf26-bc6939bb0279@n1.chateditimage.com:443?security=tls&sni=n1.chateditimage.com#%F0%9F%87%BA%F0%9F%87%B8US-64.186.252.102-0172
+trojan://ZY07256934@glowing-deer.rooster465.autos:443?security=tls&sni=glowing-deer.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-54.180.131.34-0260
 trojan://de7d6444-a7a8-4b3a-bf26-bc6939bb0279@n2.chateditimage.com:443?security=tls&sni=n2.chateditimage.com#⚡
 trojan://IL37892054@select-marmoset.rooster465.autos:443?security=tls&sni=select-marmoset.rooster465.autos#🇰🇷[openproxylist.com]
 trojan://T9BpZIVMNv@sweden.vmaxpanel.com:8443?allowInsecure=1&path=/amd&type=ws#🇺🇸
@@ -81,7 +81,6 @@ trojan://T9BpZIVMNv@v1.dabache.top:8443?allowInsecure=1&host=sweden.vmaxpanel.co
 trojan://4123ae62-0999-4984-8ead-091630e594a9@n2.chateditimage.com:443?security=tls&sni=n2.chateditimage.com#%F0%9F%87%BA%F0%9F%87%B8US-64.186.254.102-0193
 trojan://4eddbd4a-ae04-49b9-9e6d-90f88eb4ef36@vpn.nnet.online:443?sni=VPN.NNET.Online&type=ws&host=nnet.online&path=/trojan-tls#🇺🇸
 trojan://M08tvzYWtUEJNtbpHp@nl-4.tr202512.com:443?security=tls&sni=nl-4.tr202512.com#%F0%9F%87%B3%F0%9F%87%B1NL-194.124.216.185-0175
-trojan://ZY07256934@free-duckling.rooster465.autos:443?security=tls#⚡
 trojan://BvzUvt45hON9We5X9wM6I9ZrxHRcYd46QK@216.238.102.254:26593?allowInsecure=1&sni=sao2.cdn-graph.click#19✊@oneclickvpnkeys
 trojan://T9BpZIVMNv@v1.dabache.top:8443?security=tls&type=ws&sni=sweden.vmaxpanel.com&path=/amd&host=sweden.vmaxpanel.com#%E6%9C%AA%E7%9F%A523
 trojan://M08tvzYWtUEJNtbpHp@nl-4.tr202512.com:443?#%F0%9F%87%B3%F0%9F%87%B1NL%E8%8D%B7%E5%85%B0%205.1MB%2Fs
@@ -112,6 +111,7 @@ trojan://ZY07256934@glowing-deer.rooster465.autos:443?security=tls&sni=glowing-d
 trojan://de7d6444-a7a8-4b3a-bf26-bc6939bb0279@n2.chateditimage.com:443?security=tls&sni=n2.chateditimage.com#🇺🇸[openproxylist.com]
 trojan://IL37892054@healthy-ewe.rooster465.autos:443?allowInsecure=1
 trojan://T9BpZIVMNv@v1.dabache.top:8443?security=tls&type=ws&sni=sweden.vmaxpanel.com&path=/amd&host=sweden.vmaxpanel.com#%E6%9C%AA%E7%9F%A533
+trojan://ZY07256934@free-duckling.rooster465.autos:443?security=tls#⚡
 trojan://M08tvzYWtUEJNtbpHp@nl-4.tr202512.com:443?allowInsecure=1#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%E9%98%BF%E5%A7%86%E6%96%AF%E7%89%B9%E4%B8%B9%20xTom%2FAS3214
 trojan://de7d6444-a7a8-4b3a-bf26-bc6939bb0279@n3.chateditimage.com:443?security=tls&sni=n3.chateditimage.com#🇺🇸[openproxylist.com]
 trojan://ZY07256934@free-duckling.rooster465.autos:443?security=tls&path=/#🇸🇬
