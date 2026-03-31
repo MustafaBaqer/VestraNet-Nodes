@@ -58,11 +58,11 @@ wireguard://EKRnbt%2FneTTclhsU842c9xRu%2BQWECvZQav1nOx%2FZL0M%3D@[2606:4700:d0::
 wireguard://IP4DgwbWLVYKOmwwM286X3VZ%2BP4huZuz5SHSLosHXUg%3D@[2606:4700:d0::a29f:c0010]:2560?addre
 wireguard://CDnLLZSn0EimiIm5%2FtKx2sGIjXYehlKiEkOVKUVJJWw%3D@162.159.195.5:908?addre
 wireguard://CE%2BB%2F5kj01iKgYHb7162zn3HW%2FPvMEsTahQFbQp4cXg%3D@162.159.195.6:939?addre
+wireguard://IP4DgwbWLVYKOmwwM286X3VZ%2BP4huZuz5SHSLosHXUg%3D@[2606:4700:d0::a29f:c005]:891?addre
+wireguard://IKDOz%2F9G%2F%2FYE7Srr1lDQvwm2wH7c2kHfzIAOvjERyHs%3D@[2606:4700:d0::a29f:c009]:878?addre
 wireguard://EACg2DaM5%2Ft6HFpYWHVWL%2FF1S%2BnGV3%2FcQ%2FPaN%2BdzlmM%3D@162.159.195.8:3581?addre
 wireguard://EG8sygG3zNLVSiWCWKpRtPlcTS61jqZ3zxcsaLQKRXE%3D@162.159.195.10:4500?addre
 wireguard://IKDOz%2F9G%2F%2FYE7Srr1lDQvwm2wH7c2kHfzIAOvjERyHs%3D@[2606:4700:d0::a29f:c004]:8742?addre
-wireguard://IP4DgwbWLVYKOmwwM286X3VZ%2BP4huZuz5SHSLosHXUg%3D@[2606:4700:d0::a29f:c005]:891?addre
-wireguard://IKDOz%2F9G%2F%2FYE7Srr1lDQvwm2wH7c2kHfzIAOvjERyHs%3D@[2606:4700:d0::a29f:c009]:878?addre
 wireguard://KHyyTt3qTxq435tBlDXJiqG3tI%2FsHbPRNGPCxMx4w1U%3D@[2606:4700:d0::a29f:c0011]:8742?addre
 wireguard://EACg2DaM5%2Ft6HFpYWHVWL%2FF1S%2BnGV3%2FcQ%2FPaN%2BdzlmM%3D@wire.nscl.ir:878?addre
 wireguard://cMxekgAnVSNb%2BrgOySV%2B74ogaJhqpJtShZaECZCY6k4%3D@162.159.192.1:500?addre
