@@ -48,8 +48,8 @@ https://t.me/proxy?server=62.182.197.26&port=443&secret=ee63f4406b12426f2151314e
 https://t.me/proxy?server=116.203.0.182&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=195.254.165.253&port=25565&secret=dd79e344818749bd7ac519130220c25d09https://t.me/socks?server=185.121.131.11
 tg://proxy?server=144.31.224.193&port=8443&secret=ee79612e7275229b5187e299cc6e8b20
-https://t.me/proxy?server=mtp.vsemvpn.cc&port=443&secret=dd15992ff6e054e6b06faab3689633355c
 tg://proxy?server=proxy.vpnusio.com&port=443&secret=db3502ea1525916350c563758d614434
+https://t.me/proxy?server=mtp.vsemvpn.cc&port=443&secret=dd15992ff6e054e6b06faab3689633355c
 https://t.me/proxy?server=46.38.143.236&port=48069&secret=767cf6f14f461cdd166b54eddb53e1b0
 https://t.me/proxy?server=ru1.fast.tg-proxyes.ru&port=2233&secret=c9863f369af42b78330994f03e78737e
 https://t.me/proxy?server=146.185.209.244&port=443&secret=9f3c7a8d2e4b1c6f5a7d8e9b0c2f4a1d
