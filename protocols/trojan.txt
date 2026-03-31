@@ -60,8 +60,8 @@ trojan://T9BpZIVMNv@v1.dabache.top:8443?allowInsecure=1&host=sweden.vmaxpanel.co
 trojan://IL37892054@healthy-ewe.rooster465.autos:443?allowInsecure=1#🇺🇸
 trojan://4123ae62-0999-4984-8ead-091630e594a9@n2.chateditimage.com:443?security=tls&sni=n2.chateditimage.com#%F0%9F%87%BA%F0%9F%87%B8US-64.186.254.102-0195
 trojan://T9BpZIVMNv@v1.dabache.top:8443?allowInsecure=1&host=sweden.vmaxpanel.com&path=%2Famd&sni=sweden.vmaxpanel.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ASE
-trojan://T9BpZIVMNv@sweden.vmaxpanel.com:8443?allowInsecure=1&path=%2Famd&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ASE
 trojan://BvzUvt45hON9We5X9wM6I9ZrxHRcYd46QK@216.238.102.254:26593?allowInsecure=1&sni=sao2.cdn-graph.click#%3E%3E%40oneclickvpnkeys%3A%3ABR
+trojan://T9BpZIVMNv@sweden.vmaxpanel.com:8443?allowInsecure=1&path=%2Famd&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ASE
 trojan://WwipNOSqUh49CEapMmIrv6m6AZLf-EC0+T@104.238.162.6:13109?allowInsecure=1&sni=ord2.edge-command.click#%3E%3E%40oneclickvpnkeys%3A%3AUS
 trojan://T9BpZIVMNv@v1.dabache.top:8443?security=tls&type=ws&sni=sweden.vmaxpanel.com&path=/amd&host=sweden.vmaxpanel.com#%E6%9C%AA%E7%9F%A526
 trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?security=tls&sni=celestialcorset.crystalhamster.click#%F0%9F%87%AE%F0%9F%87%B8IS-37.235.49.209-0278
