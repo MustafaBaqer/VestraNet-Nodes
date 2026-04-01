@@ -91,8 +91,8 @@ trojan://de7d6444-a7a8-4b3a-bf26-bc6939bb0279@n1.chateditimage.com:443?security=
 trojan://ZY07256934@glowing-deer.rooster465.autos:443?security=tls&sni=glowing-deer.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-54.180.131.34-0260
 trojan://de7d6444-a7a8-4b3a-bf26-bc6939bb0279@n2.chateditimage.com:443?security=tls&sni=n2.chateditimage.com#⚡
 trojan://IL37892054@select-marmoset.rooster465.autos:443?security=tls&sni=select-marmoset.rooster465.autos#🇰🇷[openproxylist.com]
-trojan://BvzUvt45hON9We5X9wM6I9ZrxHRcYd46QK@216.238.102.254:26593?allowInsecure=1&sni=sao2.cdn-graph.click#🇧🇷
 trojan://T9BpZIVMNv@sweden.vmaxpanel.com:8443?allowInsecure=1&path=/amd&type=ws#🇺🇸
+trojan://BvzUvt45hON9We5X9wM6I9ZrxHRcYd46QK@216.238.102.254:26593?allowInsecure=1&sni=sao2.cdn-graph.click#🇧🇷
 trojan://WwipNOSqUh49CEapMmIrv6m6AZLf-EC0+T@104.238.162.6:13109?allowInsecure=1&sni=ord2.edge-command.click#🇺🇸
 trojan://4123ae62-0999-4984-8ead-091630e594a9@n3.chateditimage.com:443?sni=n3.chateditimage.com#⚡
 trojan://de7d6444-a7a8-4b3a-bf26-bc6939bb0279@n1.chateditimage.com:443?security=tls&sni=n1.chateditimage.com#%F0%9F%87%BA%F0%9F%87%B8US-64.186.252.102-0153
