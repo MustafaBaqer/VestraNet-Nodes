@@ -3518,15 +3518,15 @@ vless://6053689d-39d6-4005-b1bd-c0dce854f429@103.27.157.202:9443?type=tcp&securi
 vless://098fd515-29de-4d74-b77d-d8ab878a7e2c@lucy.ns.cloudflare.com:443?allowInsecure=1&encryption=none&host=rivvers.info&path=/resgdws&security=tls&sni=rivvers.info&type=ws#
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@108.162.194.176:443?allowInsecure=1&encryption=none&host=terazhediii.info&path=/sghiyws&security=tls&sni=terazhediii.info&type=ws#🇺🇸
 vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@ov-france1.09vpn.com:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
+vless://5bdc2b6d-7ab9-448f-adcf-7372c4685b03@vpn.dryorc.site:8080?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=ws&encryption=none&path=/vpn&host=&security=none#@GozargahAzad|🏁
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.32.47:2053?type=ws&encryption=none&host=sni.111000.indevs.in&path=/&security=tls&sni=sni.111000.indevs.in&allowInsecure=1#🇺🇸
 vless://c031d6c7-5132-4d81-8efc-3b13a947984e@81.88.25.20:59029?security=&amp
 vless://bf432795-1383-46e5-8823-d638b956cabe@144.31.233.146:43361?encryption=none&fp=chrome&pbk=OVkz4f4FnObOQT4vz8SqpiuzFDmTjYH4OZk2wIbjgCk&security=reality&sid=55ba93eb8c&sni=www.nvidia.com&type=tcp#
 vless://e8fb0f43-3497-4ef3-8a89-35bae56549b7@93.94.51.8:13380?encryption=none&fp=chrome&pbk=JitkQnVQffSjGpth1UKvZP4yLX6HmcshmClfzbC70T4&security=reality&sid=99de062f46387d3e&sni=yandex.ru&type=tcp#😈75@oneclickvpnkeys
 vless://90c9c25c-df6c-4438-83d3-ef97166a9184@64.188.57.215:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=A3PWLCRX9oeSyPvrmrwj2jUXcLo2uCwAISRBHtNE1Xw&security=reality&sni=5post-gate.x5.ru&type=tcp#⛽️49@oneclickvpnkeys
 vless://098fd515-29de-4d74-b77d-d8ab878a7e2c@lucy.ns.cloudflare.com:443?allowInsecure=1&encryption=none&host=rivvers.info&path=%2Fresgdws&security=tls&sni=rivvers.info&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AAT
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.147.191:2096?allowInsecure=1&encryption=none&host=sni.my111000.tech&path=Telegram%F0%9F%87%A8%F0%9F%87%B3@WangCai2/&security=tls&sni=sni.my111000.tech&type=ws#🇺🇸
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.32.47:8443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=/?Telegram🇨🇳+@WangCai2&security=tls&sni=sni.111000.dynv6.net&type=ws#🇺🇸
-vless://5bdc2b6d-7ab9-448f-adcf-7372c4685b03@vpn.dryorc.site:8080?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=ws&encryption=none&path=/vpn&host=&security=none#@GozargahAzad|🏁
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.147.191:2096?allowInsecure=1&encryption=none&host=sni.my111000.tech&path=Telegram%F0%9F%87%A8%F0%9F%87%B3@WangCai2/&security=tls&sni=sni.my111000.tech&type=ws#🇺🇸
 vless://53821f3c-5b03-456a-89f3-f8379f130752@51.89.229.134:443?encryption=none&fp=chrome&pbk=4e4FI0siWxFtLCRCVDQurn1wLTuvKWhRY0zj1SaUcyw&security=reality&sid=a13a7cc5&sni=www.samsung.com&type=tcp#⛽️30@oneclickvpnkeys
 vless://94daa8ad-75ed-4dbf-a6de-d05036d98df5@162.159.36.20:443?allowInsecure=1&encryption=none&host=vangoghhh.info&path=%2Ftixvuws&security=tls&sni=vangoghhh.info&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?allowInsecure=1&encryption=none&host=terazhediii.info&path=/sghiyws&security=tls&sni=terazhediii.info&type=ws#🇺🇸
