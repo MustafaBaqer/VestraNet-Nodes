@@ -3,6 +3,7 @@ hy2://62b7824e-47dc-11ef-9f2d-f23c9164ca5d@WangCai.hk1.hyhuawei.com:443/?insecur
 hy2://c1785de0-212f-11ef-92aa-f23c9164ca5d@WangCai.hk1.hyhuawei.com:443/?insecure=1&sni=WangCai.hk1.hyhuawei.com#🇭🇰HK_@WangCai_8
 hy2://c1785de0-212f-11ef-92aa-f23c9164ca5d@wangcai.hk1.hyhuawei.com:443?sni=WangCai.hk1.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0HK_%40WangCai_8
 hy2://dongtaiwang.com@2001:bc8:32d7:302::11:443?sni=apple.com#%F0%9F%8F%8614%40oneclickvpnkeys
+hy2://a4c9b7cc-a816-11ed-9f65-f23c9164ca5d@WangCai.hk1.hyhuawei.com:443/?insecure=1&sni=WangCai.hk1.hyhuawei.com#🇭🇰HK_@WangCai_8
 hy2://auth@65.109.178.92:443?sni=cdn.cloudflare.com#%40Hddify
 hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%3E%3E%40oneclickvpnkeys%3A%3AXX
 hy2://Telegram--
