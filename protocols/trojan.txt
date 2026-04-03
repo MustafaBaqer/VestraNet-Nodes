@@ -321,4 +321,3 @@ trojan://ZY07256934@glowing-deer.rooster465.autos:443?security=tls&sni=glowing-d
 trojan://ZY07256934@glowing-deer.rooster465.autos:443?security=tls&sni=glowing-deer.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷
 trojan://uThbm8eGmXZ7GKqnWy@nl-4.tr202507.com:443?allowInsecure=1#🇳🇱
 trojan://M08tvzYWtUEJNtbpHp@nl-4.tr202512.com:443?allowInsecure=1#😈31@oneclickvpnkeys
-trojan://M08tvzYWtUEJNtbpHp@nl-4.tr202512.com:443?security=tls&sni=nl-4.tr202512.com#%F0%9F%87%B3%F0%9F%87%B1NL-194.124.216.186-0169

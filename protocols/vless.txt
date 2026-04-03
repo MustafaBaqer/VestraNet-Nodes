@@ -1834,6 +1834,7 @@ vless://552279d3-1a29-4814-a59f-c2d334207cd8@82.202.159.193:8443?flow=xtls-rprx-
 vless://09f69dc2-015c-44cc-af67-dd3d21e51613@82.202.159.110:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5#🇷🇺
 vless://6d0e9ded-d23d-4ffb-b165-7bc757be84d3@89.124.80.54:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=lXA_O5MyDtBCaTI3c9SnZxkefkpDqSKH49e-ms-nbFQ&security=reality&sid=330e31171c99978e&sni=sun6-21.userapi.com&type=tcp#🧢39@oneclickvpnkeys
 vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?encryption=none&security=none&type=ws&path=/#
+vless://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@147.45.51.114:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&security=reality&sid=6ba85179e30d4fc2&sni=www.vk.com&type=tcp#🇮🇹[openproxylist.com]
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?type=tcp&security=tls&sni=uk1.fromblancwithlove.com&alpn=h2#BR_speednode_0002
 vless://394f6981-a782-4779-9a85-e6cf22935d93@uk1.fromblancwithlove.com:8443?type=tcp&security=tls#BR_speednode_0003
 vless://13e755ae-de9b-4627-a5ff-ccae0ad00f2d@95.163.181.160:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=vknet.enotfast.net&pbk=THxJyX4Gsf_upzu8gDgNMmlJWVkP56k4FQrPUhM5hmc&sid=12b4bc7ca90e01#🇷🇺
@@ -1857,6 +1858,7 @@ vless://49ce7256-c35c-423d-a970-3fa10f835f2b@82.202.159.119:443?flow=xtls-rprx-v
 vless://49ce7256-c35c-423d-a970-3fa10f835f2b@82.202.159.239:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=tradingview.com&pbk=EMS0wzISeSbEe4JABPD8EgDnyLXgDmrX4_lcfG6VVX4&sid=60e104f7126798c4#🇷🇺
 vless://e2e1ddaa-1acf-4c4c-a211-92284f6440ed@5.255.110.147:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&security=reality&sid=4fa44664f6a566d3&sni=nll.scroogethebest.com&type=tcp#🇳🇱[openproxylist.com]
 vless://49ce7256-c35c-423d-a970-3fa10f835f2b@176.109.110.120:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=tradingview.com&pbk=EMS0wzISeSbEe4JABPD8EgDnyLXgDmrX4_lcfG6VVX4&sid=dbbe8dca27a92c35#🇷🇺
+vless://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@185.177.238.15:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&security=reality&sid=6ba85179e30d4fc2&sni=www.vk.com&type=tcp#🇦🇱[openproxylist.com]
 vless://49ce7256-c35c-423d-a970-3fa10f835f2b@82.202.159.119:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=tradingview.com&pbk=EMS0wzISeSbEe4JABPD8EgDnyLXgDmrX4_lcfG6VVX4&sid=c76ba2c2fb172e8b#🇷🇺
 vless://49ce7256-c35c-423d-a970-3fa10f835f2b@82.202.159.239:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=tradingview.com&pbk=EMS0wzISeSbEe4JABPD8EgDnyLXgDmrX4_lcfG6VVX4&sid=c76ba2c2fb172e8b#🇷🇺
 vless://40b318b1-a90e-4a22-b169-e5ec4ab8806e@51.250.97.177:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=eh.vk.com&pbk=J4WSGeV221VZBTHlnm352pVfPa2s3hSoEP739THqpGU&sid=306651e9bde9&spx=/#🇷🇺
@@ -3831,8 +3833,3 @@ vless://0b3fe4ee-4ac1-4c47-b910-da876135a187@95.174.92.50:8443?flow=xtls-rprx-vi
 vless://0fa13297-7784-48e1-9c19-308c8b440edb@176.108.247.44:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=dk21.strelkavpn.com&pbk=rhL4R8tBOs5UnuwptbdegPycyuxGn-wvurb4eRYNSgY&sid=596e1781a03304&spx=/#🇷🇺
 vless://1007b7c2-2170-4ba4-a68d-ec31fbb4bf74@188.114.96.3:443?encryption=none&type=ws&security=tls&path=/vless-tls&host=nnet.online&fp=chrome&sni=nnet.online#🇺🇸
 vless://110d7bad-5e17-4ce3-afd0-2cf2ebc71787@94.131.8.31:2053?encryption=none&type=tcp&security=reality&fp=chrome&sni=music.yandex.ru&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d#🇬🇷
-vless://110d7bad-5e17-4ce3-afd0-2cf2ebc71787@95.163.183.64:2053?encryption=none&type=tcp&security=reality&fp=chrome&sni=music.yandex.ru&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d#🇷🇺
-vless://110d7bad-5e17-4ce3-afd0-2cf2ebc71787@185.130.113.8:2053?encryption=none&type=tcp&security=reality&fp=chrome&sni=music.yandex.ru&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d#🇷🇺
-vless://110d7bad-5e17-4ce3-afd0-2cf2ebc71787@45.15.153.156:2053?encryption=none&type=tcp&security=reality&fp=chrome&sni=music.yandex.ru&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d#🇵🇱
-vless://00000000-0000-4000-8000-000000000000@159.69.162.184:42622?type=ws&encryption=none&host=sub.mot.ip-ddns.com&path=/&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#🇩🇪
-vless://00000000-0000-4000-8000-000000000000@159.69.162.184:43393?type=ws&encryption=none&host=sub.mot.ip-ddns.com&path=/&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#🇩🇪
