@@ -8,8 +8,8 @@ hy2://a4c9b7cc-a816-11ed-9f65-f23c9164ca5d@wangcai.hk1.hyhuawei.com:443?sni=Wang
 hy2://rstnnl@reddeadfan.rd-team.ru:443?sni=reddeadfan.rd-team.ru&obfs=salamander&obfs-password=FxZylbqClUqVqAs2nezW9kPyFb2edZ2#%F0%9F%8F%8641%40oneclickvpnkeys
 hy2://auth@65.109.178.92:443?sni=cdn.cloudflare.com#%40Hddify
 hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%3E%3E%40oneclickvpnkeys%3A%3AXX
-hy2://zhangyang@130.61.50.75:6443?sni=dash.cloudflare.com#%F0%9F%A6%9493%40oneclickvpnkeys
 hy2://Telegram--
+hy2://zhangyang@130.61.50.75:6443?sni=dash.cloudflare.com#%F0%9F%A6%9493%40oneclickvpnkeys
 hy2://hysteria2_fastlane_4il18i3ep@150.241.79.201:443?sni=de5.h.fastlanehosting.ru#%F0%9F%A7%AB32%40oneclickvpnkeys
 hy2://hysteria2_fastlane_bi5ckyc9g@144.31.118.145:443?sni=de8.h.fastlanehosting.ru#%F0%9F%A7%AB35%40oneclickvpnkeys
 hy2://zhangyang@130.61.50.75:6443?sni=dash.cloudflare.com#%F0%9F%A7%AB1%40oneclickvpnkeys
