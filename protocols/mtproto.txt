@@ -439,7 +439,6 @@ tg://proxy?server=212.34.147.21&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQ)‌|‌[�
 tg://proxy?server=185.105.90.16&port=443&secret=ee6575860df1848335b7110ca37d01f14a7777772e66616365626f6f6b2e636f6d)🇷🇺[پروکسی](
 tg://proxy?server=195.26.225.102&port=443&secret=eecBAgABAAfwAwOG4kw63QAAAARueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29t)‌‌|‌[اندروید](
 tg://proxy?server=89.110.117.109&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D)‌‌|‌[پروکسی](
-https://t.me/proxy?server=195.2.93.94&port=443&secret=ee11bba94a7a49a2d74a27377c69dec89f766b2e636f6d
 tg://proxy?server=194.164.34.176&port=443&secret=eecBAgABAAfwAwOG4kw63QAAAARueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29t)‌|‌[اندروید](
 tg://proxy?server=103.126.50.38&port=443&secret=ee071071071071071071071071071071076d6963726f736f66742e636f6f)🇷🇺[پروکسی](
 tg://proxy?server=https.younum-c.co.uk&port=443&secret=Y4vs8P6YnKohsQeXrU0cOA==)🇺🇸[پروکسی](
@@ -461,6 +460,7 @@ https://t.me/proxy?server=germany.nuremberg.ir&port=443&secret=ee0000f00f0f77555
 tg://proxy?server=195.200.18.228&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQ)‌|‌‌‌‌[ایرانسل](
 tg://proxy?server=51.250.121.113&port=443&secret=ee6164732e78352e72758b0cfeb66fba
 tg://proxy?server=iam.qavivqodrati.ir&port=443&secret=eecBAgABAAfwAwOG4kw63QAAAARueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29t)🇪🇺[پروکسی](
+https://t.me/proxy?server=195.2.93.94&port=443&secret=ee11bba94a7a49a2d74a27377c69dec89f766b2e636f6d
 tg://proxy?server=optimal.irpower-f.ir&port=443&secret=ee07df7df7df7dfffffdfffffffffffc07646f776e6c6f61642e77696e646f77737570646174652e636f6d‌|‌[پروکسی](
 tg://proxy?server=212.111.80.159&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D)‌‌|‌[پروکسی](
 tg://proxy?server=77.238.239.178&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D)‌|‌[ایرانسل](
