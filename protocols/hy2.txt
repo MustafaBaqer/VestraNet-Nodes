@@ -2,7 +2,6 @@ hy2://62b7824e-47dc-11ef-9f2d-f23c9164ca5d@WangCai.hk1.hyhuawei.com:443/?insecur
 hy2://62b7824e-47dc-11ef-9f2d-f23c9164ca5d@wangcai.hk1.hyhuawei.com:443?sni=WangCai.hk1.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0HK_%40WangCai_8
 hy2://dongtaiwang.com@2001:bc8:32d7:302::11:443?sni=apple.com#%F0%9F%8F%8614%40oneclickvpnkeys
 hy2://c1785de0-212f-11ef-92aa-f23c9164ca5d@wangcai.hk1.hyhuawei.com:443?sni=WangCai.hk1.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0HK_%40WangCai_8
-hy2://a4c9b7cc-a816-11ed-9f65-f23c9164ca5d@wangcai.hk1.hyhuawei.com:443?sni=WangCai.hk1.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0HK_%40WangCai_8
 hy2://rstnnl@reddeadfan.rd-team.ru:443?sni=reddeadfan.rd-team.ru&obfs=salamander&obfs-password=FxZylbqClUqVqAs2nezW9kPyFb2edZ2#%F0%9F%8F%8641%40oneclickvpnkeys
 hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?sni=api.kermanshahi.org&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%3A%20Free_VPN_CH%40%20%232
 hy2://hysteria2_fastlane_4il18i3ep@150.241.79.201:443?sni=de5.h.fastlanehosting.ru#%F0%9F%A7%AB32%40oneclickvpnkeys
@@ -20,6 +19,7 @@ hy2://auth@49.12.142.89:443?sni=www.microsoft.com#v2ray_freex%F0%9F%91%88%DA%86%
 hy2://bb7d8763-4afa-465f-b066-35786781ced2@216.236.26.19:49930?sni=www.bing.com#%E2%9C%8A97%40oneclickvpnkeys
 hy2://a4c9b7cc-a816-11ed-9f65-f23c9164ca5d@WangCai.hk1.hyhuawei.com:443/?insecure=1&sni=WangCai.hk1.hyhuawei.com#🇭🇰HK_@WangCai_8
 hy2://Yet-Another-Public-Config-1@206.71.158.37:35000?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%F0%9F%87%B3%F0%9F%87%B1%20-%20NL%20-%20%40FreeOnlineVPN
+hy2://a4c9b7cc-a816-11ed-9f65-f23c9164ca5d@wangcai.hk1.hyhuawei.com:443?sni=WangCai.hk1.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0HK_%40WangCai_8
 hy2://KevinZakarian@179.61.132.96:8443?sni=179.61.132.96&obfs=salamander&obfs-password=KevinZakarian#%F0%9F%A9%B5%2B%40Azarakhsh_Proxy%2B%F0%9F%A9%B7
 hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?sni=api.kermanshahi.org%40freenettir&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%3A%20Free_VPN_CH%40%20%233
 hy2://hysteria2_fastlane_bwyx9htpr@144.31.63.58:443?sni=de4.h.fastlanehosting.ru#%F0%9F%A7%AB69%40oneclickvpnkeys
