@@ -300,7 +300,7 @@ https://t.me/proxy?server=195.15.201.86&port=155&@MTProtoTG&secret=eeRighJJvXrFG
 https://t.me/proxy?server=65.109.189.140&port=888&@MTProtoTG&secret=ec742282124f04d318551341ead76457&@MTProtoTG
 https://t.me/proxy?server=5.75.207.54&port=888&@MTProtoTG&secret=ec742282124f04d318551341ead76457&@MTProtoTG
 https://t.me/proxy?server=54.46.161.111&port=20&@MTProtoTG&secret=7u3wX_9f7-_v7-8%3D&@MTProtoTG
-https://t.me/proxy?server=55.75.13.116&port=888&@MTProtoTG&secret=ec742282124f04d318551341ead76457&@MTProtoTG
+https://t.me/proxy?server=212.34.155.221&port=443&@MTProtoTG&secret=eecBAgABAAfwAwOG4kw63QAAAARueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29t&@MTProtoTG
 https://t.me/proxy?server=91.98.133.5&port=8888&@MTProtoTG&secret=ee5lrPbFdb1vizwd3HEHowtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&@MTProtoTG
 tg://proxy?server=prxyhub.click&port=443&secret=9f27410725ab8ab84ed17daf14723236
 tg://proxy?server=rup.digi-srkshop.sbs&port=59780&secret=ee09db815a6d82a31fda76f872230c69d7706b676275696c642e6f7267
@@ -606,7 +606,7 @@ tg://proxy?server=raven8471-14d968ab.proxytg.ink&port=443&secret=eead14f006e0691
 tg://proxy?server=94.126.207.189&port=443&secret=bf7c5a95ce4e90e4cbc7aa2cae6d53ea
 tg://proxy?server=Ashkoda-Best.gabrial-batistuta.shop&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 https://t.me/proxy?server=130.49.169.160&port=443&secret=eedab20682678a2d6dca5aefe1c75aa69073656c656374656c2e7275
-https://t.me/proxy?server=212.34.155.221&port=443&@MTProtoTG&secret=eecBAgABAAfwAwOG4kw63QAAAARueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29t&@MTProtoTG
+https://t.me/proxy?server=55.75.13.116&port=888&@MTProtoTG&secret=ec742282124f04d318551341ead76457&@MTProtoTG
 tg://proxy?server=92.246.139.33&port=8888&secret=eeb94b8e35905f710e8ac96be3d451931a706574726f766963682e7275****
 tg://proxy?server=2.144.23.250&port=4433&secret=7gnbgVptgqMf2nb4ciMMaddwa2didWlsZC5vcmc
 https://t.me/proxy?server=tg.scroogevpn.com&port=443&secret=59d307276beb8f4d8a0ed547eb6a461a
