@@ -312,7 +312,7 @@ tg://proxy?server=65.21.58.190&port=443&secret=dd104462821249bd7ac519130220c25d0
 tg://proxy?server=hfhs34cx.helpervpn.club&port=443&secret=ee2044a4384143152ca4794bbf8a988340647567776579722e706978656c7265616c6d2e73686f70
 tg://proxy?server=65.21.58.190&port=443&secret=dd104462821249bd7ac519130220c25d09__**
 tg://proxy?server=65.109.16.139&port=443&secret=dd104462821249bd7ac519130220c25d09
-tg://proxy?server=65.21.58.190&port=443&secret=dd104462821249bd7ac519130220c25d09**](https://t.me/morfin_daria
+tg://proxy?server=65.109.16.146&port=443&secret=dd104462821249bd7ac519130220c25d09****
 tg://proxy?server=www.hombus.co.uk.&port=22&secret=fgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNng==@
 https://t.me/proxy?server=209.127.228.146&port=443&@MTProtoTG&secret=ee32b920dffb51643028e2f6b878d4eac164697661722e6972&@MTProtoTG
 https://t.me/proxy?server=varzesh3.com.digikala.com.torob.com.divar.ir.bamilo.com.snapp.ir.snappfood.ir.shaparak.ir.tehran.ir.shahrekhabar.com.zoomit.ir.bama.ir.filmio.ir.isna.ir.mehrnews.com.irna.ir.tasnimnews.com.farsnews.ir.khabaronline.ir.tabnak.ir.12222.fireworkscrazy.space.&port=443&@MTProtoTG&secret=7gAAAAAAAAAAAAAAAAAAAAB0Z2p1Lm9yZw==&@MTProtoTG
@@ -576,7 +576,7 @@ tg://proxy?server=94.126.207.189&port=443&secret=bf7c5a95ce4e90e4cbc7aa2cae6d53e
 tg://proxy?server=Ashkoda-Best.gabrial-batistuta.shop&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 https://t.me/proxy?server=130.49.169.160&port=443&secret=eedab20682678a2d6dca5aefe1c75aa69073656c656374656c2e7275
 tg://proxy?server=rup.digi-srkshop.sbs&port=59579&secret=ee09db815a6d82a31fda76f872230c69d7706b676275696c642e6f7267
-tg://proxy?server=65.109.16.146&port=443&secret=dd104462821249bd7ac519130220c25d09****
+tg://proxy?server=65.21.58.190&port=443&secret=dd104462821249bd7ac519130220c25d09**](https://t.me/morfin_daria
 tg://proxy?server=92.246.139.33&port=8888&secret=eeb94b8e35905f710e8ac96be3d451931a706574726f766963682e7275****
 https://t.me/proxy?server=tg.scroogevpn.com&port=443&secret=59d307276beb8f4d8a0ed547eb6a461a
 https://t.me/proxy?server=he.67.mtproto.ru&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d
