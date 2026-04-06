@@ -1,2 +1,1 @@
 wireguard://0FEiV9b16z2%2FpWfXPTmExhlGmvQawEyIMhff24VAaX0%3D@162.159.192.5:1014?address=172.16.0.2%2F32&reserved=68%2C223%2C255&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1380&keepalive=25&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#Ops
-wireguard://6NOWaBiuvVMYZ%2B6WGQBP%2Fz2acsoVTNZ7qBczLLyPf0I%3D@162.159.192.16:955?address=172.16.0.2%2F32&reserved=115%2C16%2C8&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1380&keepalive=25&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#Ops
