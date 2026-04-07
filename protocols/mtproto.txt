@@ -590,7 +590,6 @@ tg://proxy?server=149.120.147.160&port=443&secret=ee6719f637173dc2276468b703e739
 tg://proxy?server=213.108.21.105&port=2053&secret=dd586464b7256dddfd4b5ede01693551ee
 tg://proxy?server=77.91.65.51&port=443&secret=124ff2925d1661ae6e9d66046da46dbc
 tg://proxy?server=66.135.16.88&port=443&secret=86f1b3361ab2a524748ffe2275bb6220
-https://t.me/proxy?server=bosnia.capture.misdeem.offcast.washerwoman.pinoyteleseryehd.net&port=8500&secret=82bb272c25579297178d08fff7dbb0d6
 https://t.me/proxy?server=s1.sosproxy.space&port=443&secret=ee668f277db019fe88c30c8e498e72446764726976652e676f6f676c652e636f6d
 https://t.me/proxy?server=77.239.112.93&port=443&secret=549106ca73227ed875b3255bddbb9e76
 https://t.me/proxy?server=free.tgsecurity.online&port=443&secret=ee7c5d4e1f2a3b9c8d7e6f5a4b3c2d1e0f766b2e636f6d
@@ -654,6 +653,7 @@ tg://proxy?server=91.134.139.232&port=8443&secret=ef5e97666d5248db3aca4e0bc7492e
 tg://proxy?server=37.27.18.47&port=443&secret=ee1603010200010001fc030386e24c3add6b65746161626f6e6c696e652e636f6d
 tg://proxy?server=5.129.216.244&port=8443&secret=c99830f283dae3a527c60e594a6af454
 tg://proxy?server=89.38.135.49&port=443&secret=ee7961686f6f2e636f6d2ee317073c3e
+https://t.me/proxy?server=bosnia.capture.misdeem.offcast.washerwoman.pinoyteleseryehd.net&port=8500&secret=82bb272c25579297178d08fff7dbb0d6
 https://t.me/proxy?server=185.84.157.233&port=9&secret=FgMBAgABAAH8AxOG4kw63Q
 https://t.me/proxy?server=195.254.165.253&port=2053&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D
 https://t.me/proxy?server=46.225.29.180&port=443&secret=ee636c6f7564666c6172652e636f6db6
