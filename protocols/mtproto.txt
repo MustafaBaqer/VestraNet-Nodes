@@ -1,4 +1,3 @@
-tg://proxy?server=foalfoot.granada.sleezy.subdiscipline.thus.thepinoytv.net&port=4150&secret=e20567af02b11b9f808e7424c7259e05
 https://t.me/proxy?server=49.13.136.242&port=443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=64.188.64.189&port=443&secret=b0834f5c52129b3de4fed01625bb8567
 tg://proxy?server=31.47.51.152&port=8582&secret=ddbb01e59aa510ca70ce9e935c471df2d8
@@ -23,6 +22,7 @@ https://t.me/proxy?server=144.31.230.217&port=443&secret=33d73370103ea05acd9418e
 tg://proxy?server=77.72.80.80&port=9443&secret=79e344818749bd7ac519130220c25d09
 https://t.me/proxy?server=2.144.7.247&port=8443&secret=7gnbgVptgqMf2nb4ciMMaddwa2didWlsZC5vcmc&@zibanabz
 tg://proxy?server=89.124.64.13&port=443&secret=ee17ae2b46d2b106af164facdd9d7472
+tg://proxy?server=77.72.80.115&port=25565&secret=dd79e344818749bd7ac519130220c25d09
 https://t.me/proxy?server=he.67.mtproto.ru&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d&@zibanabz
 tg://proxy?server=XB1YN.MTP.IPSENTER.NET&port=443&secret=ee18b60b291a8043f7834790af2cc028c4676f6f676c652e636f6d
 tg://proxy?server=77.72.80.112&port=25565&secret=dd79e344818749bd7ac519130220c25d09
@@ -50,7 +50,6 @@ tg://proxy?server=95.179.251.15&port=443&secret=6cfc9e681a8adbf13e2c7502418d04be
 https://t.me/proxy?server=tg2.just-cloud.org&port=443&secret=ee8905ea8667cc83527ecf2fef8ab382ff6170692d6d6170732e79616e6465782e7275
 https://t.me/proxy?server=proxym.world&port=443&secret=1b6453892473a467d07372d45eb05abc
 https://t.me/proxy?server=av.1.mtproto.ru&port=443&secret=7iERIiIzM0REVVVmZnd3iIhicm93c2VyLnlhbmRleC5jb20
-tg://proxy?server=77.72.80.115&port=25565&secret=dd79e344818749bd7ac519130220c25d09
 https://t.me/proxy?server=152.232.171.151&port=443&secret=7gcO5p6Oc0jVMRbIA0y1cUVvay5ydQ
 tg://proxy?server=81.90.25.57&port=443&secret=2b861a9d646551532a86c0de2d9fab02
 https://t.me/proxy?server=proxydlyavseh.sbs&port=443&secret=2cf24dba5fb0a30e26e83b2ac5b9e29e
@@ -143,7 +142,7 @@ https://t.me/proxy?server=subs-sosavpn.com&port=443&secret=c2a82a5b5a3dcb7d26822
 https://t.me/proxy?server=77.238.251.205&port=8443&secret=dd54bee7b42b9df58276bc326fece52705
 tg://proxy?server=saturnlink.space&port=443&secret=eea85f2776cc83dbff66b440fb03050cf773617475726e6c696e6b2e7370616365
 https://t.me/proxy?server=proxy.komaruvpn.com&port=8443&secret=228994e9822a1e7326ca5c3be9f051e6
-https://t.me/proxy?server=5.75.218.189&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=95.85.249.142&port=443&secret=bf9f2d60e8d4ca1b376a71ea5400c7d2
 https://t.me/proxy?server=prx.today&port=443&secret=b3f0c7f6af7dc2dc2e9c80d0d80e8162
 tg://proxy?server=45.134.26.95&port=443&secret=ddd45515068fe04ed0ecf980a97417998e
 tg://proxy?server=2.27.123.48&port=443&secret=eeb3948e1e74ad85969922925c56e9bf156d61696c2e7275
@@ -516,7 +515,7 @@ https://t.me/proxy?server=81.90.25.57&port=443&secret=2b861a9d646551532a86c0de2d
 tg://proxy?server=vavan.xyz&port=443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=Shoting.forwarding-co.site.&port=44300&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=138.201.54.122&port=443&secret=7gnbgVptgqMf2nb4ciMMaddwa2didWlsZC5vcmc&@zibanabz
-https://t.me/proxy?server=95.85.249.142&port=443&secret=bf9f2d60e8d4ca1b376a71ea5400c7d2
+https://t.me/proxy?server=5.75.218.189&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=91.107.182.200&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=168.222.254.22&port=443&secret=9fef5b805123f9e10620fa0e6ece8a0e
 tg://proxy?server=45.32.149.231&port=443&secret=423760ac85fafc63265c3195c671ebf7
@@ -808,3 +807,4 @@ tg://proxy?server=45.151.182.190&port=443&secret=ee3f354f86e59e2c166c83031772d92
 tg://proxy?server=proxy-tube.duckdns.org&port=443&secret=ee47d8b029af97e26480fccc7ab5cf83a170726f78792d747562652e6475636b646e732e6f7267
 https://t.me/proxy?server=2.144.23.250&port=4785&secret=7gnbgVptgqMf2nb4ciMMaddwa2didWlsZC5vcmc&@zibanabz
 tg://proxy?server=94.103.83.193&port=443&secret=eee1627df97d2380c6fcd8a8934ba6ae606d61696c2e7275
+tg://proxy?server=foalfoot.granada.sleezy.subdiscipline.thus.thepinoytv.net&port=4150&secret=e20567af02b11b9f808e7424c7259e05
