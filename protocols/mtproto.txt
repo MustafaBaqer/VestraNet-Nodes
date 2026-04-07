@@ -570,6 +570,7 @@ tg://proxy?server=149.120.147.201&port=443&secret=ee6719f637173dc2276468b703e739
 tg://proxy?server=167.86.100.17&port=443&secret=eed2c4dc1c928e717578dc046e6213f1ee636c6f7564666c6172652e636f6d
 tg://proxy?server=104.207.157.105&port=443&secret=6642d7ccbac0c56d773d7b8ba470826e
 tg://proxy?server=217.69.3.116&port=443&secret=a379342b437fa0eb06d8d58a6525ba4c
+tg://proxy?server=89.110.94.195&port=443&secret=ee11ef21c835c607ad756cf0293524fc626d61696c2e7275
 https://t.me/proxy?server=mt.kanye-west.top&port=8443&secret=dd05fe4775d1a6eb49d2d3ff01b63997e2
 tg://proxy?server=45.82.65.142&port=443&secret=a7c17e9a495ef47028c1c57f4c4a9d5e
 tg://proxy?server=mt.vpn-one.net&port=5223&secret=7ae73ddfd70b8e549aae657b4da1bf03
