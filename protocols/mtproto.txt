@@ -145,6 +145,7 @@ tg://proxy?server=thorn23a7-5f6f1759.proxytg.ink&port=443&secret=ee61162c15e9799
 tg://proxy?server=84.23.54.100&port=443&secret=7gomsvko3Lz0dUqhw4-5lFpnb29nbGUuY29t
 https://t.me/proxy?server=jtproxy.life&port=443&secret=eef0050d30441bab41f60acae779df0c40766473696e612e7275
 tg://proxy?server=142.54.189.106&port=443&secret=ee09db815a6d82a31fda76f872230c69d7706b676275696c642e6f7267)✅
+tg://proxy?server=free.tgsecurity.online&port=443&secret=ee7c5d4e1f2a3b9c8d7e6f5a4b3c2d1e0f766b2e636f6d
 tg://proxy?server=hello-world.tg.engineer&port=443&secret=d9e48875e76c21092c63e78050247929
 https://t.me/proxy?server=VersaChmodel.MxtoolBox.Beauty&port=443&@MTProtoTG&secret=7jK5IN_7UWQwKOL2uHjU6sFwYW5lbC5vbmVwcm92aWRlci5jb20&@MTProtoTG
 https://t.me/proxy?server=free.tgsecurity.online&port=443&secret=dd7c5d4e1f2a3b9c8d7e6f5a4b3c2d1e0f
@@ -559,7 +560,6 @@ tg://proxy?server=47.238.118.153&port=8888&secret=dd1c29c9e2cf1bebef973063bf5cee
 tg://proxy?server=89.169.33.141&port=443&secret=eef6cf7f962f5100401aea20b56d9404df73332e616d617a6f6e6177732e636f6d
 tg://proxy?server=47.76.185.250&port=8888&secret=ddbc333021b477f9f51080ec9f6e9f5ef3
 tg://proxy?server=45.66.163.217&port=7443&secret=7rFcfxc4nt_IjMO80W6NU0F3d3cuZ29vZ2xlLmNvbQ
-tg://proxy?server=free.tgsecurity.online&port=443&secret=ee7c5d4e1f2a3b9c8d7e6f5a4b3c2d1e0f766b2e636f6d
 https://t.me/proxy?server=mt.fi.ipizdec.lol&port=443&secret=de18609544eb7fa267cf94735d320ac5
 https://t.me/proxy?server=zerotier1.saba-e.com&port=5010&secret=eead33390c48192788f0a5fe46e7efff3d676f6f676c652e636f6d
 https://t.me/proxy?server=proxydazhenaparkovke.site&port=443&secret=dde8aa2e8c1ad50570b7d6fe7e0ba3d677
