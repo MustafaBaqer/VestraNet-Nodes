@@ -3591,10 +3591,10 @@ vless://2dfcac2e-2d0c-4b21-866e-4240f4537616@51.250.95.173:443?flow=xtls-rprx-vi
 vless://1db51c15-c4ca-4c9a-9e11-8efb0d4a2374@212.233.122.88:443?encryption=none&type=xhttp&security=reality&path=/&mode=auto&extra=null&fp=chrome&sni=max.fastexte.pro&pbk=vnjp7zIK2H3CGdjSis_79KXqS6IG-opmpbETPUD-EC8&sid=15affa0af66dfc79#🇷🇺
 vless://24333510-37dd-4eef-8660-3640a9aaaa06@95.163.208.115:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&sid=4ffc99daad0f261f#🇷🇺
 vless://24333510-37dd-4eef-8660-3640a9aaaa06@217.16.22.161:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&sid=6419bed7fd0a2cff#🇷🇺
+vless://43488128-319e-f480-64ea-0acdc712e2a8@45.77.66.142:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Ic2uiGhkBgJUsY0CZUBqa1y22V_BO7F4S93Zgk_ir2c&security=reality&sid=0c1553316a645758&sni=www.zalando.de&type=tcp#🏳[openproxylist.com]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@1.161.246.106:50099#⚡
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@n8mrcg0060292s3.cybervena.com:50099#⚡
 ssr://NjguMTgzLjc0LjYzOjEyOTI4Om9yaWdpbjphZXMtMjU2LWNmYjpodHRwX3NpbXBsZTpORE0yT1dJNU5nPT0vP29iZnNwYXJhbT0mcmVtYXJrcz04SiUyQkhxZkNmaDZwRVJTMDJPQzR4T0RNdU56UXVOak10TXpjMk1nJTNEJTNEJnByb3RvcGFyYW09
-vless://43488128-319e-f480-64ea-0acdc712e2a8@45.77.66.142:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Ic2uiGhkBgJUsY0CZUBqa1y22V_BO7F4S93Zgk_ir2c&security=reality&sid=0c1553316a645758&sni=www.zalando.de&type=tcp#🏳[openproxylist.com]
 vless://3e5baa32-149e-4b35-9b04-62b1ccef21ed@62.233.43.250:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=48fccabc158a4c22#🇷🇺
 vless://49a4fedb-ae1c-4c83-b499-422ea2d798e7@62.233.43.250:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=48fccabc158a4c22#🇷🇺
 vless://4da3f428-98f7-489f-8732-b793a11b8f33@212.233.121.82:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=vkru10.enotfast.net&pbk=THxJyX4Gsf_upzu8gDgNMmlJWVkP56k4FQrPUhM5hmc&sid=12b4bc7ca90e01#🇷🇺
