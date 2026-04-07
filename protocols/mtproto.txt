@@ -139,7 +139,6 @@ https://t.me/proxy?server=150.241.68.217&port=443&secret=d58f4e5985c8e84d72fa59a
 https://t.me/proxy?server=109.236.50.155&port=443&secret=ee7777772e676f6f676c652e636f6db0
 https://t.me/proxy?server=subs-sosavpn.com&port=443&secret=c2a82a5b5a3dcb7d26822b794f9c419c
 tg://proxy?server=saturnlink.space&port=443&secret=eea85f2776cc83dbff66b440fb03050cf773617475726e6c696e6b2e7370616365
-https://t.me/proxy?server=77.238.251.205&port=8443&secret=dd54bee7b42b9df58276bc326fece52705
 https://t.me/proxy?server=proxy.komaruvpn.com&port=8443&secret=228994e9822a1e7326ca5c3be9f051e6
 https://t.me/proxy?server=95.85.249.142&port=443&secret=bf9f2d60e8d4ca1b376a71ea5400c7d2
 https://t.me/proxy?server=5.75.218.189&port=8443&secret=dd104462821249bd7ac519130220c25d09
@@ -510,6 +509,7 @@ https://t.me/proxy?server=81.90.25.57&port=443&secret=2b861a9d646551532a86c0de2d
 tg://proxy?server=vavan.xyz&port=443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=Shoting.forwarding-co.site.&port=44300&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=138.201.54.122&port=443&secret=7gnbgVptgqMf2nb4ciMMaddwa2didWlsZC5vcmc&@zibanabz
+https://t.me/proxy?server=77.238.251.205&port=8443&secret=dd54bee7b42b9df58276bc326fece52705
 tg://proxy?server=91.107.182.200&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=168.222.254.22&port=443&secret=9fef5b805123f9e10620fa0e6ece8a0e
 tg://proxy?server=45.32.149.231&port=443&secret=423760ac85fafc63265c3195c671ebf7
