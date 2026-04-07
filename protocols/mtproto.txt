@@ -175,7 +175,6 @@ tg://proxy?server=proxlet.site&port=443&secret=8d969eef6ecad3c29a3a629280e686cf
 https://t.me/proxy?server=hfhs34cx.helpervpn.club&port=443&secret=ee2044a4384143152ca4794bbf8a988340647567776579722e706978656c7265616c6d2e73686f70
 tg://proxy?server=api-fr2.eventcalendar.vip&port=443&secret=7kIwe1EPm6RkUMwb2paPzz13d3cuZ29vZ2xlLmNvbQ
 tg://proxy?server=138.201.54.122&port=443&secret=7gnbgVptgqMf2nb4ciMMaddwa2didWlsZC5vcmc
-tg://proxy?server=weblog.forwarding-co.site&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=5.78.190.71&port=4455&secret=ddbe3f0adb4ae53a594fd5fec4dd00287f#
 tg://proxy?server=yas.hostserver17.ir&port=720&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=freedom-vpn.lat&port=443&secret=7pHoYvZkGmXOej2wPeAhts9jbG91ZGZsYXJlLmNvbQ
@@ -275,6 +274,7 @@ tg://proxy?server=mtproto.proproxies.pro&port=8443&secret=ee8e60f2fe61cf363f9ed0
 tg://proxy?server=95.179.152.29&port=443&secret=3b6989c4974ba7fc9b1d3e00f3eed276
 tg://proxy?server=tg.yspro.ru&port=8443&secret=ee34839fb6eb12dcf2189b64694f310483676f6f676c652e636f6d
 tg://proxy?server=68.209.58.49&port=443&secret=7q1PwcoEdQosw0KQXuEEh31wZXRyb3ZpY2gucnU
+tg://proxy?server=weblog.forwarding-co.site&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 https://t.me/proxy?server=107.150.34.100&port=443&secret=7gnbgVptgqMf2nb4ciMMaddwa2didWlsZC5vcmc
 https://t.me/proxy?server=104.167.199.41&port=5&secret=111111111111111110000w
 https://t.me/proxy?server=144.31.136.0&port=59877&secret=ddb62d12eb3a9c875d04c730aa81c87f8b
