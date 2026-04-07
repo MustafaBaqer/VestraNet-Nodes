@@ -349,7 +349,7 @@ tg://proxy?server=2.144.23.250&port=4433&secret=7gnbgVptgqMf2nb4ciMMaddwa2didWls
 tg://proxy?server=vavan.online&port=443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=65.109.16.139&port=443&secret=dd104462821249bd7ac519130220c25d09****
 tg://proxy?server=95.217.28.246&port=443&secret=dd104462821249bd7ac519130220c25d09
-tg://proxy?server=rup.digi-srkshop.sbs&port=59818&secret=ee09db815a6d82a31fda76f872230c69d7706b676275696c642e6f7267
+tg://proxy?server=rup.digi-srkshop.sbs&port=59633&secret=ee09db815a6d82a31fda76f872230c69d7706b676275696c642e6f7267
 tg://proxy?server=rup.digi-srkshop.sbs&port=59579&secret=ee09db815a6d82a31fda76f872230c69d7706b676275696c642e6f7267
 tg://proxy?server=13.63.160.17&port=80&secret=dd104462821249bd7ac51130220c25d09
 tg://proxy?server=95.216.178.41&port=8443&secret=dd104462821249bd7ac519130220c25d09
@@ -769,7 +769,7 @@ tg://proxy?server=85.198.86.133&port=443&secret=4d6e0dc790b03a679a5bfb315de49b18
 tg://proxy?server=45.32.220.16&port=443&secret=8cf228ee2801790b0c9d144efc08a56f
 tg://proxy?server=proxy.komaruvpn.com&port=8443&secret=228994e9822a1e7326ca5c3be9f051e6
 tg://proxy?server=46.21.81.198&port=7443&secret=e0c3fa844cc8b971f9c86bee03f2c34a
-tg://proxy?server=rup.digi-srkshop.sbs&port=59633&secret=ee09db815a6d82a31fda76f872230c69d7706b676275696c642e6f7267
+tg://proxy?server=rup.digi-srkshop.sbs&port=59818&secret=ee09db815a6d82a31fda76f872230c69d7706b676275696c642e6f7267
 tg://proxy?server=proxy2.21freedom.net&port=443&secret=6e7f2b10a1bc3738692d619ba3df3b7f
 tg://proxy?server=146.185.243.42&port=443&secret=137b5ff6e2d9e9efd467c2da4d1bff2b
 tg://proxy?server=94.228.168.30&port=443&secret=ee8383301585e1f78b055c64165c824cad676f2e73616d706f2e7275
