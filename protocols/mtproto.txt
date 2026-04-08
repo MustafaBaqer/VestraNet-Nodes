@@ -848,5 +848,3 @@ tg://proxy?server=rup.digi-srkshop.sbs&port=47535&secret=ee09db815a6d82a31fda76f
 tg://proxy?server=rup.digi-srkshop.sbs&port=47496&secret=ee09db815a6d82a31fda76f872230c69d7706b676275696c642e6f7267
 tg://proxy?server=rup.digi-srkshop.sbs&port=47992&secret=ee09db815a6d82a31fda76f872230c69d7706b676275696c642e6f7267
 tg://proxy?server=rup.digi-srkshop.sbs&port=46942&secret=ee09db815a6d82a31fda76f872230c69d7706b676275696c642e6f7267
-tg://proxy?server=rup.digi-srkshop.sbs&port=48543&secret=ee09db815a6d82a31fda76f872230c69d7706b676275696c642e6f7267
-tg://proxy?server=rup.digi-srkshop.sbs&port=48247&secret=ee09db815a6d82a31fda76f872230c69d7706b676275696c642e6f7267
