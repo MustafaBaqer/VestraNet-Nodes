@@ -576,9 +576,9 @@ tg://proxy?server=207.180.195.37&port=443&secret=eedfa08dad56087f585c3948423aba9
 tg://proxy?server=80.249.131.53&port=3232&secret=dd3e0848dc48c09f0a8731af8c088fc5f5
 tg://proxy?server=190.2.144.63&port=443&secret=eea3c15217ac9f487f3a9c2a1cab661ebb7777772e676f6f676c652e636f6d
 tg://proxy?server=212.233.89.91&port=443&secret=ddf4b54d805ffeff430be106aa80d94f7f
-tg://proxy?server=109.122.196.48&port=443&secret=ed103e361e8f98572ec11071e45a5e8e
 tg://proxy?server=charlie.freetelega.me&port=8443&secret=eec2eec77016252e334767f27d5b208fb27265672e7275
 tg://proxy?server=tg.nurvpn.de&port=443&secret=f4b54d805ffeff430be106aa80d94f7f
+tg://proxy?server=109.122.196.48&port=443&secret=ed103e361e8f98572ec11071e45a5e8e
 tg://proxy?server=66.135.2.114&port=443&secret=bbdd3ba2140d7a4de7fe4f38d08d4d28
 tg://proxy?server=45.76.19.217&port=443&secret=e580c361c040d829673962536b44fe52
 tg://proxy?server=176.108.242.30&port=443&secret=dd7c5d4e1f2a3b9c8d7e6f5a4b3c2d1e0f
