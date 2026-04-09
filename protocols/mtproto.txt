@@ -240,7 +240,6 @@ https://t.me/proxy?server=95.217.185.218&port=8080&secret=ProxyQavi____Proxymelg
 https://t.me/proxy?server=65.109.255.80&port=8080&secret=ProxyQavi____ProxymelgACM4eFlnUldQOFpvTHVwZmNpaVI2ZkJFNDJMSXJxUW1yT2s4YzRCaVRaLi11cGRhdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 https://t.me/proxy?server=65.109.245.20&port=8080&secret=ProxyQavi____ProxymelgACM4eFlnUldQOFpvTHVwZmNpaVI2ZkJFNDJMSXJxUW1yT2s4YzRCaVRaLi11cGRhdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 https://t.me/proxy?server=172.65.102.115&port=22&secret=dd79e344818749bd7ac519130220c25d09
-tg://proxy?server=142.132.232.226&port=4455&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=172.65.117.172&port=22&secret=dd79e344818749bd7ac519130220c25d09
 https://t.me/proxy?server=www.careemian.info&port=2083&secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d
 https://t.me/proxy?server=www.roto-best.info&port=2083&secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d
@@ -809,6 +808,7 @@ https://t.me/proxy?server=mt.hq-vpn.com&port=8443&secret=dd77870ef8bdf3625b6eb08
 tg://proxy?server=prosto.regavo.sbs&port=443&secret=ee79612e72756039543b96de91e27fed
 tg://proxy?server=195.254.165.253&port=25565&secret=dd79e344818749bd7ac519130220c25d09https://t.me/socks?server=185.121.131.11
 tg://proxy?server=order-development.edlar.ru&port=444&secret=7irtnW2eVmrXa7Q3VPhp
+tg://proxy?server=142.132.232.226&port=4455&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=91.107.174.85&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=158.220.115.52&port=443&secret=ee70a7cdefd71ce8402a97d26a8115b23c636c6f7564666c6172652e636f6d
 tg://proxy?server=158.220.114.142&port=443&secret=ee35514a03f74ead2efe8d09c76650b72e636c6f7564666c6172652e636f6d
