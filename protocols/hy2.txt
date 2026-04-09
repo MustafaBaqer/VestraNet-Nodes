@@ -1,7 +1,6 @@
 hy2://62b7824e-47dc-11ef-9f2d-f23c9164ca5d@WangCai.hk1.hyhuawei.com:443/?insecure=1&sni=WangCai.hk1.hyhuawei.com#🇭🇰HK_@WangCai_8
 hy2://dongtaiwang.com@2001:bc8:32d7:302::11:443?sni=apple.com#%F0%9F%8F%8614%40oneclickvpnkeys
 hy2://c1785de0-212f-11ef-92aa-f23c9164ca5d@wangcai.hk1.hyhuawei.com:443?sni=WangCai.hk1.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0HK_%40WangCai_8
-hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?sni=api.kermanshahi.org&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%3A%20Free_VPN_CH%40%20%232
 hy2://rstnnl@reddeadfan.rd-team.ru:443?sni=reddeadfan.rd-team.ru&obfs=salamander&obfs-password=FxZylbqClUqVqAs2nezW9kPyFb2edZ2#%F0%9F%8F%8641%40oneclickvpnkeys
 hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?sni=api.kermanshahi.org%40freenettir&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%3A%20Free_VPN_CH%40%20%233
 hy2://c1785de0-212f-11ef-92aa-f23c9164ca5d@WangCai.hk1.hyhuawei.com:443/?insecure=1&sni=WangCai.hk1.hyhuawei.com#🇭🇰HK_@WangCai_8
@@ -21,3 +20,4 @@ hy2://Telegram--
 hy2://hysteria2_fastlane_bi5ckyc9g@144.31.118.145:443?sni=de8.h.fastlanehosting.ru#%F0%9F%A7%AB35%40oneclickvpnkeys
 hy2://zhangyang@130.61.50.75:6443?sni=dash.cloudflare.com#%F0%9F%A7%AB1%40oneclickvpnkeys
 hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?sni=api.kermanshahi.org&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%3A%20Free_VPN_CH%40%20%231
+hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?sni=api.kermanshahi.org&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%3A%20Free_VPN_CH%40%20%232
