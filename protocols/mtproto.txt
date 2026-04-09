@@ -1,4 +1,3 @@
-tg://proxy?server=rup.digi-srkshop.sbs&port=47924&secret=ee09db815a6d82a31fda76f872230c69d7706b676275696c642e6f7267
 https://t.me/proxy?server=91.107.189.181&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=138.199.231.66&port=443&secret=7gnbgVp
 tg://proxy?server=he.67.mtproto.ru&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d
@@ -25,8 +24,6 @@ https://t.me/proxy?server=144.31.230.217&port=443&secret=33d73370103ea05acd9418e
 tg://proxy?server=XB1YN.MTP.IPSENTER.NET&port=443&secret=ee18b60b291a8043f7834790af2cc028c4676f6f676c652e636f6d
 tg://proxy?server=107.150.34.102&port=443&secret=7gnbgVptgqMf2nb4ciMMaddwa2didWlsZC5vcmc
 tg://proxy?server=77.72.80.103&port=25565&secret=dd79e344818749bd7ac519130220c25d09
-tg://proxy?server=rup.digi-srkshop.sbs&port=47030&secret=ee09db815a6d82a31fda76f872230c69d7706b676275696c642e6f7267
-tg://proxy?server=149.120.147.178&port=443&secret=ee6719f637173dc2276468b703e739f00e7777772e62696e672e636f6d
 tg://proxy?server=2.26.49.67&port=443&secret=7rU9E1tT2zwV_sJcPyOOLcdwZXRyb3ZpY2gucnU
 tg://proxy?server=45.63.0.10&port=443&secret=27b923acc5a2a7cc7192782069d88d6f
 tg://proxy?server=rup.digi-srkshop.sbs&port=47748&secret=ee09db815a6d82a31fda76f872230c69d7706b676275696c642e6f7267
@@ -36,6 +33,7 @@ tg://proxy?server=rup.digi-srkshop.sbs&port=47175&secret=ee09db815a6d82a31fda76f
 tg://proxy?server=rup.digi-srkshop.sbs&port=48179&secret=ee09db815a6d82a31fda76f872230c69d7706b676275696c642e6f7267
 tg://proxy?server=rup.digi-srkshop.sbs&port=47504&secret=ee09db815a6d82a31fda76f872230c69d7706b676275696c642e6f7267
 tg://proxy?server=rup.digi-srkshop.sbs&port=48321&secret=ee09db815a6d82a31fda76f872230c69d7706b676275696c642e6f7267
+tg://proxy?server=rup.digi-srkshop.sbs&port=47924&secret=ee09db815a6d82a31fda76f872230c69d7706b676275696c642e6f7267
 https://t.me/proxy?server=168.222.254.23&port=443&secret=a6246e1e4dcf0e9167f48431a7cf590a
 tg://proxy?server=49.13.136.242&port=443&secret=dd104462821249bd7ac519130220c25d09](
 tg://proxy?server=204.168.176.214&port=443&secret=dd104462821249bd7ac519130220c25d09
