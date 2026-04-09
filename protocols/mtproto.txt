@@ -24,7 +24,6 @@ tg://proxy?server=77.72.80.103&port=25565&secret=dd79e344818749bd7ac519130220c25
 tg://proxy?server=XB1YN.MTP.IPSENTER.NET&port=443&secret=ee18b60b291a8043f7834790af2cc028c4676f6f676c652e636f6d
 tg://proxy?server=107.150.34.102&port=443&secret=7gnbgVptgqMf2nb4ciMMaddwa2didWlsZC5vcmc
 tg://proxy?server=rup.digi-srkshop.sbs&port=47648&secret=ee09db815a6d82a31fda76f872230c69d7706b676275696c642e6f7267
-tg://proxy?server=rup.digi-srkshop.sbs&port=48544&secret=ee09db815a6d82a31fda76f872230c69d7706b676275696c642e6f7267
 https://t.me/proxy?server=91.107.189.181&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=168.222.254.23&port=443&secret=a6246e1e4dcf0e9167f48431a7cf590a
 tg://proxy?server=49.13.136.242&port=443&secret=dd104462821249bd7ac519130220c25d09](
