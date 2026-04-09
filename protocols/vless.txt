@@ -421,6 +421,8 @@ vless://d1209ffb-c159-48d5-b40d-542ce11fc768@5rp8xz.maps-yandex.com:10121?securi
 vless://ca0e8520-42cd-49db-cfec-1295834b9e21@47.82.1.12:59100?type=tcp&security=none&encryption=none#🇸🇬[openproxylist.com]
 vless://c3d4e5f6-7890-1234-5678-90abcdef1234@vpn3.rnmcnm.com:443?encryption=none&security=tls&type=ws&path=/ray#🇭🇰[openproxylist.com]
 vless://3c982e8b-b0da-4254-9287-80d2fcd136a3@185.5.38.111:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.hollywoodreporter.com&fp=chrome&security=reality&pbk=NiZvpTYGynbH6RueETAVgkj2XfxoIPiNNoZtQfpQPj8&sid=5a16e7375299#🦹‍♂️3@oneclickvpnkeys
+vless://a5e746f7-328f-4b65-a65f-e2e2a4a5b1a9@212.34.142.191:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=wNcFqVd4_PkgJbfgJJeouSU6Pn_Swuce4q4Chw5T0hY&security=reality&sid=f7aa9e61197d3ac6&sni=tradingview.com&type=tcp#🇳🇱[openproxylist.com]
+vless://c67f81df-34e8-4cb3-ab43-599585775fa9@der.jojack.ru:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=xpv3OgIQ4ND_ZaiLxjHk1JsykVAVUY73UkyxPlU8Clc&security=reality&sid=695f0df252f9889d&sni=
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@209.102.207.120:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#🇺🇸
 vless://1353db92-5d59-4ef5-88a9-b072735b0775@5.42.97.143:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=max.ru&pbk=TGCn_54sGMSXxlj9IpG8NCcxUlqBrUDzt-5vNwYNXhU&sid=b2a6e3d42f05c3d1&spx=/#🇷🇺
 vless://1353db92-5d59-4ef5-88a9-b072735b0775@89.208.87.108:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=max.ru&pbk=WWA4FL9fWO0sy41E-fciX6ZTKUL4U2MxhpXJs9jPQ2I&sid=b2a6e3d42f05c3d1&spx=/#🇷🇺
@@ -2585,7 +2587,6 @@ vless://a0b067ac-162d-4237-956d-10b8b471d3f5@54.37.75.187:443?encryption=none&fl
 vless://07beb949-29e9-473b-a80f-bbd3821f184a@91.222.239.220:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=max.ru&pbk=hBksFtUwQ8MuLktgsxBvfGvguoYQYjd1hyNHZGMMAUY#🇷🇺
 vless://12e13585-e499-42ed-b735-0e3ad6f97f94@82.202.159.110:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=205748bc0f24a747#🇷🇺
 vless://e88a5233-df74-44e6-aed3-8e531d23040f@87.120.107.5:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=WGSlTh3W0HVMki0WMsWmIyULWsZMCLp8SSY0LXoU6Gc&security=reality&sid=0ea0cbac5d169594&sni=dist.apache.org&type=tcp#🧸34@oneclickvpnkeys
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=%2Fhttp%23Telegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=google.com&type=ws#@meli_proxyy
 vless://6897c181-24b1-4880-8660-e6c5c7ee13c7@92.60.78.221:443?security=reality&encryption=none&pbk=pkIWxbuPAasjatPaHnAaTnCxVj1RkDFsJEWpLUTOcWY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tradingview.com&sid=9917d2350096#@cllubvpn
 vless://de7dae5a-f817-4c80-9543-ff9b8a4fd035@152.53.135.159:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=us.reality.tv123.ru&type=tcp#🕊️99@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.153.231:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%F0%9F%9B%A1%20V%2081%20%40Outline_Vpn
@@ -3909,3 +3910,4 @@ vless://3f58cc47-94f6-40d3-8797-1ce66cb0555e@188.114.98.0:2087?path=/?ed=2048&se
 vless://405ba2d6-7fcb-4cdd-9c77-4ecc616d77c8@93.94.51.210:443?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=deu549.worldbypass.org&type=tcp#
 vless://42fc15d6-1eed-4013-a4c9-3e77915fb817@152.89.244.195:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=tradingview.com&pbk=4gcDJumxa0bTaHvrZRL4Hb5ItXPha6ZYZ0fGmMD_k0A&sid=1afc9d750da1ba88#
 vless://42fc15d6-1eed-4013-a4c9-3e77915fb817@152.89.244.201:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=tradingview.com&pbk=4gcDJumxa0bTaHvrZRL4Hb5ItXPha6ZYZ0fGmMD_k0A&sid=1afc9d750da1ba88#
+vless://13c1bcd5-71c0-0bb8-8972-d4da5c0f3c8a@212.193.156.236:443?encryption=none&type=ws&security=tls&path=//&host=lk-cdn.deploy-assure.ru&fp=chrome&sni=lk-cdn.deploy-assure.ru&alpn=h2,http/1.1#
