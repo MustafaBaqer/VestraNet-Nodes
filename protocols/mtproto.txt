@@ -575,6 +575,7 @@ tg://proxy?server=207.180.195.37&port=443&secret=eedfa08dad56087f585c3948423aba9
 tg://proxy?server=80.249.131.53&port=3232&secret=dd3e0848dc48c09f0a8731af8c088fc5f5
 tg://proxy?server=190.2.144.63&port=443&secret=eea3c15217ac9f487f3a9c2a1cab661ebb7777772e676f6f676c652e636f6d
 tg://proxy?server=212.233.89.91&port=443&secret=ddf4b54d805ffeff430be106aa80d94f7f
+tg://proxy?server=109.122.196.48&port=443&secret=ed103e361e8f98572ec11071e45a5e8e
 tg://proxy?server=charlie.freetelega.me&port=8443&secret=eec2eec77016252e334767f27d5b208fb27265672e7275
 tg://proxy?server=tg.nurvpn.de&port=443&secret=f4b54d805ffeff430be106aa80d94f7f
 tg://proxy?server=66.135.2.114&port=443&secret=bbdd3ba2140d7a4de7fe4f38d08d4d28
@@ -873,7 +874,6 @@ https://t.me/proxy?server=proxytop.space&port=443&secret=7d793037a0760186574b028
 https://t.me/proxy?server=prxygo.shop&port=443&secret=48181acd22b3edaebc8a447868a7dfcb
 https://t.me/proxy?server=195.254.165.208&port=4455&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6
 https://t.me/proxy?server=kelly.proxyprosto.sbs&port=443&secret=ee79612e72756039543b96de91e27fed
-tg://proxy?server=109.122.196.48&port=443&secret=ed103e361e8f98572ec11071e45a5e8e
 tg://proxy?server=65.109.209.230&port=8443&secret=FgMBAgABAAH8AxOG4kw63Q==
 tg://proxy?server=65.109.212.63&port=8443&secret=FgMBAgABAAH8AxOG4kw63Q==
 tg://proxy?server=yas.hostserver17.ir&port=720&secret=eeNEgYdJvXrFGRMCIMJdCQ==
