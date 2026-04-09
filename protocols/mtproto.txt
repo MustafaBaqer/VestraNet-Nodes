@@ -117,8 +117,8 @@ tg://proxy?server=109.196.100.155&port=443&secret=ee41b666d84166bc6a8c6312498b55
 tg://proxy?server=95.179.209.62&port=443&secret=ee141abb4d84cd9487e359caea13e460
 https://t.me/proxy?server=mt.akenai.click&port=1337&secret=dda2d3fa639a6ddcf8d6d1c5913d001531
 https://t.me/proxy?server=94.103.83.193&port=443&secret=eee1627df97d2380c6fcd8a8934ba6ae606d61696c2e7275
-https://t.me/proxy?server=49.13.136.242&port=443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=37.139.42.140&port=443&secret=f5199e949c0f23bc887581218ad8c1e6
+https://t.me/proxy?server=49.13.136.242&port=443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=vaslshid.co.uk&port=85&secret=FgMBAgABAAH8AxOG4kw63Q%3D%3D
 tg://proxy?server=137.220.50.226&port=443&secret=6c182cbbbf33f63a25a469826b42e2ea
 https://t.me/proxy?server=mtproto.eu&port=443&secret=eebd22cd34081c9420e8515a153186e63273647a74656c65636f6d2e726f

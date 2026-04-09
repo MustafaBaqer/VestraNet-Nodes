@@ -2398,7 +2398,6 @@ trojan://BvzUvt45hON9We5X9wM6I9ZrxHRcYd46QK@216.238.102.254:26593?security=tls&s
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HrPCfh6cgR0Loi7Hlm70obWliZWk3Ny5jb20g57Gz6LSd6IqC54K55YiG5LqrKSIsImFkZCI6IjgyLjE5OC4yNDYuOTciLCJwb3J0IjoiMTgwIiwidHlwZSI6Im5vbmUiLCJpZCI6ImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiZWQ9MjA0OCIsImhvc3QiOiI4Mi4xOTguMjQ2Ljk3IiwidGxzIjoiIn0=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@nbmrcg0034305hx.cybervena.com:50099#🇹🇼[openproxylist.com]
 vless://6897c181-24b1-4880-8660-e6c5c7ee13c7@92.60.78.221:443?security=reality&encryption=none&pbk=pkIWxbuPAasjatPaHnAaTnCxVj1RkDFsJEWpLUTOcWY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tradingview.com&sid=9917d2350096#[🇫🇮]t.me/ConfigsHub
-https://t.me/proxy?server=49.13.136.242&port=443&secret=dd104462821249bd7ac519130220c25d09
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@114.35.191.123:50099#%F0%9F%87%B9%F0%9F%87%BCTW-114.35.191.123-0258
 vless://31b5bfd1-a54b-448d-aec7-a35e6d67aa0f@83.166.234.77:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=api-maps.yandex.ru&pbk=7cLaPUUKcWjTMasCAp_kMwWgqi0_tvczCjf4D8nSAW8&spx=/#🇷🇺
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@nbmrcg003507ck6.cybervena.com:50099#🇹🇼[openproxylist.com]
@@ -2413,6 +2412,7 @@ tg://proxy?server=37.139.42.140&port=443&secret=f5199e949c0f23bc887581218ad8c1e6
 trojan://hCjWaBe5vTkewfiljOL=9FS9DYg0c09c.t@81.29.149.212:18390?sni=osl8.solidly.click#🏆61@oneclickvpnkeys
 vless://f17d4129-ee8b-48f4-baa6-89de1e906b8e@45.152.113.189:4440?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=files.moscownews24.ru&type=tcp#🏆68@oneclickvpnkeys
 trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@194.87.10.31:23357?sni=sgp9.node-resource.click#🏆62@oneclickvpnkeys
+https://t.me/proxy?server=49.13.136.242&port=443&secret=dd104462821249bd7ac519130220c25d09
 vless://051a7ea0-11f4-41bb-8b1b-206761e0640f@46.30.45.21:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=nlx1.braidpro.online&pbk=VEqQGFzn-jOPYzo85IPa0139OjCRvVA_puhKogsYimM&sid=ae6775f14ccefa03#🇳🇱
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4W29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1VUyIsImFkZCI6IjE3Mi4yMzMuMjI5LjkxIiwicG9ydCI6IjE0MTAyIiwiaWQiOiIyN2JhODdmYy01ODNmLTQ3NjMtOTA2MC04M2NmMGI5MjY0ZGIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiI5Iiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
 trojan://WwipNOSqUh49CEapMmIrv6m6AZLf-EC0+T@104.238.162.6:13109?sni=ord2.edge-command.click#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD15%2048.0MB%2Fs
@@ -5941,7 +5941,6 @@ trojan://hCjWaBe5vTkewfiljOL=9FS9DYg0c09c.t@81.29.149.201:18390?sni=osl7.solidly
 ssr://Y2RuMDIuMDgyMS5tZWl0dWFuODguY29tOjYxMTQ6YXV0aF9hZXMxMjhfbWQ1OmNoYWNoYTIwLWlldGY6cGxhaW46WkdreE5WQlcvP29iZnNwYXJhbT1NekZrTkRFeU56VTNMbVJ2ZFhscGJpNWpiMjAlM0QmcmVtYXJrcz04SiUyQkhyZkNmaDdCSVN5MDBNeTR5TlRVdU1URTVMakl4TFRRM09UWSUzRCZwcm90b3BhcmFtPQ==
 tg://proxy?server=149.28.211.184&port=443&secret=188d375951009db9ee4278002393cb3c
 tg://proxy?server=de1.kael.fuckrkn.net&port=443&secret=ee1a499af9a7a18282da82e30714402e157777772e6165726f666c6f742e7275
-trojan://M08tvzYWtUEJNtbpHp@nl-4.tr202512.com:443?security=tls&sni=nl-4.tr202512.com#%F0%9F%87%B3%F0%9F%87%B1NL-194.124.216.190-0167
 tg://proxy?server=96.30.197.251&port=443&secret=723c9d20b75ccfcd778a5eae9141c251
 tg://proxy?server=90.156.150.59&port=443&secret=9a327c9c52a366e306fd74d617de517d
 tg://proxy?server=188.245.230.190&port=443&secret=DD1603010200010001FC030386E24C3ADD
@@ -5949,6 +5948,7 @@ vmess://ewogICAgImFkZCI6ICIxMDMuMjI5LjEyNC4zIiwKICAgICJhaWQiOiAwLAogICAgImhvc3Qi
 tg://proxy?server=85.198.99.185&port=8443&secret=dd28df1727029aed45d15f3a44d31e7e20
 tg://proxy?server=he.de-fa.1.mtproto.ru&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d
 tg://proxy?server=82.152.162.20&port=10004&secret=ee548593a9c0688f4f7d9d57377897d964636c6f7564666c6172652e636f6d
+trojan://M08tvzYWtUEJNtbpHp@nl-4.tr202512.com:443?security=tls&sni=nl-4.tr202512.com#%F0%9F%87%B3%F0%9F%87%B1NL-194.124.216.190-0167
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HrPCfh6dHQuiLseWbvTQgMS4yTUIvcyIsImFkZCI6IjgyLjE5OC4yNDYuMjUwIiwicG9ydCI6IjE4MCIsImlkIjoiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiR0Loi7Hlm700In0=
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMjcgNDkuNU1CL3MiLCJhZGQiOiIxNjUuMTQwLjIxNi4xNDEiLCJwb3J0IjoiNDQzIiwiaWQiOiJlN2Q3MmE4ZC0yNmYyLTRiNTQtYjM2Ni0wYzQzZTBiY2JhN2QiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIyNyJ9
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMjkgODg2LjNLQi9zIiwiYWRkIjoicHEtaHVuZ2FyeTEuMDl2cG4uY29tIiwicG9ydCI6IjgwIiwiaWQiOiI3MDNmNzIyYS00YmRmLTRlOWQtOWFmZC1hNjgxZmRmODdjNzQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiIiLCJwYXRoIjoiL3ZtZXNzLyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjI5In0=
