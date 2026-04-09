@@ -1612,6 +1612,7 @@ vless://9bde09b3-09b5-4d7a-b5fd-3fae8dfeed5a@185.72.9.200:56126?encryption=none&
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.47.12:2053?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#🇩🇪
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.238.228.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&path=%2F&security=tls&sni=sni.jpmj.dev&type=ws#%F0%9F%91%BB7@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@54.36.98.4:2053?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.indevs.in&path=/?Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2=&security=tls&sni=sni.111000.indevs.in&type=ws#🇫🇷
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.49.1:23576?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#☮️2@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@saas.sin.fan:443?allowInsecure=1&alpn=http/1.1&encryption=none&host=sni.111000.dynv6.net&path=/?proxyip=ip.111000.de5.net:443&security=tls&sni=sni.111000.dynv6.net&type=ws#🇸🇬[openproxylist.com]
 vless://6053689d-39d6-4005-b1bd-c0dce854f429@84.21.189.25:443?allowInsecure=1&alpn=h2&encryption=none&flow=xtls-rprx-vision&security=tls&sni=de-fast.chunkyvpn.shop&type=tcp#👽11@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.63.149:8443?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%91%BB26@oneclickvpnkeys
@@ -2834,7 +2835,6 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.75.23.173:8443?allowInsecure=1&e
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.91.252.61:8443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#🇫🇷
 vless://a02e0f63-d96e-4b0f-8270-56c28caef171@51.158.151.24:31727?security=none&encryption=none&headerType=none&type=tcp
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@162.159.36.5:443?allowInsecure=1&encryption=none&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AXX
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.49.1:23576?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#☮️2@oneclickvpnkeys
 vless://d08a63e7-dbea-4a36-a239-9f0b37a46b40@2.27.121.28:64000?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=dlBsx7pNsGbUWcVaeIiXqPs4s8sENsJRzPGnsZ8CH0Q&security=reality&sid=cbfdda0fad80decc&sni=notion.so&type=tcp#%F0%9F%A7%AB7@oneclickvpnkeys
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@vip2.kaixincloud.top:443?allowInsecure=1&encryption=none&host=terazhediii.info&path=%2Fsghiyws&security=tls&sni=terazhediii.info&type=ws#🏳[openproxylist.com]
 vless://cef12ad2-fb16-4ace-ab26-2a026d40a7d2@144.31.74.41:8443?encryption=none&security=reality&sni=sun6-21.userapi.com&fp=chrome&pbk=LB2i67ErtJPlIIDeDHlGvSip6-qPJLH9HzYju5fZ32c&sid=2916&type=grpc#🇩🇪[openproxylist.com]
