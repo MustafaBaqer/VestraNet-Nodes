@@ -892,14 +892,18 @@ https://t.me/proxy?server=free.euthanasia.website&port=443&secret=7iNz/L4bCOGfao
 https://t.me/proxy?server=46.52.232.233&port=7997&secret=eefb411605ed6c699374aeb32f4db7b9ed626979736b32322e7275
 https://t.me/proxy?server=2.27.21.235&port=443&secret=ee636c6f7564666c6172652e636f6d02
 tg://proxy?server=tg.nosokvpn.com&port=443&secret=118fb8496cb1abb9cd6e0fbe1000ad92
+https://t.me/proxy?server=mt.white-bars.ru&port=8443&secret=12da224b61c3662bcda2294414b5eda9
 tg://proxy?server=149.120.147.236&port=443&secret=ee6719f637173dc2276468b703e739f00e7777772e62696e672e636f6d
+https://t.me/proxy?server=tggo.store&port=443&secret=7uzWmAwONp7D1ujd83Bwkr50Z2dvLnN0b3Jl
 tg://proxy?server=1.evoevoevo.com&port=443&secret=59ecc03bfbc542556d7ea2919d688663
 tg://proxy?server=catholicity.gravely.pudgy.relaxed.scatterer.superpinoy.net&port=2400&secret=c6e97411bd2f36aead173ff1b945c91e
 tg://proxy?server=tg.hellohiro.ru&port=8443&secret=dd973e178b06e6b204a3f6d8044dda69c7
 tg://proxy?server=tg.alabalainds.xyz&port=9443&secret=0867e1b95cc9aa87049f7d68fa83760d
 tg://proxy?server=185.100.157.137&port=1488&secret=039bce408d88478d679656d4845f4842
+https://t.me/proxy?server=tg.belka.network&port=443&secret=107cb7c1a3e23228d9e45226a2ac0785
 tg://proxy?server=2.27.40.0&port=443&secret=ee766b2e7275b7ff72d10a21023b28a1
 tg://proxy?server=2.26.97.0&port=8443&secret=f5a96ceadd1bbedd719fbd7f1c9387dd
+https://t.me/proxy?server=network.enotfast.com&port=8443&secret=1cd3c5be511d2b18516ec472e6fc37b8
 tg://proxy?server=obxod2.vpnforum.ru&port=443&secret=bf9f2d60e8d4ca1b376a71ea5400c7d2
 tg://proxy?server=167.86.111.159&port=443&secret=eedfcbaf8e3e3a24457729288b43bb3d3a636c6f7564666c6172652e636f6d
 tg://proxy?server=149.120.147.160&port=443&secret=ee6719f637173dc2276468b703e739f00e7777772e62696e672e636f6d
@@ -999,5 +1003,3 @@ tg://proxy?server=149.120.147.181&port=443&secret=ee6719f637173dc2276468b703e739
 tg://proxy?server=193.56.135.175&port=8444&secret=8fc96e03442ce4ba27541def4e9b6ac6
 tg://proxy?server=185.28.173.55&port=8443&secret=ee61ac82d49fe39155531648d20e0c20517362657262616e6b2e7275
 tg://proxy?server=217.177.34.139&port=443&secret=dd69e899d89ec68e220ca177557322b27f
-https://t.me/proxy?server=mt.jebance.ru&port=8443&secret=dd28df1727029aed45d15f3a44d31e7e20&@vpnbaz
-https://t.me/proxy?server=5.78.190.71&port=4455&secret=ddbe3f0adb4ae53a594fd5fec4dd00287f&@vpnbaz
