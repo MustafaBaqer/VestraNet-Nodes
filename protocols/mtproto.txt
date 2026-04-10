@@ -379,7 +379,6 @@ tg://proxy?server=150.241.103.14&port=443&secret=eefdd54073b585423ac73f389d70fc3
 tg://proxy?server=proxy.jubaoku.com&port=8443&secret=2adab36179e7a39026adf74034615248
 tg://proxy?server=snail57teleconeettooweb56persploi6taiconsoleandroudios45iq.cydianewland.ir&port=2251&secret=7tgITt8otAHdAXdrCr1JFMhwbGF5Lmdvb2dsZS5jb20=)✓[Proxy](
 https://t.me/proxy?server=mirthb6ae-a2f8c311.proxytg.ink&port=443&secret=eec8142566b13717f23846aae67ca0ba686465627269732e6c6f63616c
-tg://proxy?server=89.110.94.195&port=443&secret=ee11ef21c835c607ad756cf0293524fc626d61696c2e7275
 https://t.me/proxy?server=88.198.142.208&port=443&@MTProtoTG&secret=eea3639b5555c7777d8888f1516e1e2fac494e5354414752414d2e464c4c4b312d372e464e412e464243444e2e4e4554&@MTProtoTG
 https://t.me/proxy?server=142.132.229.79&port=443&@MTProtoTG&secret=7tpqp8KsYZwGDzVfPxcyVzdzZWdtZW50LnByb2QuYmlkci5pbw&@MTProtoTG
 https://t.me/proxy?server=142.132.155.4&port=443&@MTProtoTG&secret=7gAAAAAAAAAAAAAAAAAAAABoZXJvLmJvcmRlbi5qYWMucmVzdW4uY28udWs&@MTProtoTG
@@ -978,6 +977,7 @@ tg://proxy?server=handbell.jude.meet.motoring.shake-up.watchpinoyteleserye.com&p
 tg://proxy?server=mt.gdetotam.com&port=443&secret=eec85ac17f6c6d48dc9efe7b1f0421da8f7777772e676f6f676c652e636f6d
 tg://proxy?server=155.133.23.254&port=443&secret=eee8277a17e556102934f361d7ca7fc87e636c6f7564666c6172652e636f6d
 tg://proxy?server=ru-02-proxy.duckdns.org&port=443&secret=dd49d04008260c313f6bdd9203dc6bb73f
+tg://proxy?server=89.110.94.195&port=443&secret=ee11ef21c835c607ad756cf0293524fc626d61696c2e7275
 tg://proxy?server=64.188.64.189&port=443&secret=b0834f5c52129b3de4fed01625bb8567
 https://t.me/proxy?server=tgobhod.lol&port=443&secret=1f66cebc6de568853ea5d965cd580ee2
 tg://proxy?server=217.76.51.63&port=8443&secret=ee3c699c57134bf3963fa562d5554d87e76b72797468616e6f2e636f6d
@@ -1001,3 +1001,9 @@ tg://proxy?server=bookbinder.carburetor.limber-up.pedagog.soccer.pinoyfilms.net&
 tg://proxy?server=mt.netaway.top&port=443&secret=eedacf2878fec7df714f2ab667014705b5636c6f7564666c6172652e636f6d
 tg://proxy?server=68.209.58.149&port=443&secret=7jFMSRrub9JuyovG5wb7BUJtYWlsLnJ1
 tg://proxy?server=cintiabot.duckdns.org&port=8443&secret=faec0dfe42eb966f1ebf85e262b9130e
+tg://proxy?server=ne.tudoy.ru&port=443&secret=ee3a07c7b344fbaff56ab9dcc114e269ae6e652e7475646f792e7275
+tg://proxy?server=95.217.25.41&port=35432&secret=ee104462821249bd7ac519130220c25d096d61782e7275
+tg://proxy?server=tor.krotmonstr.online&port=443&secret=eedded7190820caa75bc8d20cf9be339247777772e676f6f676c652e636f6d
+tg://proxy?server=159.89.5.21&port=8443&secret=686575b8d3e478c5ba3b7b6a60bbd225
+tg://proxy?server=45.83.130.23&port=3306&secret=eebd591391ebc6bfb7bbbf9276f38a2fc574656c65322e7275
+tg://proxy?server=tg.safepal.life&port=443&secret=ee7c5474451d78bb07ae047680e9de3d8079616e6465782e6e6574
