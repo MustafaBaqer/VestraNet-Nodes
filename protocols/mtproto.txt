@@ -13,8 +13,8 @@ https://t.me/proxy?server=138.201.204.218&port=443&secret=ee09db815a6d82a31fda76
 https://t.me/proxy?server=dedicated.love-internet.xyz&port=4515&secret=7umk8jsddowEqNfzkSDKW25iaXNjb3R0aS55ZWt0YW5ldC5jb20
 https://t.me/proxy?server=65.109.16.146&port=443&secret=dd104462821249bd7ac519130220c25d09&
 tg://proxy?server=92.118.230.101&port=443&secret=ee927b396a36e38dacad77d5c2b3e0def77777772e7068696c6970732e636f6d
-tg://proxy?server=proxytop.space&port=443&secret=7d793037a0760186574b0282f2f435e7
 tg://proxy?server=77.72.80.181&port=9443&secret=EERighJJvXrFGRMCIMJdCQ
+tg://proxy?server=proxytop.space&port=443&secret=7d793037a0760186574b0282f2f435e7
 https://t.me/proxy?server=5.78.190.71&port=4455&secret=ddbe3f0adb4ae53a594fd5fec4dd00287f
 https://t.me/proxy?server=dowd.sportsmanship.steeplechaser.thy.urceolate.kapitoshka.info&port=15417&secret=d6db8ab62ff9b9f70f6ca15ccb98c222
 tg://proxy?server=89.124.64.13&port=443&secret=ee17ae2b46d2b106af164facdd9d7472
@@ -78,7 +78,6 @@ tg://proxy?server=93.123.39.121&port=543&secret=dd2d8eb5718fe942a19ba03f4c3f5de1
 tg://proxy?server=89.117.62.68&port=443&secret=ee220ab8dd37da4f5e363c892a1968b9f6636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=62.182.197.26&port=443&secret=ee63f4406b12426f2151314e76a8ff11bf7777772e676f6f676c652e636f6d
 https://t.me/proxy?server=116.203.0.182&port=8443&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=free.FCKRKNBOT.COM&port=443&secret=ddf48f621b110f302e468756840c29f916
 tg://proxy?server=144.31.224.193&port=8443&secret=ee79612e7275229b5187e299cc6e8b20
 https://t.me/proxy?server=mtp.vsemvpn.cc&port=443&secret=dd15992ff6e054e6b06faab3689633355c
 tg://proxy?server=proxy.vpnusio.com&port=443&secret=db3502ea1525916350c563758d614434
@@ -377,6 +376,7 @@ tg://proxy?server=tumanpro.krotmonstr.online&port=443&secret=eeddffec89f799a1ab3
 tg://proxy?server=155.133.26.82&port=443&secret=ee6bb5d5b77515b3ec4fe6d1c558aa47a9636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=tg.magproxy.com&port=443&secret=eeb30fc4df699024f7a5dec0b0e66524b165682e766b2e636f6d
 tg://proxy?server=185.117.0.248&port=443&secret=eed451f808fd60ed2c45f11d38fdbc87c57961686f6f2e636f6d
+https://t.me/proxy?server=free.FCKRKNBOT.COM&port=443&secret=ddf48f621b110f302e468756840c29f916
 tg://proxy?server=81.90.21.194&port=6969&secret=ee89085aa60df67eec71cf4fd7c609a7c1617074656b612e7275
 tg://proxy?server=150.241.103.14&port=443&secret=eefdd54073b585423ac73f389d70fc38d073616e7465686e696b2d6e612d7673652d72796b692e6d6f6f6f2e636f6d
 tg://proxy?server=proxy.jubaoku.com&port=8443&secret=2adab36179e7a39026adf74034615248
