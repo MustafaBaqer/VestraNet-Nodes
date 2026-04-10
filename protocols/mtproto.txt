@@ -1,3 +1,4 @@
+tg://proxy?server=37.152.189.200&port=1656&secret=eeebb47459a29457964a3114d8f69e22dc7777772e676f6f676c652e636f6d
 https://t.me/proxy?server=my.safepal.life&port=443&secret=ee65682e766b2e636f6db97f3e8c4607
 tg://proxy?server=158.220.100.132&port=443&secret=ee37e7aad9447c88cd9421a1916f2147fd636c6f7564666c6172652e636f6d
 tg://proxy?server=he.67.mtproto.ru&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d
@@ -1007,3 +1008,4 @@ tg://proxy?server=tor.krotmonstr.online&port=443&secret=eedded7190820caa75bc8d20
 tg://proxy?server=159.89.5.21&port=8443&secret=686575b8d3e478c5ba3b7b6a60bbd225
 tg://proxy?server=45.83.130.23&port=3306&secret=eebd591391ebc6bfb7bbbf9276f38a2fc574656c65322e7275
 tg://proxy?server=tg.safepal.life&port=443&secret=ee7c5474451d78bb07ae047680e9de3d8079616e6465782e6e6574
+tg://proxy?server=109.248.170.167&port=443&secret=ee27069b55a8fb3f985b7d8de35a303fb06b617370692e6b7a
