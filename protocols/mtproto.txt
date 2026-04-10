@@ -1001,4 +1001,3 @@ tg://proxy?server=185.28.173.55&port=8443&secret=ee61ac82d49fe39155531648d20e0c2
 tg://proxy?server=217.177.34.139&port=443&secret=dd69e899d89ec68e220ca177557322b27f
 https://t.me/proxy?server=mt.jebance.ru&port=8443&secret=dd28df1727029aed45d15f3a44d31e7e20&@vpnbaz
 https://t.me/proxy?server=5.78.190.71&port=4455&secret=ddbe3f0adb4ae53a594fd5fec4dd00287f&@vpnbaz
-https://t.me/proxy?server=46.38.143.236&port=48069&secret=767cf6f14f461cdd166b54eddb53e1b0&@vpnbaz
