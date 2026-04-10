@@ -1,3 +1,4 @@
+tg://proxy?server=46.38.138.28&port=56969&secret=767cf6f14f461cdd166b54eddb53e1b0
 tg://proxy?server=he.67.mtproto.ru&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d
 tg://proxy?server=142.54.189.108&port=443&secret=7gnbgVptgqMf2nb4ciMMaddwa2didWlsZC5vcmc
 tg://proxy?server=31.47.51.152&port=8582&secret=ddbb01e59aa510ca70ce9e935c471df2d8
@@ -30,10 +31,6 @@ tg://proxy?server=mt.jebance.ru&port=8443&secret=dd28df1727029aed45d15f3a44d31e7
 tg://proxy?server=91.107.169.174&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=2.144.22.56&port=4433&secret=7gnbgVptgqMf2nb4ciMMaddwa2didWlsZC5vcmc
 tg://proxy?server=77.221.142.123&port=3443&secret=eeeeaf2a08cb735517c611e9e2817526**
-tg://proxy?server=46.38.138.28&port=56969&secret=767cf6f14f461cdd166b54eddb53e1b0
-tg://proxy?server=77.221.142.123&port=3443&secret=eeeeaf2a08cb735517c611e9e2817526
-tg://proxy?server=mt.jebance.ru&port=8443&secret=dd28df1727029aed45d15f3a44d31e7e20
-tg://proxy?server=46.38.143.236&port=48069&secret=767cf6f14f461cdd166b54eddb53e1b0
 https://t.me/proxy?server=91.107.189.181&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=168.222.254.23&port=443&secret=a6246e1e4dcf0e9167f48431a7cf590a
 tg://proxy?server=49.13.136.242&port=443&secret=dd104462821249bd7ac519130220c25d09](
@@ -985,7 +982,3 @@ https://t.me/proxy?server=MTPROTO.online&port=443&secret=ee139e0ee36150c1ea3bf29
 https://t.me/proxy?server=openimp.space&port=443&secret=075d7b345dc0222924ccea508c8edf91
 https://t.me/proxy?server=81.90.17.175&port=8443&secret=ee79612e7275494a98c6918e3e987ced
 https://t.me/proxy?server=mt.ascel.la&port=8443&secret=c363767bbdb02912983f17ab2417a20c
-tg://proxy?server=51.250.46.77&port=443&secret=ddc8d206c7720ee8d02b932e14a3714d88
-tg://proxy?server=107.191.47.19&port=443&secret=cf0b722816b51fc534c47b38a598b12f
-tg://proxy?server=distant.hellenian.horseplayer.workpiece.xenomania.tupko.com&port=21698&secret=5ccc99ae70fcc5817f00c14d1e62c71f
-tg://proxy?server=204.168.250.138&port=443&secret=b3f0c7f6af7dc2dc2e9c80d0d80e8162
