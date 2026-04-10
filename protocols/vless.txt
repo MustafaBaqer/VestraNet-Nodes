@@ -22,13 +22,13 @@ vless://2e2c66ea-9271-48b7-b5ab-b537a23b959c@83.166.235.6:443?flow=xtls-rprx-vis
 vless://40759e42-d74b-4470-acc4-a580f264e860@5.188.142.233:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=eh.vk.com&pbk=EJTm__7GW-Qpejoz5TlSAiargvm5KkcmFmfuIgf2wBE&sid=9a225e28cbfd492c#🇷🇺
 vless://451c3160-5263-493d-a86a-e253cad3d124@212.233.121.37:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=vkvideo.ru&pbk=t3gnm8nABRV0zXwj1IQDibc02_cXPIL3CrZtm4t0bn4&sid=954e7fdd2fb788c5#🇷🇺
 vless://5546205d-2348-418a-9f05-5175de1a451b@217.16.31.224:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=eh.vk.ru&pbk=oj6D__u-VwAYCHb1EBH3GwjJHTC8S7WrMfVtiAA6qWY&sid=792a0f8a4e&spx=/#🇷🇺
+vless://3cb9f2c2-cd60-4616-963e-6a1c5d1c8b02@144.31.1.134:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=kEhVzEXS_myQF6LPpKPWEI8Ha2-mmNMyLItXoVa8SD4&security=reality&sni=eh.vk.com&type=tcp#🇵🇱[openproxylist.com]
 vless://ca05976a-2dea-11f1-9ec5-baabcd4be2cd@172.86.94.48:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FVL0r87K3-vUP2KXQX1juLMFEHJtvxwKM-nm6_PYllc&security=reality&sid=cafe01234567&sni=www.apple.com&type=tcp#🇩🇪[openproxylist.com]
 vless://2ba7f500-017b-4891-87a0-e4e62a4ad52d@staging.lastilhame.monster:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&sid=9409f73c2fd7&sni=www.microsoft.com#@v2rayconfigamir
 vless://06bda52e-26ae-45b2-abe9-3af480f44d46@45.149.114.136:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=yOWj4KtHTjRo6SutNETYUgiNUXES0NY-PcpE9a4MqFM&sid=8ad0b8c7e0e5ff8b#
 vless://0fa13297-7784-48e1-9c19-308c8b440edb@176.108.247.44:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=dk21.strelkavpn.com&pbk=rhL4R8tBOs5UnuwptbdegPycyuxGn-wvurb4eRYNSgY&sid=596e1781a03304&spx=/#
 vless://d1209ffb-c159-48d5-b40d-542ce11fc768@1xk7re.by-api-yandex.com:10121?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4DdA8dBVn5zB_UTbgBY45YqM0HU8zrjXYdzg3-wz5Rg&security=reality&sid=9c2a7d4e5f18b6a3&sni=apple.com&type=tcp#🇩🇪[openproxylist.com]
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@108.162.194.176:443?allowInsecure=1&encryption=none&host=terazhediii.info&path=/sghiyws&security=tls&sni=terazhediii.info&type=ws#
-vless://1007b7c2-2170-4ba4-a68d-ec31fbb4bf74@188.114.96.3:443?encryption=none&type=ws&security=tls&path=/vless-tls&host=nnet.online&fp=chrome&sni=nnet.online#
 vless://0d6b5af6-17df-4bb1-af76-e524f00602a5@172.232.248.242:2321?encryption=none&security=none&type=tcp
 vless://23aa6421-e133-45eb-8802-4e31d3561fa7@62.152.59.103:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=eh.vk.com&pbk=W35StMkmGPguLMNX8_ezl8Hm0NQ3MFR7rpcbWRrOCyY&sid=5FA44664f6a566d3#🇷🇺
 vless://23aa6421-e133-45eb-8802-4e31d3561fa7@45.84.222.30:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=eh.vk.com&pbk=0RW5P5qI5sej7PwhLixMUlClXpK-be1TLHKInhMhmh8#🇳🇱
@@ -3987,4 +3987,3 @@ vless://60c63b41-63f3-4602-b9f3-9ee2e1369447@64.188.106.203:59851?encryption=non
 vless://00000000-0000-4000-8000-000000000000@37.114.50.157:4002?&security=tls&fp=chrome&sni=sub.mot.ip-ddns.com&type=ws&headerType=none&host=sub.mot.ip-ddns.com&path=/#🇨🇦
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.67.224.0:443?allowInsecure=1&encryption=none&host=holy-dawn-e9ec.jonas05-ba6.workers.dev&path=/sni.111000.dynv6.net/&security=tls&sni=holy-dawn-e9ec.jonas05-ba6.workers.dev&type=ws#🇸🇬
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.210.150.65:8443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=/?Telegram馃嚚馃嚦+@WangCai2=&security=tls&sni=sni.111000.v6.navy&type=ws#🧫60@oneclickvpnkeys
-vless://1cda4a0f-7515-49f6-aa13-10ab8746e8cd@85.193.87.112:2443?encryption=none&type=xhttp&security=reality&path=/&mode=auto&extra=null&fp=chrome&sni=max.ru&pbk=XqH-gNEL9eJfr1pglaI8WU3OvE654_5duXYBS35UXlM&sid=ab#🇷🇺
