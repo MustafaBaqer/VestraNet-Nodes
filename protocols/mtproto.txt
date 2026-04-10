@@ -801,6 +801,7 @@ tg://proxy?server=se.turboproxy.lol&port=8443&secret=ee1e29d8fbf34859d4d2e77048f
 tg://proxy?server=193.104.198.0&port=443&secret=dd40aa72a0f79e4f3b2be25dd56e07de72
 tg://proxy?server=147.45.196.88&port=1443&secret=ee67559064a9e7a16daace5269943f11d331632e7275
 tg://proxy?server=ampullary.interlending.ponton.shore.teleplasm.freeteleserye.com&port=2800&secret=dd974009c5bc27d0e2a9f8e11c52c1c102
+https://t.me/proxy?server=saturnlink.space&port=443&secret=eea85f2776cc83dbff66b440fb03050cf773617475726e6c696e6b2e7370616365
 tg://proxy?server=212.80.24.141&port=443&secret=dd3058931af076644f6ac29ac448597b5b
 https://t.me/proxy?server=37.152.186.108&port=1639&secret=ee60f2fa619d02a9ae6d9aa1d6694c5ac77777772e676f6f676c652e636f6d
 https://t.me/proxy?server=37.32.28.215&port=1639&secret=ee71e87cdc082bb2ade48231101fe003937777772e676f6f676c652e636f6d
@@ -815,7 +816,6 @@ https://t.me/proxy?server=89.117.63.176&port=443&secret=ee4e3346cfb87699c595c051
 https://t.me/proxy?server=136.244.109.78&port=8443&secret=eecf6ad6e4f27809043ee93b578fc71947646c2e676f6f676c652e636f6d
 https://t.me/proxy?server=64.176.72.153&port=8443&secret=ee8b645f148dc6cff239590eb96457c61e646c2e676f6f676c652e636f6d
 https://t.me/proxy?server=tor.krotmonstr.online&port=443&&port=443&secret=eedded7190820caa75bc8d20cf9be339247777772e676f6f676c652e636f6d
-https://t.me/proxy?server=saturnlink.space&port=443&secret=eea85f2776cc83dbff66b440fb03050cf773617475726e6c696e6b2e7370616365
 https://t.me/proxy?server=83.147.216.163&port=443&secret=eedded7190820caa75bc8d20cf9be339247777772e676f6f676c652e636f6d
 https://t.me/proxy?server=193.201.126.105&port=443&secret=1252499a7e863e219b02da58d29aa2f8
 https://t.me/proxy?server=72.56.243.35&port=443&secret=dd7b891ce8f37ea03b3f12c87a69301b
