@@ -1,7 +1,5 @@
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@87.236.146.32:2083?allowInsecure=1&host=xo.e0f.cx&path=/trojan-ws&sni=xo.e0f.cx&type=ws#🧸65@oneclickvpnkeys
 trojan://BvzUvt45hON9We5X9wM6I9ZrxHRcYd46QK@216.238.102.254:26593?allowInsecure=0&sni=sao2.cdn-graph.click#⚡
-trojan://IL37892054@select-marmoset.rooster465.autos:443?security=tls&sni=select-marmoset.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-3.34.140.83-0229
-trojan://ZY07256934@glowing-deer.rooster465.autos:443?security=tls&sni=glowing-deer.rooster465.autos#🇰🇷[openproxylist.com]
 trojan://de7d6444-a7a8-4b3a-bf26-bc6939bb0279@n1.chateditimage.com:443?security=tls&sni=n1.chateditimage.com#%F0%9F%87%BA%F0%9F%87%B8US-64.186.252.102-0227
 trojan://WwipNOSqUh49CEapMmIrv6m6AZLf-EC0+T@104.238.162.6:13109?sni=ord2.edge-command.click#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD10%2070.9MB%2Fs
 trojan://de7d6444-a7a8-4b3a-bf26-bc6939bb0279@n2.chateditimage.com:443?security=tls&sni=n2.chateditimage.com#%F0%9F%87%BA%F0%9F%87%B8US-64.186.254.102-0222
@@ -19,7 +17,6 @@ trojan://hCjWaBe5vTkewfiljOL=9FS9DYg0c09c.t@81.29.149.212:18390?security=tls&sni
 trojan://M08tvzYWtUEJNtbpHp@nl-4.tr202512.com:443?#%F0%9F%87%B3%F0%9F%87%B1NL%E8%8D%B7%E5%85%B0%205.1MB%2Fs
 trojan://BvzUvt45hON9We5X9wM6I9ZrxHRcYd46QK@216.238.102.254:26593?security=tls&sni=sao2.cdn-graph.click&type=tcp&headerType=none&path=/#🇧🇷
 trojan://hCjWaBe5vTkewfiljOL=9FS9DYg0c09c.t@81.29.149.240:18390?sni=osl9.solidly.click&path=/#🇳🇴
-trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@185.177.238.15:2083?allowInsecure=1&host=xo.e0f.cx&path=/trojan-ws&sni=xo.e0f.cx&type=ws#🇦🇱
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@148.135.195.95:2083?allowInsecure=1&host=xo.e0f.cx&path=/trojan-ws&sni=xo.e0f.cx&type=ws#🇳🇴
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@5.83.218.19:2083?allowInsecure=1&host=xo.e0f.cx&path=/trojan-ws&sni=xo.e0f.cx&type=ws#🇬🇧
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@188.126.76.159:2083?allowInsecure=1&host=xo.e0f.cx&path=/trojan-ws&sni=xo.e0f.cx&type=ws#🇸🇪
@@ -268,6 +265,7 @@ trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@38.180.215.249:2083?allowInsecure=1&host
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@87.236.146.32:2083?allowInsecure=1&host=xo.e0f.cx&path=/trojan-ws&sni=xo.e0f.cx&type=ws#🇨🇿
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@188.126.76.159:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ASE
 trojan://IL37892054@select-marmoset.rooster465.autos:443?security=tls&sni=select-marmoset.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-3.34.140.83-0221
+trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@185.177.238.15:2083?allowInsecure=1&host=xo.e0f.cx&path=/trojan-ws&sni=xo.e0f.cx&type=ws#🇦🇱
 trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@194.87.10.31:23357?allowInsecure=0&sni=sgp9.node-resource.click#%3E%3E%40v2nodes%3A%3AXX
 trojan://WwipNOSqUh49CEapMmIrv6m6AZLf-EC0+T@104.238.162.6:13109?sni=ord2.edge-command.click#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD15
 trojan://hCjWaBe5vTkewfiljOL=9FS9DYg0c09c.t@81.29.149.240:18390?security=tls&type=tcp&sni=osl9.solidly.click#%F0%9F%87%A8%F0%9F%87%ADCH%E7%91%9E%E5%A3%AB%2092.9KB%2Fs
