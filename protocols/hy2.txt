@@ -17,6 +17,7 @@ hy2://c1785de0-212f-11ef-92aa-f23c9164ca5d@wangcai.hk1.hyhuawei.com:443?sni=Wang
 hy2://62b7824e-47dc-11ef-9f2d-f23c9164ca5d@wangcai.hk1.hyhuawei.com:443?sni=WangCai.hk1.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0HK_%40WangCai_8
 hy2://a4c9b7cc-a816-11ed-9f65-f23c9164ca5d@wangcai.hk1.hyhuawei.com:443?sni=WangCai.hk1.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0HK_%40WangCai_8
 hy2://auth@65.109.178.92:443?sni=cdn.cloudflare.com#%40Hddify
+hy2://hysteria2_fastlane_bwyx9htpr@144.31.63.58:443?sni=de4.h.fastlanehosting.ru#%F0%9F%A7%AB69%40oneclickvpnkeys
 hy2://dongtaiwang.com@62.210.25.116:40022?sni=www.microsoft.com#%F0%9F%A4%9621%40oneclickvpnkeys
 hy2://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@2001:bc8:1640:50eb:dc00:ff:fe57:dd6f:443?sni=Ab.ac&obfs=salamander&obfs-password=FnFgQIckcMRtKq7i#%F0%9F%8F%8694%40oneclickvpnkeys
 hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%3E%3E%40oneclickvpnkeys%3A%3AXX
