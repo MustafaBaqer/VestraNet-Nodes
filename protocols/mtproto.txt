@@ -783,7 +783,18 @@ tg://proxy?server=proxydlyavseh.sbs&port=443&secret=2cf24dba5fb0a30e26e83b2ac5b9
 tg://proxy?server=130.49.190.18&port=443&secret=eec6ca4f8bc2332065eff6c1c6ba45058a7777772e6b696e6f706f69736b2e7275
 tg://proxy?server=duckling.work.gd&port=443&secret=ee39755828e6567868436b8880863bfdfb6475636b6c696e672e776f726b2e6764
 tg://proxy?server=80u39qhn.msk.velvet.surf&port=443&secret=630759961682346277e97888b60bffcd
+tg://proxy?server=rdp.nl.2.mtproto.ru&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d
 https://t.me/proxy?server=138.201.54.122&port=443&secret=7gnbgVptgqMf2nb4ciMMaddwa2didWlsZC5vcmc&@zibanabz
+https://t.me/proxy?server=tg.proxywing.net&port=443&secret=dd398e9112420ca2ad72bac8bfd851ff42
+https://t.me/proxy?server=proxy-sosavpn.duckdns.org&port=8443&secret=f5a36ceadd9bbedd919fbd9f1c9387dd
+tg://proxy?server=bereg-connect.bopen.bond&port=443&secret=eeb4b54ddf0b9f3b82dd7b4a5a888ea82d766b2e636f6d
+tg://proxy?server=31.220.73.65&port=443&secret=ee7148bf37e01e395aa33d7cde6490c540636c6f7564666c6172652e636f6d
+tg://proxy?server=vie.ae.idind.ru&port=4433&secret=eea0ea72ded0fb8b2f0b412ddc3687673e7a72616d2e6964696e642e7275
+tg://proxy?server=62.171.164.255&port=443&secret=eed00f99d3053051a66446182549bb84c8636c6f7564666c6172652e636f6d
+tg://proxy?server=23.26.156.211&port=41528&secret=feff39bcddb62859ade093fcad935858
+tg://proxy?server=nl.veesp.idind.ru&port=4433&secret=ee4524202907d996fd9f1ed38b971902187a72616d2e6964696e642e7275
+tg://proxy?server=62.171.183.101&port=443&secret=ee36ee4a84e1fa2cca6f1d430eee851de7636c6f7564666c6172652e636f6d
+tg://proxy?server=fr.easy.idind.ru&port=4433&secret=ee0680b483a5e854b47984152b57ee444c7a72616d2e6964696e642e7275
 https://t.me/proxy?server=obxod2.vpnforum.ru&port=443&secret=bf9f2d60e8d4ca1b376a71ea5400c7d2
 tg://proxy?server=pr.a.storefiles.top&port=2096&secret=dd283eb38241e01788410388ccb656eead
 tg://proxy?server=116.203.0.182&port=8443&secret=dd104462821249bd7ac519130220c25d09
@@ -1011,8 +1022,3 @@ tg://proxy?server=mt.netaway.top&port=443&secret=eedacf2878fec7df714f2ab66701470
 tg://proxy?server=68.209.58.149&port=443&secret=7jFMSRrub9JuyovG5wb7BUJtYWlsLnJ1
 tg://proxy?server=cintiabot.duckdns.org&port=8443&secret=faec0dfe42eb966f1ebf85e262b9130e
 tg://proxy?server=ne.tudoy.ru&port=443&secret=ee3a07c7b344fbaff56ab9dcc114e269ae6e652e7475646f792e7275
-tg://proxy?server=95.217.25.41&port=35432&secret=ee104462821249bd7ac519130220c25d096d61782e7275
-tg://proxy?server=tor.krotmonstr.online&port=443&secret=eedded7190820caa75bc8d20cf9be339247777772e676f6f676c652e636f6d
-tg://proxy?server=159.89.5.21&port=8443&secret=686575b8d3e478c5ba3b7b6a60bbd225
-tg://proxy?server=45.83.130.23&port=3306&secret=eebd591391ebc6bfb7bbbf9276f38a2fc574656c65322e7275
-tg://proxy?server=tg.safepal.life&port=443&secret=ee7c5474451d78bb07ae047680e9de3d8079616e6465782e6e6574
