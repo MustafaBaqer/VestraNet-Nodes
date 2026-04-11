@@ -1,3 +1,4 @@
+https://t.me/proxy?server=hello-world.tg.engineer&port=443&secret=d9e48875e76c21092c63e78050247929
 tg://proxy?server=158.160.245.131&port=17372&secret=314ce48f4f975874163a7961444c3b66
 tg://proxy?server=138.124.59.112&port=443&secret=dd89a9f6a8f1d82d1b570e5110d5f6b5d0
 tg://proxy?server=153.80.249.111&port=443&secret=ee34469c63a94790a187e524a78e254c3467697476657273652e7275
@@ -24,7 +25,6 @@ tg://proxy?server=194.58.42.30&port=443&secret=ee04cd1e3ead2e85b8392c0a2c1120c97
 tg://proxy?server=95.111.251.92&port=443&secret=ee17de246c63382bc403747b78889f167f636c6f7564666c6172652e636f6d
 tg://proxy?server=2.26.124.161&port=2048&secret=ee7a06de380598edff9ef9805f76346bff766b2e7275
 tg://proxy?server=72.56.88.70&port=8443&secret=ee2852d0544e955d522409f3b0ea89ab8b6e6f6f646c656d6167617a696e652e636f6d
-https://t.me/proxy?server=hello-world.tg.engineer&port=443&secret=d9e48875e76c21092c63e78050247929
 tg://proxy?server=hyper.happvpn.cc&port=8443&secret=ee4852c1c04ab83db8a328c60eaf9a0db268797065722e6861707076706e2e6363
 tg://proxy?server=nano.happvpn.cc&port=4514&secret=ee0a638f4a7bd9db9e94449c652ea963066e616e6f2e6861707076706e2e6363
 tg://proxy?server=142.54.189.108&port=443&secret=7gnbgVptgqMf2nb4ciMMaddwa2didWlsZC5vcmc
