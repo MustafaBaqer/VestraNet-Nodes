@@ -1033,3 +1033,4 @@ tg://proxy?server=rukitty.proproxies.pro&port=443&secret=eec7ebf442d3bfaf20ca3ec
 tg://proxy?server=149.120.147.181&port=443&secret=ee6719f637173dc2276468b703e739f00e7777772e62696e672e636f6d
 tg://proxy?server=193.56.135.175&port=8444&secret=8fc96e03442ce4ba27541def4e9b6ac6
 tg://proxy?server=185.28.173.55&port=8443&secret=ee61ac82d49fe39155531648d20e0c20517362657262616e6b2e7275
+tg://proxy?server=217.177.34.139&port=443&secret=dd69e899d89ec68e220ca177557322b27f
