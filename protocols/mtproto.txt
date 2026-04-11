@@ -1,4 +1,3 @@
-tg://proxy?server=he.67.mtproto.ru&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d
 tg://proxy?server=31.47.51.152&port=8582&secret=ddbb01e59aa510ca70ce9e935c471df2d8
 https://t.me/proxy?server=138.199.231.66&port=443&secret=7gnbgVp
 tg://proxy?server=hyper.happvpn.cc&port=8443&secret=ee4852c1c04ab83db8a328c60eaf9a0db268797065722e6861707076706e2e6363
@@ -828,6 +827,7 @@ tg://proxy?server=caboched.caesarism.genomic.siphuncle.vientiane.hapka.info&port
 https://t.me/proxy?server=109.196.100.155&port=443&secret=ee41b666d84166bc6a8c6312498b5560f37777772e676f6f676c652e636f6d
 tg://proxy?server=150.241.66.222&port=443&secret=dd3d8f75897e52b428eeca825810bbc79f
 tg://proxy?server=209.250.238.192&port=443&secret=6c87b1eac5d66e8df9d561965b85d2f7
+tg://proxy?server=he.67.mtproto.ru&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d
 tg://proxy?server=149.28.244.196&port=443&secret=27af42d5e6e98d9256243f7af89c9ea3
 tg://proxy?server=212.233.74.109&port=443&secret=eedb3fe4bf0ed595882e36d26015268f346d61782e7275
 https://t.me/proxy?server=89.208.85.188&port=8443&secret=eea94a50c3db2b9e640351831e8bd42bba6164732e78352e7275
