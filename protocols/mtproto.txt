@@ -1013,3 +1013,4 @@ tg://proxy?server=tg.shtil.io&port=21&secret=ee66642e6f6e656d652e7275d2d785db
 tg://proxy?server=83.147.216.163&port=443&secret=eedded7190820caa75bc8d20cf9be339247777772e676f6f676c652e636f6d
 tg://proxy?server=95.216.178.76&port=443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=136.244.85.87&port=443&secret=b348e56c38f02e06491c04963955c119
+tg://proxy?server=31.222.229.130&port=443&secret=ee7961686f6f2e636f6d10953d99a40b
