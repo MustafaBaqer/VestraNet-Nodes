@@ -658,8 +658,8 @@ https://t.me/proxy?server=144.31.230.217&port=443&secret=33d73370103ea05acd9418e
 vless://90c9c25c-df6c-4438-83d3-ef97166a9184@45.66.163.194:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=A3PWLCRX9oeSyPvrmrwj2jUXcLo2uCwAISRBHtNE1Xw&security=reality&sni=5post-gate.x5.ru&type=tcp#🏳[openproxylist.com]
 vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?type=ws&security=none&path=/#[🇩🇰]t.me/ConfigsHub
 vless://12eac926-c4ec-4040-8fb8-f316e9fc0fd6@206.189.249.182:19001?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=S-g0oP36DShii1uPOnZDSEhp_wQghX6h68PgMivOmD4&security=reality&sni=www.speedtest.net&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ADE
-https://t.me/proxy?server=2.144.7.247&port=8443&secret=7gnbgVptgqMf2nb4ciMMaddwa2didWlsZC5vcmc&@zibanabz
 https://t.me/proxy?server=he.67.mtproto.ru&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d&@zibanabz
+https://t.me/proxy?server=2.144.7.247&port=8443&secret=7gnbgVptgqMf2nb4ciMMaddwa2didWlsZC5vcmc&@zibanabz
 tg://proxy?server=89.124.64.13&port=443&secret=ee17ae2b46d2b106af164facdd9d7472
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HuvCfh7ggMzIgLSBVUyAtIFZNZXNzL1dTIC0gODQ0MyIsICJhZGQiOiAiNDcuOTAuMjQ0LjE1MyIsICJwb3J0IjogODQ0MywgInR5cGUiOiAibm9uZSIsICJpZCI6ICI2NWUyYTk4NS1hZDIwLTQ0ODYtYTdlYy1iNjdiMjBlZTU2YWYiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3dzIiwgImhvc3QiOiAiIiwgInRscyI6ICIiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJuYW1lIjogIj4+QHYybm9kZXM6OlVTOjpVUzo6VVM6OlVTOjpVUyJ9
 vless://2ee6051b-14d6-4c32-bddb-18812e3bd224@83.166.254.49:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=48fccabc158a4c22#🇷🇺
