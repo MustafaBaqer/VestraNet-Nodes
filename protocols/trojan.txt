@@ -18,6 +18,7 @@ trojan://hCjWaBe5vTkewfiljOL=9FS9DYg0c09c.t@81.29.149.212:18390?security=tls&sni
 trojan://M08tvzYWtUEJNtbpHp@nl-4.tr202512.com:443?#%F0%9F%87%B3%F0%9F%87%B1NL%E8%8D%B7%E5%85%B0%205.1MB%2Fs
 trojan://BvzUvt45hON9We5X9wM6I9ZrxHRcYd46QK@216.238.102.254:26593?security=tls&sni=sao2.cdn-graph.click&type=tcp&headerType=none&path=/#🇧🇷
 trojan://hCjWaBe5vTkewfiljOL=9FS9DYg0c09c.t@81.29.149.240:18390?sni=osl9.solidly.click&path=/#🇳🇴
+trojan://T9BpZIVMNv@v1.dabache.top:8443?security=tls&type=ws&sni=sweden.vmaxpanel.com&path=/amd&host=sweden.vmaxpanel.com#%E6%9C%AA%E7%9F%A526
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@148.135.195.95:2083?allowInsecure=1&host=xo.e0f.cx&path=/trojan-ws&sni=xo.e0f.cx&type=ws#🇳🇴
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@5.83.218.19:2083?allowInsecure=1&host=xo.e0f.cx&path=/trojan-ws&sni=xo.e0f.cx&type=ws#🇬🇧
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@188.126.76.159:2083?allowInsecure=1&host=xo.e0f.cx&path=/trojan-ws&sni=xo.e0f.cx&type=ws#🇸🇪
@@ -152,8 +153,8 @@ trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@91.184.250.116:2083?allowInsecure=1&host
 trojan://hCjWaBe5vTkewfiljOL=9FS9DYg0c09c.t@81.29.149.212:18390?security=tls&sni=osl8.solidly.click&type=tcp&headerType=none&path=/#🇳🇴
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@170.168.102.234:2083?security=tls&sni=xo.e0f.cx&type=ws&host=xo.e0f.cx&path=/trojan-ws#🇦🇲
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@149.33.19.105:2083?sni=xo.e0f.cx&type=ws&host=xo.e0f.cx&path=/trojan-ws#🇦🇷
-trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@185.177.238.15:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@91.184.250.116:2083?sni=xo.e0f.cx&type=ws&host=xo.e0f.cx&path=/trojan-ws#🇨🇿
+trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@185.177.238.15:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@87.236.146.32:2083?sni=xo.e0f.cx&type=ws&host=xo.e0f.cx&path=/trojan-ws#🇨🇿
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@194.87.106.31:2083?sni=xo.e0f.cx&type=ws&host=xo.e0f.cx&path=/trojan-ws#🇱🇹
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@170.168.102.234:2083?sni=xo.e0f.cx&type=ws&host=xo.e0f.cx&path=/trojan-ws#🇦🇲
