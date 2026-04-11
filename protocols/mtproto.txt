@@ -22,8 +22,6 @@ tg://proxy?server=89.124.64.13&port=443&secret=ee17ae2b46d2b106af164facdd9d7472
 tg://proxy?server=107.150.34.102&port=443&secret=7gnbgVptgqMf2nb4ciMMaddwa2didWlsZC5vcmc
 tg://proxy?server=77.72.80.103&port=25565&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=XB1YN.MTP.IPSENTER.NET&port=443&secret=ee18b60b291a8043f7834790af2cc028c4676f6f676c652e636f6d
-https://t.me/proxy?server=my.safepal.life&port=443&secret=ee65682e766b2e636f6db97f3e8c4607
-tg://proxy?server=158.220.100.132&port=443&secret=ee37e7aad9447c88cd9421a1916f2147fd636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=168.222.254.23&port=443&secret=a6246e1e4dcf0e9167f48431a7cf590a
 tg://proxy?server=204.168.176.214&port=443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=49.13.136.242&port=443&secret=dd104462821249bd7ac519130220c25d09](
