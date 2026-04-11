@@ -1,3 +1,4 @@
+tg://proxy?server=rkn.mtproxy.cfd&port=2048&secret=ee7a06de380598edff9ef9805f76346bff766b2e7275
 tg://proxy?server=158.160.245.131&port=17372&secret=314ce48f4f975874163a7961444c3b66
 tg://proxy?server=138.124.59.112&port=443&secret=dd89a9f6a8f1d82d1b570e5110d5f6b5d0
 tg://proxy?server=153.80.249.111&port=443&secret=ee34469c63a94790a187e524a78e254c3467697476657273652e7275
@@ -17,13 +18,6 @@ https://t.me/proxy?server=138.199.231.66&port=443&secret=7gnbgVp
 https://t.me/proxy?server=2.27.21.191&port=443&secret=ee79612e7275e3cdc1876ecf569c957c
 tg://proxy?server=tg.vpnspacev.com&port=443&secret=bc184fc14b62b9b1dc5f34edf9476421
 https://t.me/proxy?server=45.66.163.192&port=443&secret=7ov7cnd3fF8fM64Kyh_lqKx3d3cuZ29vZ2xlLmNvbQ
-tg://proxy?server=rkn.mtproxy.cfd&port=2048&secret=ee7a06de380598edff9ef9805f76346bff766b2e7275
-tg://proxy?server=tg.proxywing.net&port=443&secret=dd398e9112420ca2ad72bac8bfd851ff42
-tg://proxy?server=gamma-roxy.ip-ddns.com&port=443&secret=ee94fc2b484af6e1e1c87e6576b33c2575766b2e636f6d
-tg://proxy?server=194.58.42.30&port=443&secret=ee04cd1e3ead2e85b8392c0a2c1120c97c646e732d73686f702e6b7a
-tg://proxy?server=95.111.251.92&port=443&secret=ee17de246c63382bc403747b78889f167f636c6f7564666c6172652e636f6d
-tg://proxy?server=2.26.124.161&port=2048&secret=ee7a06de380598edff9ef9805f76346bff766b2e7275
-tg://proxy?server=72.56.88.70&port=8443&secret=ee2852d0544e955d522409f3b0ea89ab8b6e6f6f646c656d6167617a696e652e636f6d
 tg://proxy?server=hyper.happvpn.cc&port=8443&secret=ee4852c1c04ab83db8a328c60eaf9a0db268797065722e6861707076706e2e6363
 tg://proxy?server=nano.happvpn.cc&port=4514&secret=ee0a638f4a7bd9db9e94449c652ea963066e616e6f2e6861707076706e2e6363
 tg://proxy?server=142.54.189.108&port=443&secret=7gnbgVptgqMf2nb4ciMMaddwa2didWlsZC5vcmc
@@ -271,6 +265,11 @@ https://t.me/proxy?server=proxy-sosavpn.duckdns.org&port=8443&secret=f5a94ceadd1
 https://t.me/proxy?server=proxy-sosavpn1.duckdns.org&port=8443&secret=f5a96ceadd1bbedd719fbd7f1c9387dd
 https://t.me/proxy?server=internet-freedom.lat&port=443&secret=7pHoYvZkGmXOej2wPeAhts9jbG91ZGZsYXJlLmNvbQ
 tg://proxy?server=62.84.126.12&port=3443&secret=679f7f50045349a76724af59906a1013
+tg://proxy?server=158.220.100.132&port=443&secret=ee8d98f11429a37deefa325942020b7cf7636c6f7564666c6172652e636f6d
+tg://proxy?server=158.220.114.142&port=443&secret=ee83c163668f959b994d7106de3c36672d636c6f7564666c6172652e636f6d
+tg://proxy?server=37.27.42.53&port=443&secret=ee25c34f651f2aa925f9d79566405a86ef636c6f7564666c6172652e636f6d
+tg://proxy?server=158.220.96.243&port=443&secret=ee602404acdf5669aedf205691a613befd636c6f7564666c6172652e636f6d
+tg://proxy?server=91.223.116.247&port=443&secret=767cf6f14f461cdd166b54eddb53e1b0
 tg://proxy?server=telegram.oreovpn.site&port=443&secret=ee9f24fd1e7a7a5cf7a765a9dac4a584a374656c656772616d2e6f72656f76706e2e73697465
 https://t.me/proxy?server=78.47.67.183&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=akenai.tg&port=1337&secret=dda2d3fa639a6ddcf8d6d1c5913d001531
