@@ -1,4 +1,3 @@
-tg://proxy?server=37.152.189.200&port=1656&secret=eeebb47459a29457964a3114d8f69e22dc7777772e676f6f676c652e636f6d
 tg://proxy?server=he.67.mtproto.ru&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d
 tg://proxy?server=31.47.51.152&port=8582&secret=ddbb01e59aa510ca70ce9e935c471df2d8
 https://t.me/proxy?server=138.199.231.66&port=443&secret=7gnbgVp
@@ -25,6 +24,9 @@ tg://proxy?server=77.72.80.103&port=25565&secret=dd79e344818749bd7ac519130220c25
 tg://proxy?server=XB1YN.MTP.IPSENTER.NET&port=443&secret=ee18b60b291a8043f7834790af2cc028c4676f6f676c652e636f6d
 tg://proxy?server=95.179.240.137&port=443&secret=0e7f7f744895ba525bfe86e604d9b110
 tg://proxy?server=31.220.76.169&port=443&secret=eedb527145eb548da774b24e6c11d02021636c6f7564666c6172652e636f6d](https://t.me/proxxxy2026
+tg://proxy?server=37.152.189.200&port=1656&secret=eeebb47459a29457964a3114d8f69e22dc7777772e676f6f676c652e636f6d
+https://t.me/proxy?server=my.safepal.life&port=443&secret=ee65682e766b2e636f6db97f3e8c4607
+tg://proxy?server=158.220.100.132&port=443&secret=ee37e7aad9447c88cd9421a1916f2147fd636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=168.222.254.23&port=443&secret=a6246e1e4dcf0e9167f48431a7cf590a
 tg://proxy?server=204.168.176.214&port=443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=49.13.136.242&port=443&secret=dd104462821249bd7ac519130220c25d09](
@@ -1029,3 +1031,5 @@ tg://proxy?server=31.222.229.130&port=443&secret=ee7961686f6f2e636f6d10953d99a40
 tg://proxy?server=64.226.79.168&port=443&secret=eec80ff604fa45408f1d152624d3bffcf276616e2e6e616a76612e636f6d
 tg://proxy?server=rukitty.proproxies.pro&port=443&secret=eec7ebf442d3bfaf20ca3ec4503b6b02af72756b697474792e70726f70726f786965732e70726f
 tg://proxy?server=149.120.147.181&port=443&secret=ee6719f637173dc2276468b703e739f00e7777772e62696e672e636f6d
+tg://proxy?server=193.56.135.175&port=8444&secret=8fc96e03442ce4ba27541def4e9b6ac6
+tg://proxy?server=185.28.173.55&port=8443&secret=ee61ac82d49fe39155531648d20e0c20517362657262616e6b2e7275
