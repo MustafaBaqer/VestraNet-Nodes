@@ -144,9 +144,9 @@ https://t.me/proxy?server=s1.neo-trading.org&port=443&secret=ee17b59d905a546c7bf
 https://t.me/proxy?server=194.238.57.153&port=443&secret=ee2198b6ba0791e91cdbaf7c1fcb3ade9a706574726f766963682e7275
 https://t.me/proxy?server=138.124.105.163&port=5443&secret=dd7e74d187e6f845aff3060b2a9ce8a6df
 tg://proxy?server=95.111.234.216&port=443&secret=ee60a73d2bd48d89aafddde82a5a0c8178636c6f7564666c6172652e636f6d
-https://t.me/proxy?server=49.13.136.242&port=443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=proxyobhod.online&port=443&secret=01b307acba4f54f55aafc33bb06bbbf6
 tg://proxy?server=proxy1.mcufa.pro&port=443&secret=5317201081981259e8d2e31059e1277d
+https://t.me/proxy?server=49.13.136.242&port=443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=140.82.49.30&port=443&secret=e93ffc1c659594cd5b5d26721768ad93
 tg://proxy?server=149.248.36.42&port=443&secret=2d51c9fbfeadd493eef9b27a37034a94
 https://t.me/proxy?server=tspico.siblin.org&port=443&secret=eeb4a93852bf9d5d3ebb93e435e13a2c85626979736b32322e7275
