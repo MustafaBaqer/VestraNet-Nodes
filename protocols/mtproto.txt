@@ -1,3 +1,4 @@
+tg://proxy?server=37.152.189.200&port=1656&secret=eeebb47459a29457964a3114d8f69e22dc7777772e676f6f676c652e636f6d
 tg://proxy?server=he.67.mtproto.ru&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d
 tg://proxy?server=31.47.51.152&port=8582&secret=ddbb01e59aa510ca70ce9e935c471df2d8
 https://t.me/proxy?server=138.199.231.66&port=443&secret=7gnbgVp
@@ -1027,3 +1028,4 @@ tg://proxy?server=136.244.85.87&port=443&secret=b348e56c38f02e06491c04963955c119
 tg://proxy?server=31.222.229.130&port=443&secret=ee7961686f6f2e636f6d10953d99a40b
 tg://proxy?server=64.226.79.168&port=443&secret=eec80ff604fa45408f1d152624d3bffcf276616e2e6e616a76612e636f6d
 tg://proxy?server=rukitty.proproxies.pro&port=443&secret=eec7ebf442d3bfaf20ca3ec4503b6b02af72756b697474792e70726f70726f786965732e70726f
+tg://proxy?server=149.120.147.181&port=443&secret=ee6719f637173dc2276468b703e739f00e7777772e62696e672e636f6d
