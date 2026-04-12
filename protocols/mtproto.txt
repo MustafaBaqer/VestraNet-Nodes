@@ -14,6 +14,7 @@ tg://proxy?server=185.68.246.15&port=443&secret=ee75c4397cff7299ada6b05ae598cf91
 tg://proxy?server=87.121.89.227&port=8443&secret=eeba15e0c527433a3a686b97f09254f5a0796f6e73652e6f7267
 tg://proxy?server=77.82.87.210&port=1080&secret=eef9e3c297669c8debaf706811cc770a507777772e636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=138.199.231.66&port=443&secret=7gnbgVp
+tg://proxy?server=rukitty.proproxies.pro&port=443&secret=eec7ebf442d3bfaf20ca3ec4503b6b02af72756b697474792e70726f70726f786965732e70726f
 tg://proxy?server=149.120.147.181&port=443&secret=ee6719f637173dc2276468b703e739f00e7777772e62696e672e636f6d
 tg://proxy?server=193.56.135.175&port=8444&secret=8fc96e03442ce4ba27541def4e9b6ac6
 tg://proxy?server=185.28.173.55&port=8443&secret=ee61ac82d49fe39155531648d20e0c20517362657262616e6b2e7275
