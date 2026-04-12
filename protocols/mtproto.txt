@@ -4,8 +4,8 @@ tg://proxy?server=153.80.249.111&port=443&secret=ee34469c63a94790a187e524a78e254
 tg://proxy?server=95.215.8.7&port=8443&secret=ee0255093dda82210420e832b376b772997777772e636c6f7564666c6172652e636f6d
 tg://proxy?server=he.67.mtproto.ru&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d
 tg://proxy?server=77.82.87.210&port=1080&secret=eef9e3c297669c8debaf706811cc770a507777772e636c6f7564666c6172652e636f6d
-tg://proxy?server=31.47.51.152&port=8582&secret=ddbb01e59aa510ca70ce9e935c471df2d8
 tg://proxy?server=havene5c9-c9862954.proxytg.ink&port=443&secret=b968de5d8c88024af77ee0ed494abb74
+tg://proxy?server=31.47.51.152&port=8582&secret=ddbb01e59aa510ca70ce9e935c471df2d8
 tg://proxy?server=tg.elysium.su&port=8443&secret=eee2933d1dcaba391455908ca4fd1f94dd74672e656c797369756d2e7375
 tg://proxy?server=proxy-sosavpn.duckdns.org&port=8443&secret=f5a36ceadd9bbedd919fbd9f1c9387dd
 tg://proxy?server=prxtg.enterlancevpn.com&port=443&secret=7l4DKhfeVb4_vfIbTvIr5Bxnb29nbGVhcGlzLmNvbQ
