@@ -493,11 +493,16 @@ tg://proxy?server=65.109.16.146&port=443&secret=dd104462821249bd7ac519130220c25d
 tg://proxy?server=65.21.58.190&port=443&secret=dd104462821249bd7ac519130220c25d09**](https://t.me/morfin_daria
 tg://proxy?server=www.hombus.co.uk.&port=22&secret=fgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNng==@
 https://t.me/proxy?server=209.127.228.146&port=443&@MTProtoTG&secret=ee32b920dffb51643028e2f6b878d4eac164697661722e6972&@MTProtoTG
+tg://proxy?server=192.144.15.229&port=443&secret=ee095b4c07061fa18ae9374091be8a8c4e79616e6465782e7275
 tg://proxy?server=super.alotaxi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e6d61782e7275
 https://t.me/proxy?server=158.160.232.216&port=443&secret=ee79612e727537ff352dabe2604c3fe5
 tg://proxy?server=de1.crazyan.ru&port=443&secret=eea09c2a5a7b2c94a056e4b73494f43ed8706574726f766963682e7275
 tg://proxy?server=mt-ru.importmsk.ru&port=443&secret=e3d3a09a31f5c857890cfc2a0bcab4c1
 https://t.me/proxy?server=37.46.211.176&port=3019&secret=dd9944774a88592e735e70ed9f3096af5c
+tg://proxy?server=91.132.142.236&port=443&secret=ee8f9386d30b11c72ac0b2225742c85694657870657269656e63652e74726970737465722e7275
+tg://proxy?server=mtp.kyonix.giize.com&port=443&secret=eea24ae024cabbe6a256a6537db04174b76d74702e6b796f6e69782e6769697a652e636f6d
+tg://proxy?server=exact.begoodtunnel.su&port=443&secret=eed802c58b0133cc8db3c6880bab5308c165786163742e6265676f6f6474756e6e656c2e7375
+tg://proxy?server=cdnt-2.api-suppro.eu.cc&port=443&secret=ee8eeb5197d053d98af1ea33891ef0dcce77622e7275
 tg://proxy?server=ppl.vpnpplvpn.top&port=8443&secret=ddbd7949ea22934a3af773233bd1e6cd87
 tg://proxy?server=176.123.166.255&port=443&secret=dd7c5d4e1f2a3b9c8d7e6f5a4b3c2d1e0f
 tg://proxy?server=209.250.250.111&port=443&secret=3839ec9dddc2c7f0d4c76ab8e46504ae
@@ -1025,4 +1030,3 @@ tg://proxy?server=155.133.23.254&port=443&secret=eee8277a17e556102934f361d7ca7fc
 tg://proxy?server=ru-02-proxy.duckdns.org&port=443&secret=dd49d04008260c313f6bdd9203dc6bb73f
 tg://proxy?server=89.110.94.195&port=443&secret=ee11ef21c835c607ad756cf0293524fc626d61696c2e7275
 tg://proxy?server=64.188.64.189&port=443&secret=b0834f5c52129b3de4fed01625bb8567
-https://t.me/proxy?server=proxytelega.store&port=443&secret=5d41402abc4b2a76b9719d911017c592
