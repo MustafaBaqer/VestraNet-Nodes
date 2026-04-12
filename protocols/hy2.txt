@@ -1,5 +1,4 @@
 hy2://62b7824e-47dc-11ef-9f2d-f23c9164ca5d@WangCai.hk1.hyhuawei.com:443/?insecure=1&sni=WangCai.hk1.hyhuawei.com#🇭🇰HK_@WangCai_8
-hy2://strong-secret-pass-777@2.56.172.83:444?sni=www.microsoft.com&obfs=salamander&obfs-password=cry_me_a_r1ver_2026#%F0%9F%AA%BA82%40oneclickvpnkeys
 hy2://strong-secret-pass-777@45.15.171.80:444?sni=www.microsoft.com&obfs=salamander&obfs-password=cry_me_a_r1ver_2026#%F0%9F%AA%BA92%40oneclickvpnkeys
 hy2://dongtaiwang.com@2001:bc8:32d7:302::17:443?sni=apple.com#%F0%9F%90%B551%40oneclickvpnkeys
 hy2://dongtaiwang.com@2001:bc8:32d7:302::11:443?sni=apple.com#%F0%9F%8F%8614%40oneclickvpnkeys
