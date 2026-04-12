@@ -351,6 +351,7 @@ tg://proxy?server=czr.eights.cloud&port=443&secret=ee9eb94476b50257ed1d92cf2504d
 tg://proxy?server=tele.djnapalm.ru&port=443&secret=eefd624c18549e495e8365b38a812ac350676f6f676c652e636f6d
 tg://proxy?server=84.201.169.90&port=443&secret=ee387cc39e6784d06b17cc32354e92bfe66164732e78352e7275
 tg://proxy?server=srv-tg.technoblog.pro&port=443&secret=ee9a1a8d2fc89564d3b5398886ce2ab32f7765622e6d61782e7275
+https://t.me/proxy?server=free.FCKRKNBOT.COM&port=443&secret=ddf48f621b110f302e468756840c29f916
 tg://proxy?server=72.56.244.123&port=8080&secret=ee0db83faa38ba8d506b2430e90c02252079612e7275
 https://t.me/proxy?server=vavan.online&port=443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=77.90.63.2&port=443&secret=ee8dd986e1d1ea297bdb58db4b5e369af57777772e676f6f676c652e636f6d
@@ -417,7 +418,6 @@ tg://proxy?server=tumanpro.krotmonstr.online&port=443&secret=eeddffec89f799a1ab3
 tg://proxy?server=155.133.26.82&port=443&secret=ee6bb5d5b77515b3ec4fe6d1c558aa47a9636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=tg.magproxy.com&port=443&secret=eeb30fc4df699024f7a5dec0b0e66524b165682e766b2e636f6d
 tg://proxy?server=185.117.0.248&port=443&secret=eed451f808fd60ed2c45f11d38fdbc87c57961686f6f2e636f6d
-https://t.me/proxy?server=free.FCKRKNBOT.COM&port=443&secret=ddf48f621b110f302e468756840c29f916
 tg://proxy?server=81.90.21.194&port=6969&secret=ee89085aa60df67eec71cf4fd7c609a7c1617074656b612e7275
 tg://proxy?server=150.241.103.14&port=443&secret=eefdd54073b585423ac73f389d70fc38d073616e7465686e696b2d6e612d7673652d72796b692e6d6f6f6f2e636f6d
 tg://proxy?server=proxy.jubaoku.com&port=8443&secret=2adab36179e7a39026adf74034615248
