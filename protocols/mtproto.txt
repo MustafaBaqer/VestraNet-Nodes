@@ -1,3 +1,4 @@
+tg://proxy?server=95.179.155.88&port=443&secret=f1ed42cfb21fbe9cd5eb2c622b4d75ff
 tg://proxy?server=158.160.245.131&port=17372&secret=314ce48f4f975874163a7961444c3b66
 tg://proxy?server=138.124.59.112&port=443&secret=dd89a9f6a8f1d82d1b570e5110d5f6b5d0
 tg://proxy?server=153.80.249.111&port=443&secret=ee34469c63a94790a187e524a78e254c3467697476657273652e7275
@@ -24,18 +25,12 @@ https://t.me/proxy?server=mt2.firmvpn.ru&port=443&secret=ee2d237250cf23af15e7068
 tg://proxy?server=ru2.mt-proxy.org&port=443&secret=ee8dd152455f38a66cfab5de97f6bb2d596d742d70726f78792e6f7267
 tg://proxy?server=hi.piglio.online&port=25565&secret=dd90070792574663c0f6bd34279078aa5b
 tg://proxy?server=216.128.146.245&port=443&secret=fa9df6af31125bd254151a3e9d352f1c
-tg://proxy?server=95.179.155.88&port=443&secret=f1ed42cfb21fbe9cd5eb2c622b4d75ff
-tg://proxy?server=pms2.openconn.ru&port=443&secret=ee2aa6fb44b6064899630563f554eaaad67777772e6b696e6f2d74656174722e7275
-tg://proxy?server=foreignpayproxytg.top&port=443&secret=ee6d61782e7275e467763b2a1379ff21
-tg://proxy?server=51.250.38.88&port=443&secret=ddc8d206c7720ee8d02b932e14a3714d88
-tg://proxy?server=5.188.224.184&port=8443&secret=eea7f63d85da20e747852c84bc3850558c6164732e78352e7275
-tg://proxy?server=vienna-gateway-backend.wepogp.gay&port=444&secret=eedeac10ed306283dff54c13444c745b0779616e6465782e636f6d
 tg://proxy?server=hyper.happvpn.cc&port=8443&secret=ee4852c1c04ab83db8a328c60eaf9a0db268797065722e6861707076706e2e6363
 tg://proxy?server=nano.happvpn.cc&port=4514&secret=ee0a638f4a7bd9db9e94449c652ea963066e616e6f2e6861707076706e2e6363
 tg://proxy?server=142.54.189.108&port=443&secret=7gnbgVptgqMf2nb4ciMMaddwa2didWlsZC5vcmc
-https://t.me/proxy?server=dedicated.love-internet.xyz&port=4515&secret=7umk8jsddowEqNfzkSDKW25iaXNjb3R0aS55ZWt0YW5ldC5jb20
 https://t.me/proxy?server=peyk.acharbashi.info&port=4515&secret=7umk8jsddowEqNfzkSDKW25iaXNjb3R0aS55ZWt0YW5ldC5jb20
 https://t.me/proxy?server=r1.newr1.co.uk&port=85&secret=1603010200010001fc031386e24c3add
+https://t.me/proxy?server=dedicated.love-internet.xyz&port=4515&secret=7umk8jsddowEqNfzkSDKW25iaXNjb3R0aS55ZWt0YW5ldC5jb20
 https://t.me/proxy?server=65.109.16.146&port=443&secret=dd104462821249bd7ac519130220c25d09&
 tg://proxy?server=77.72.80.181&port=9443&secret=EERighJJvXrFGRMCIMJdCQ
 tg://proxy?server=proxytop.space&port=443&secret=7d793037a0760186574b0282f2f435e7
@@ -1058,5 +1053,3 @@ tg://proxy?server=83.166.255.87&port=443&secret=dd000102030405060708090a0b0c0d0e
 tg://proxy?server=31.220.76.169&port=443&secret=eedb527145eb548da774b24e6c11d02021636c6f7564666c6172652e636f6d
 tg://proxy?server=handbell.jude.meet.motoring.shake-up.watchpinoyteleserye.com&port=1150&secret=9c3dd2c3b66976461382216193e8e323
 tg://proxy?server=mt.gdetotam.com&port=443&secret=eec85ac17f6c6d48dc9efe7b1f0421da8f7777772e676f6f676c652e636f6d
-tg://proxy?server=155.133.23.254&port=443&secret=eee8277a17e556102934f361d7ca7fc87e636c6f7564666c6172652e636f6d
-tg://proxy?server=ru-02-proxy.duckdns.org&port=443&secret=dd49d04008260c313f6bdd9203dc6bb73f
