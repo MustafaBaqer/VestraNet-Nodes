@@ -9,9 +9,9 @@ hy2://hysteria2_fastlane_jwiedq1o6@5.181.21.132:443?sni=at1.h.smartaisupport.ru#
 hy2://strong-secret-pass-777@82.117.255.37:444?sni=www.microsoft.com&obfs=salamander&obfs-password=cry_me_a_r1ver_2026#%F0%9F%AA%BA97%40oneclickvpnkeys
 hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?sni=api.kermanshahi.org%40freenettir&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%3A%20Free_VPN_CH%40%20%233
 hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?sni=api.kermanshahi.org&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%3A%20Free_VPN_CH%40
+hy2://0f771058-7892-4d46-b77e-a69e811b9cbc@84.200.91.118:443?sni=hls-svod.itunes.apple.com#%F0%9F%A7%B892%40oneclickvpnkeys
 hy2://0f771058-7892-4d46-b77e-a69e811b9cbc@84.201.25.156:443?sni=hls-svod.itunes.apple.com#%F0%9F%A7%B891%40oneclickvpnkeys
 hy2://0f771058-7892-4d46-b77e-a69e811b9cbc@89.124.73.31:443?sni=hls-svod.itunes.apple.com#%F0%9F%A7%B898%40oneclickvpnkeys
-hy2://0f771058-7892-4d46-b77e-a69e811b9cbc@84.200.91.118:443?sni=hls-svod.itunes.apple.com#%F0%9F%A7%B892%40oneclickvpnkeys
 hy2://c1785de0-212f-11ef-92aa-f23c9164ca5d@wangcai.hk1.hyhuawei.com:443?sni=WangCai.hk1.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0HK_%40WangCai_8
 hy2://auth@65.109.178.92:443?sni=cdn.cloudflare.com#%40Hddify
 hy2://dongtaiwang.com@62.210.25.116:40022?sni=www.microsoft.com#%F0%9F%A4%9621%40oneclickvpnkeys
