@@ -1,4 +1,3 @@
-tg://proxy?server=95.179.155.88&port=443&secret=f1ed42cfb21fbe9cd5eb2c622b4d75ff
 tg://proxy?server=158.160.245.131&port=17372&secret=314ce48f4f975874163a7961444c3b66
 tg://proxy?server=138.124.59.112&port=443&secret=dd89a9f6a8f1d82d1b570e5110d5f6b5d0
 tg://proxy?server=153.80.249.111&port=443&secret=ee34469c63a94790a187e524a78e254c3467697476657273652e7275
@@ -16,15 +15,6 @@ tg://proxy?server=83.228.246.77&port=443&secret=7qyvn1g6m2Qsh0OplMz2nLd2ay5jb20
 tg://proxy?server=94.156.112.129&port=443&secret=ed391f275a6d93e52cdbf4058562bc20
 tg://proxy?server=185.68.246.15&port=443&secret=ee75c4397cff7299ada6b05ae598cf91d57777772e636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=138.199.231.66&port=443&secret=7gnbgVp
-tg://proxy?server=51.250.46.77&port=443&secret=ddc8d206c7720ee8d02b932e14a3714d88
-tg://proxy?server=107.191.47.19&port=443&secret=cf0b722816b51fc534c47b38a598b12f
-tg://proxy?server=distant.hellenian.horseplayer.workpiece.xenomania.tupko.com&port=21698&secret=5ccc99ae70fcc5817f00c14d1e62c71f
-tg://proxy?server=204.168.250.138&port=443&secret=b3f0c7f6af7dc2dc2e9c80d0d80e8162
-tg://proxy?server=mt2.firmvpn.ru&port=443&secret=ee2d237250cf23af15e706849ab9a0d5
-https://t.me/proxy?server=mt2.firmvpn.ru&port=443&secret=ee2d237250cf23af15e706849ab9a0d5
-tg://proxy?server=ru2.mt-proxy.org&port=443&secret=ee8dd152455f38a66cfab5de97f6bb2d596d742d70726f78792e6f7267
-tg://proxy?server=hi.piglio.online&port=25565&secret=dd90070792574663c0f6bd34279078aa5b
-tg://proxy?server=216.128.146.245&port=443&secret=fa9df6af31125bd254151a3e9d352f1c
 tg://proxy?server=hyper.happvpn.cc&port=8443&secret=ee4852c1c04ab83db8a328c60eaf9a0db268797065722e6861707076706e2e6363
 tg://proxy?server=nano.happvpn.cc&port=4514&secret=ee0a638f4a7bd9db9e94449c652ea963066e616e6f2e6861707076706e2e6363
 tg://proxy?server=142.54.189.108&port=443&secret=7gnbgVptgqMf2nb4ciMMaddwa2didWlsZC5vcmc
@@ -1052,4 +1042,3 @@ tg://proxy?server=95.111.255.227&port=443&secret=ee6bb8f5bbf4cab4ffee2c513c7271c
 tg://proxy?server=83.166.255.87&port=443&secret=dd000102030405060708090a0b0c0d0e0f
 tg://proxy?server=31.220.76.169&port=443&secret=eedb527145eb548da774b24e6c11d02021636c6f7564666c6172652e636f6d
 tg://proxy?server=handbell.jude.meet.motoring.shake-up.watchpinoyteleserye.com&port=1150&secret=9c3dd2c3b66976461382216193e8e323
-tg://proxy?server=mt.gdetotam.com&port=443&secret=eec85ac17f6c6d48dc9efe7b1f0421da8f7777772e676f6f676c652e636f6d
