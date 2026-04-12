@@ -4068,4 +4068,3 @@ vless://45e1ccb7-cdd4-4880-8530-e69d92686acc@62.152.59.116:443?flow=xtls-rprx-vi
 vless://6d0e9ded-d23d-4ffb-b165-7bc757be84d3@nl6.404-it.ru:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=iJtV4K5gN-o-af3KRJVBggeV90fl2UgbquhiORgc9SM&security=reality&sid=35a9370ef24eb007&sni=nl6.404-it.ru&type=tcp#🇳🇱[openproxylist.com]
 vless://c031d6c7-5132-4d81-8efc-3b13a947984e@81.88.25.20:59029?encryption=none&packetEncoding=xudp#%F0%9F%93%8512%2F08-%40v2node%F0%9F%91%89%F0%9F%8F%BB17
 vless://441dd3af-a89e-4ee4-946a-6bc69f24a5e5@5.188.143.138:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=st.ozone.ru&pbk=qoJPqQ4RYYGOs6TQ3N_A_WnsnxCfAg6sfQXlr51jKVY#🇷🇺
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@82.117.245.166:2053?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#🇩🇪[openproxylist.com]
