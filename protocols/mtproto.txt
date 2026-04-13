@@ -1,3 +1,4 @@
+tg://proxy?server=149.120.147.223&port=443&secret=ee6719f637173dc2276468b703e739f00e7777772e62696e672e636f6d
 tg://proxy?server=158.160.245.131&port=17372&secret=314ce48f4f975874163a7961444c3b66
 tg://proxy?server=77.82.87.210&port=1080&secret=eef9e3c297669c8debaf706811cc770a507777772e636c6f7564666c6172652e636f6d
 tg://proxy?server=havene5c9-c9862954.proxytg.ink&port=443&secret=b968de5d8c88024af77ee0ed494abb74
@@ -999,10 +1000,10 @@ https://t.me/proxy?server=proxydazhenaparkovke.site&port=443&secret=dde8aa2e8c1a
 https://t.me/proxy?server=2.27.20.156&port=443&secret=ee636c6f7564666c6172652e636f6db6
 https://t.me/proxy?server=proxyobhod.online&port=443&secret=71c30cc28759e0a10b6de5b471d69751
 https://t.me/proxy?server=194.190.152.168&port=443&secret=eee52fdf1f6e8359eac49c0d9e5a6da1bb7777772e676f6f676c652e636f6d
+tg://proxy?server=Shoting.forwarding-co.site.&port=44300&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=videolandia.duckdns.org&port=8443&secret=7hty2YFwzNwkAMNb3ksBfSN2aWRlb2xhbmRpYS5kdWNrZG5zLm9yZw
 https://t.me/proxy?server=free.euthanasia.website&port=443&secret=7iNz/L4bCOGfaoTGHwRyZJh3d3cuY2xvdWRmbGFyZS5jb20
 https://t.me/proxy?server=46.52.232.233&port=7997&secret=eefb411605ed6c699374aeb32f4db7b9ed626979736b32322e7275
-tg://proxy?server=Shoting.forwarding-co.site.&port=44300&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=2.27.21.235&port=443&secret=ee636c6f7564666c6172652e636f6d02
 tg://proxy?server=tg.nosokvpn.com&port=443&secret=118fb8496cb1abb9cd6e0fbe1000ad92
 https://t.me/proxy?server=mt.white-bars.ru&port=8443&secret=12da224b61c3662bcda2294414b5eda9
