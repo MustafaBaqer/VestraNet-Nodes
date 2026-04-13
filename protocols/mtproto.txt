@@ -1076,3 +1076,4 @@ https://t.me/proxy?server=2.144.7.182&port=8000&secret=ee09db815a6d82a31fda76f87
 tg://proxy?server=144.31.156.182&port=443&secret=63cecff5a89972f00b7136fa91dfa392
 tg://proxy?server=185.119.58.137&port=443&secret=ee35e0de31c00d68bc59a96066471c8c2a6f6e656d652e7275
 tg://proxy?server=prx.fastexte.pro&port=8443&secret=ee650fb0356e691161e5af0f3ca862290a70726f782e66617374657874652e70726f
+tg://proxy?server=144.31.156.184&port=443&secret=df645a386c81f6fd8875c307ddf89e69
