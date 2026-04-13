@@ -11,9 +11,9 @@ hy2://0f771058-7892-4d46-b77e-a69e811b9cbc@84.201.25.156:443?sni=hls-svod.itunes
 hy2://0f771058-7892-4d46-b77e-a69e811b9cbc@89.124.73.31:443?sni=hls-svod.itunes.apple.com#%F0%9F%A7%B898%40oneclickvpnkeys
 hy2://0f771058-7892-4d46-b77e-a69e811b9cbc@84.200.91.118:443?sni=hls-svod.itunes.apple.com#%F0%9F%A7%B892%40oneclickvpnkeys
 hy2://c1785de0-212f-11ef-92aa-f23c9164ca5d@wangcai.hk1.hyhuawei.com:443?sni=WangCai.hk1.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0HK_%40WangCai_8
-hy2://strong-secret-pass-777@103.231.73.181:444?sni=www.microsoft.com&obfs=salamander&obfs-password=cry_me_a_r1ver_2026#%F0%9F%A5%AE95%40oneclickvpnkeys
 hy2://rstnnl@nrealistic.nn-foto.ru:443?sni=nrealistic.nn-foto.ru&obfs=salamander&obfs-password=CvxXZnSth1bVJKGFP2cof4rI52ifHJ2W#%F0%9F%A5%AE97%40oneclickvpnkeys
 hy2://rstnnl@musicclips.videolinks.ru:443?sni=musicclips.videolinks.ru&obfs=salamander&obfs-password=hH0l2Acqz3RtodoSCNCpNJqDSZtp4Qw#%F0%9F%A5%AE100%40oneclickvpnkeys
+hy2://strong-secret-pass-777@103.231.73.181:444?sni=www.microsoft.com&obfs=salamander&obfs-password=cry_me_a_r1ver_2026#%F0%9F%A5%AE95%40oneclickvpnkeys
 hy2://strong-secret-pass-777@45.15.171.80:444?sni=www.microsoft.com&obfs=salamander&obfs-password=cry_me_a_r1ver_2026#%F0%9F%AA%BA92%40oneclickvpnkeys
 hy2://auth@65.109.178.92:443?sni=cdn.cloudflare.com#%40Hddify
 hy2://dongtaiwang.com@62.210.25.116:40022?sni=www.microsoft.com#%F0%9F%A4%9621%40oneclickvpnkeys
