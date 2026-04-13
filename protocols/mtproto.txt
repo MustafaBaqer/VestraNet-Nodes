@@ -14,7 +14,6 @@ tg://proxy?server=185.68.246.15&port=443&secret=ee75c4397cff7299ada6b05ae598cf91
 tg://proxy?server=87.121.89.227&port=8443&secret=eeba15e0c527433a3a686b97f09254f5a0796f6e73652e6f7267
 tg://proxy?server=77.82.87.210&port=1080&secret=eef9e3c297669c8debaf706811cc770a507777772e636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=138.199.231.66&port=443&secret=7gnbgVp
-tg://proxy?server=tg.safepal.life&port=443&secret=ee7c5474451d78bb07ae047680e9de3d8079616e6465782e6e6574
 tg://proxy?server=109.248.170.167&port=443&secret=ee27069b55a8fb3f985b7d8de35a303fb06b617370692e6b7a
 tg://proxy?server=94.176.182.114&port=443&secret=ee676f6f676c652e636f6da04436a998
 tg://proxy?server=tg.shtil.io&port=21&secret=ee66642e6f6e656d652e7275d2d785db
