@@ -1,7 +1,7 @@
+tg://proxy?server=lavandoviyraf.ru&port=443&secret=3c28e396a117f8ea16468e061ae48de4
 https://t.me/proxy?server=204.168.176.214&port=443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=194.87.252.116&port=443&secret=6356ebb33a57b6deda8a1c3cf2aee557
 tg://proxy?server=158.160.245.131&port=17372&secret=314ce48f4f975874163a7961444c3b66
-tg://proxy?server=mt.gdetotam.com&port=443&secret=eec85ac17f6c6d48dc9efe7b1f0421da8f7777772e676f6f676c652e636f6d
 tg://proxy?server=havene5c9-c9862954.proxytg.ink&port=443&secret=b968de5d8c88024af77ee0ed494abb74
 tg://proxy?server=proxy-sosavpn.duckdns.org&port=8443&secret=f5a36ceadd9bbedd919fbd9f1c9387dd
 tg://proxy?server=landing.ad-places.ru&port=8443&secret=eee2933d1dcaba391455908ca4fd1f94dd6c616e64696e672e61642d706c616365732e7275
@@ -909,7 +909,6 @@ tg://proxy?server=109.120.183.224&port=443&secret=eea1b2c3d4e5f6a7b8c9d0e1f2a3b4
 https://t.me/proxy?server=tg.safepal.life&port=443&secret=ee7c5474451d78bb07ae047680e9de3d8079616e6465782e6e6574
 tg://proxy?server=mix.nuv.su&port=443&secret=ee470cb2b8b29aeadfbdf8a2f7bee5ca3b62726f777365722e79616e6465782e636f6d
 tg://proxy?server=176.108.255.233&port=443&secret=dd7c5d4e1f2a3b9c8d7e6f5a4b3c2d1e0f
-tg://proxy?server=lavandoviyraf.ru&port=443&secret=3c28e396a117f8ea16468e061ae48de4
 tg://proxy?server=abnormity.caulis.fluvial.goblin.papillary.kapitoshka.info&port=15653&secret=5540a359eb0a8ed255aca6773b8974a8
 tg://proxy?server=telegrammessenger_proxy.dimasssss.space&port=443&secret=ddbe3007e927acd147dde12bee8b1a7c93
 tg://proxy?server=dalghak.rylvin.bar&port=443&secret=2fff2d4ed2b27ce431f313db2ade78e7
@@ -1078,5 +1077,3 @@ https://t.me/proxy?server=tumanpro.krotmonstr.online&port=443&secret=eeddffec89f
 https://t.me/proxy?server=138.124.241.86&port=443&secret=7ijYr7v/s62j2/lxOUHAtx1tYWlsLnJ1
 tg://proxy?server=91.107.189.181&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=31.220.77.123&port=443&secret=eedac749bb24f965a81b697e1418be00f2636c6f7564666c6172652e636f6d
-tg://proxy?server=jettonhub.com&port=443&secret=ee79bebd21021a06e2bac7a525855bed8379616e6465782e7275
-tg://proxy?server=144.31.235.138&port=443&secret=538d0d41e81b48f3d092d07b46e2285e
