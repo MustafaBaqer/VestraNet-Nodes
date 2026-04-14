@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🌐 VestraNet Nodes Ecosystem
-### Empowering Digital Freedom Through Absolute Command
+### Empowering Digital Freedom Through Absolute Command 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Auto_Update-Active-brightgreen?style=for-the-badge&logo=githubactions" alt="Auto Update Active">
