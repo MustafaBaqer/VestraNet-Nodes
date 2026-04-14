@@ -11,7 +11,6 @@ tg://proxy?server=77.82.87.210&port=1080&secret=eef9e3c297669c8debaf706811cc770a
 tg://proxy?server=31.47.51.152&port=8582&secret=ddbb01e59aa510ca70ce9e935c471df2d8
 tg://proxy?server=83.228.246.77&port=443&secret=7qyvn1g6m2Qsh0OplMz2nLd2ay5jb20
 https://t.me/proxy?server=138.199.231.66&port=443&secret=7gnbgVp
-tg://proxy?server=155.133.23.254&port=443&secret=eee8277a17e556102934f361d7ca7fc87e636c6f7564666c6172652e636f6d
 tg://proxy?server=ru-02-proxy.duckdns.org&port=443&secret=dd49d04008260c313f6bdd9203dc6bb73f
 tg://proxy?server=hyper.happvpn.cc&port=8443&secret=ee4852c1c04ab83db8a328c60eaf9a0db268797065722e6861707076706e2e6363
 tg://proxy?server=nano.happvpn.cc&port=4514&secret=ee0a638f4a7bd9db9e94449c652ea963066e616e6f2e6861707076706e2e6363

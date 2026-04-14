@@ -1,4 +1,4 @@
-vless://00000000-0000-4000-8000-000000000000@138.226.240.199:4433?allowInsecure=1&encryption=none&host=sub.mot.ip-ddns.com&path=/&security=tls&sni=sub.mot.ip-ddns.com&type=ws#🇳🇱
+vless://42c72c94-d46d-48f4-b9c0-58bbe1c2efcb@89.208.228.49:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=st.ozone.ru&pbk=qoJPqQ4RYYGOs6TQ3N_A_WnsnxCfAg6sfQXlr51jKVY#🇷🇺
 vless://0eee1ca3-94e7-4c95-ac06-7255fd26096d@45.84.222.30:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=eh.vk.com&pbk=0RW5P5qI5sej7PwhLixMUlClXpK-be1TLHKInhMhmh8#🇳🇱
 vless://0ca20960-99aa-4c92-b44d-e08829ef1a69@193.23.211.125:30385?encryption=none&fp=chrome&pbk=BudozUb-DKLwfXzhtlvp_FR8iZoOWwwOvr9K_jd9uQw&security=reality&sid=6232ac20545869&sni=yahoo.com&type=tcp#🇩🇪[openproxylist.com]
 vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@vip2.kaixincloud.top:443?allowInsecure=1&encryption=none&host=639073677259599430.civic-perma.info&path=%2Fcahttingws&security=tls&sni=639073677259599430.civic-perma.info&type=ws#🇬🇧[openproxylist.com]
@@ -84,6 +84,7 @@ vless://29aec4cd-9f09-4cbc-bac8-ef43ca2e4d57@161.104.105.144:443?flow=xtls-rprx-
 vless://30c1aec0-7a99-417b-a893-ab891f21cfb8@5.188.141.197:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=max.ru&pbk=WWA4FL9fWO0sy41E-fciX6ZTKUL4U2MxhpXJs9jPQ2I&sid=b2a6e3d42f05c3d1&spx=/#🇷🇺
 vless://343a94e3-359f-4dff-b72a-96407f7a4c51@161.104.105.144:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&sid=5be97fb85093a3a9#🇷🇺
 vless://343a94e3-359f-4dff-b72a-96407f7a4c51@161.104.105.144:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&sid=dc8109baf0f607ea#🇷🇺
+vless://00000000-0000-4000-8000-000000000000@138.226.240.199:4433?allowInsecure=1&encryption=none&host=sub.mot.ip-ddns.com&path=/&security=tls&sni=sub.mot.ip-ddns.com&type=ws#🇳🇱
 vless://5952ea01-0669-4f5e-8010-61f8abee3600@fi2.grizzlyvpn.work:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=rPuuq2HGz8VfN9xjDjnjoi-HgTFi-ZvY5l8Ebktuqmc&security=reality&sid=7501ae7ef79c300d&sni=fi2.grizzlyvpn.work&type=tcp#@v2rayconfigamir
 vless://d1209ffb-c159-48d5-b40d-542ce11fc768@150.241.83.152:10121?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=apple.com&pbk=4DdA8dBVn5zB_UTbgBY45YqM0HU8zrjXYdzg3-wz5Rg&sid=9c2a7d4e5f18b6a3#@v2rayconfigamir
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.53.182:23576?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#🇩🇪
@@ -2925,7 +2926,6 @@ vless://541e29bd-d3de-4f1e-b555-6ac2ed8813b2@194.87.215.212:443?flow=xtls-rprx-v
 vless://46186e93-6708-491d-afaa-6ffe410cde79@79.137.175.228:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=f4b4a6365558ea2e#🇷🇺
 vless://4327a67f-c2f9-4664-942c-eaa94aef9243@84.201.173.63:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=ads.x5.ru&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8#🇷🇺
 vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@188.114.98.0:443?alpn=http/1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=639075478000711639.civic-perma.info&path=/cahttingws&security=tls&sni=639075478000711639.civic-perma.info&type=ws#🧸53@oneclickvpnkeys
-vless://43488128-319e-f480-64ea-0acdc712e2a8@45.77.66.142:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Ic2uiGhkBgJUsY0CZUBqa1y22V_BO7F4S93Zgk_ir2c&security=reality&sid=0c1553316a645758&sni=www.zalando.de&type=tcp#🧸6@oneclickvpnkeys
 vless://ee6817f6-50fe-4114-b7ff-ce853b144282@45.136.129.109:59999?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=x0t1otRGBv62aJKGNbsQRJGtwh-sp6CEScFS6S8y3EM&security=reality&sid=7c8d9e0f&sni=yastatic.net&type=tcp#🧸67@oneclickvpnkeys
 vless://a62c40a2-ce60-4790-b6c5-c7a1e13ccb2d@104.18.12.149:443?path=/test?ed=2560&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=Clu.servert1op.ir&fp=chrome&type=ws&sni=Clu.servert1op.ir#@YamYamProxy
 vless://55758da0-47f4-4e47-87a5-b8908afc48bf@104.18.12.149:8080?path=/ws&security=none&encryption=none&host=zire4rakhtealbalo.hosseincapri.sbs&type=ws#@YamYamProxy
