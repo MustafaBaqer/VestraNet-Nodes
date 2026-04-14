@@ -46,6 +46,7 @@ vless://90c9c25c-df6c-4438-83d3-ef97166a9184@85.209.159.22:443?security=reality&
 vless://2e2c66ea-9271-48b7-b5ab-b537a23b959c@176.108.246.230:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=pimg.mycdn.me&pbk=LW4kZEMbix1PIESoiJUi8pSl-uIaupCXn9LHq9znVDQ&spx=/#🇷🇺
 vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@172.64.147.236:443?allowInsecure=1&encryption=none&host=octopusss5.info&path=%2Fudfyfws&security=tls&sni=octopusss5.info&type=ws#🇩🇪[openproxylist.com]
 vless://c01733dd-3e58-4da9-910b-cdd4560295bc@45.84.0.217:2443?encryption=none&fp=chrome&pbk=ZMvMtsHKNd39qVM9CuPLMEXUL19ViL4Qqqk1y5mMjko&security=reality&serviceName=TestChatGRPC&sid=a1b2c3d4&sni=eh.vk.com&type=grpc#🇲🇩[openproxylist.com]
+vless://0cf4a308-1fe7-42e2-bc41-f1b5877f489e@93.185.166.71:1443?allowInsecure=1&alpn=h2,http/1.1&encryption=none&security=tls&sni=nl17.fastlanehosting.ru&type=tcp#🇳🇱[openproxylist.com]
 vless://5d5a0e79-aa49-4ed9-8a31-5fc142efab33@146.185.240.117:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&sid=f32140952ba18e18#🇷🇺
 vless://6053689d-39d6-4005-b1bd-c0dce854f429@de-fast.chunkyvpn.shop:443?flow=xtls-rprx-vision&security=tls&encryption=none&sni=de-fast.chunkyvpn.shop&alpn=h2&type=tcp&path=/#🇩🇪
 vless://40759e42-d74b-4470-acc4-a580f264e860@rus.alibarda-ru.ru:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ReHxtyEtHLEiCAraVUd3jlS8XIKTRVxuTCHDr0zQSTY&security=reality&sni=rus.alibarda-ru.ru&type=tcp#👻90@oneclickvpnkeys
@@ -73,7 +74,6 @@ vless://05b544a4-d479-4ba4-8208-950bd4411453@45.89.105.56:80?encryption=none&pat
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.221.143.154:443?allowInsecure=0&sni=sni.111000.dynv6.net&type=ws&host=sni.111000.dynv6.net&path=/?ed=2560fp=chrome&security=tls#@v2rayconfigamir
 vless://07a91c4d-600d-4d4e-beb4-07fbe2b44477@90.156.215.248:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=rbc.ru&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=f4b4a6365558ea2e#🇷🇺
 vless://405ba2d6-7fcb-4cdd-9c77-4ecc616d77c8@93.94.51.210:443?flow=xtls-rprx-vision&security=tls&encryption=none&sni=deu549.worldbypass.org&type=tcp&path=/#🇩🇪
-vless://8f8380ae-9f5d-4cb5-8f5f-0f70fbe054a9@45.43.92.216:7443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&security=reality&sid=d82fb387&sni=chat.deepseek.com&type=tcp#🧬57@oneclickvpnkeys
 vless://0c5bd0d6-60e7-4f01-b6d3-f9456c113df7@161.104.105.144:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&sid=dc8109baf0f607ea#🇷🇺
 vless://51aef6d9-940b-43b2-9c4d-b6d9caf2b1db@45.84.222.30:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=eh.vk.com&pbk=0RW5P5qI5sej7PwhLixMUlClXpK-be1TLHKInhMhmh8#🇳🇱
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.53.182:23576?flow=xtls-rprx-vision&security=reality&encryption=none&sni=fuck.rkn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&type=tcp&headerType=none&path=/#🇩🇪
