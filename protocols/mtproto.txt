@@ -1,4 +1,8 @@
+https://t.me/proxy?server=204.168.176.214&port=443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=194.87.252.116&port=443&secret=6356ebb33a57b6deda8a1c3cf2aee557
 tg://proxy?server=158.160.245.131&port=17372&secret=314ce48f4f975874163a7961444c3b66
+tg://proxy?server=155.133.23.254&port=443&secret=eee8277a17e556102934f361d7ca7fc87e636c6f7564666c6172652e636f6d
+tg://proxy?server=ru-02-proxy.duckdns.org&port=443&secret=dd49d04008260c313f6bdd9203dc6bb73f
 tg://proxy?server=havene5c9-c9862954.proxytg.ink&port=443&secret=b968de5d8c88024af77ee0ed494abb74
 tg://proxy?server=proxy-sosavpn.duckdns.org&port=8443&secret=f5a36ceadd9bbedd919fbd9f1c9387dd
 tg://proxy?server=landing.ad-places.ru&port=8443&secret=eee2933d1dcaba391455908ca4fd1f94dd6c616e64696e672e61642d706c616365732e7275
