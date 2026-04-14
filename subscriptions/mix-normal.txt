@@ -5937,7 +5937,6 @@ vless://12e13585-e499-42ed-b735-0e3ad6f97f94@95.174.92.50:8443?flow=xtls-rprx-vi
 ssr://dXMubGlub2RlLnJicWlzLm1lOjE5MTU1OmF1dGhfc2hhMV92NDphZXMtMTkyLWN0cjp0bHMxLjJfdGlja2V0X2F1dGg6U2xWQ1dFTlEvP29iZnNwYXJhbT0mcmVtYXJrcz04SiUyQkh1dkNmaDdoVlV5MDBOUzQxTmk0NE1pNDJNeTAwT1RRNSZwcm90b3BhcmFtPQ==
 tg://proxy?server=209.250.250.111&port=443&secret=3839ec9dddc2c7f0d4c76ab8e46504ae
 tg://proxy?server=voice.techlibrary.ink&port=4501&secret=eebe7b92224e463a0e2899b7420daa4ca3626973636f7474692e79656b74616e65742e636f6d
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNmJ0YlJ2SkNvM3VUUS0teWFhVDhNdmgwQ2dxaFlUTA@95.85.239.225:8388#%3E%3E%40oneclickvpnkeys%3A%3ADE
 tg://proxy?server=176.98.189.210&port=443&secret=ee930a99456cf20abb9fcddb105ce2890231632e7275
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.96.3:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=/?Telegram🇨🇳@WangCai2=&security=tls&sni=sni.111000.indevs.in&type=ws#🥮60@oneclickvpnkeys
 tg://proxy?server=150.251.152.189&port=8443&secret=dd036f220431a6387a4094622dbdab8014
@@ -5949,6 +5948,7 @@ tg://proxy?server=ru36.importmsk.ru&port=8443&secret=dde3d3a09a31f5c857890cfc2a0
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.200.160.19:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=/&security=tls&sni=sni.111000.v6.navy&type=ws#🐵17@oneclickvpnkeys
 tg://proxy?server=bound9.techlibrary.ink&port=4501&secret=eebe7b92224e463a0e2899b7420daa4ca3626973636f7474692e79656b74616e65742e636f6d
 tg://proxy?server=rimgywqz.helper.website&port=443&secret=ee529601068198460504c5d45bc449f945647567776579722e706978656c7265616c6d2e73686f70
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNmJ0YlJ2SkNvM3VUUS0teWFhVDhNdmgwQ2dxaFlUTA@95.85.239.225:8388#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://1babf197-af69-406e-aae2-83c411ae979f@77.239.126.65:443?encryption=none&fp=chrome&pbk=G1QPj-IQQVssEsfjld6gGOlxhgXDYdg56cYdweymLy0&security=reality&sid=3ef8cdbc&sni=eh.vk.com&type=grpc#%F0%9F%95%8A%EF%B8%8F89@oneclickvpnkeys
 tg://proxy?server=ky79vzbr.helper.website&port=443&secret=eeca45a5a4f3ca15fe22b1214aa7bbaf71647567776579722e706978656c7265616c6d2e73686f70
 tg://proxy?server=89.117.57.105&port=443&secret=ee39893f907f1ee3a3cbee2fb90129f0d4636c6f7564666c6172652e636f6d
