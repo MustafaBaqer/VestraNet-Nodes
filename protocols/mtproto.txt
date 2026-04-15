@@ -1017,6 +1017,10 @@ tg://proxy?server=47.76.77.155&port=8888&secret=dd9035de6b150c249f1b6f7156092757
 tg://proxy?server=47.238.118.153&port=8888&secret=dd1c29c9e2cf1bebef973063bf5cee2ab6
 tg://proxy?server=89.169.33.141&port=443&secret=eef6cf7f962f5100401aea20b56d9404df73332e616d617a6f6e6177732e636f6d
 tg://proxy?server=47.76.185.250&port=8888&secret=ddbc333021b477f9f51080ec9f6e9f5ef3
+tg://proxy?server=65.109.127.34&port=443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=65.109.127.34&port=443&secret=dd104462821249bd7ac519130220c25d0
+tg://proxy?server=185.226.118.110&port=1657&secret=ee139937629fa7870893a409fe1477c0e87777772e676f6f676c652e636f6d
+tg://proxy?server=195.201.250.234&port=443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=45.66.163.217&port=7443&secret=7rFcfxc4nt_IjMO80W6NU0F3d3cuZ29vZ2xlLmNvbQ
 https://t.me/proxy?server=mt.fi.ipizdec.lol&port=443&secret=de18609544eb7fa267cf94735d320ac5
 https://t.me/proxy?server=zerotier1.saba-e.com&port=5010&secret=eead33390c48192788f0a5fe46e7efff3d676f6f676c652e636f6d
