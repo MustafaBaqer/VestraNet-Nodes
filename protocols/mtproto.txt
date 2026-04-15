@@ -130,10 +130,10 @@ https://t.me/proxy?server=196.18.164.109&port=443&secret=7qUoRcTrR/RqpOxEyAuYHT9
 tg://proxy?server=s4.neo-trading.org&port=443&secret=ee181e2ad5e63c27262781187f2dedc4bb79612e7275
 https://t.me/proxy?server=178.234.111.142&port=8443&secret=ddbc29fd4a9e787e07b7b1c93000f9d44a
 https://t.me/proxy?server=37.252.20.9&port=443&secret=ee6d61782e7275a71fecfd7a5576c488
+tg://proxy?server=37.139.43.26&port=443&secret=ddf5199e949c0f23bc887581218ad8c1e6
 tg://proxy?server=45.90.13.34&port=443&secret=dda85f2776cc83dbff66b440fb03050cf7
 tg://proxy?server=connect.solutions.solutions&port=443&secret=dd2ae5891b2b9b9b811b212050843193aa
 tg://proxy?server=49.13.136.242&port=443&secret=dd104462821249bd7ac519130220c25d09
-tg://proxy?server=37.139.43.26&port=443&secret=ddf5199e949c0f23bc887581218ad8c1e6
 https://t.me/proxy?server=78.17.8.163&port=443&secret=7dca6b75dc099aa1aee504098de965fd
 https://t.me/proxy?server=tg.onespeed.cloud&port=7443&secret=37a56d11e989bbd2eeaebb7421f068f3
 tg://proxy?server=62.60.153.149&port=8443&secret=eeafcf3caecbc3ec3818a3f00189c171db77696b6970656469612e6f7267
@@ -986,7 +986,6 @@ tg://proxy?server=103.56.114.117&port=20001&secret=eea5942ff95e1bc79f3598114dfc7
 tg://proxy?server=xy.dc6.icu&port=41528&secret=feff39bcddb62859ade093fcad935858
 tg://proxy?server=nid24.mtproxygram.pro&port=443&secret=ee5d32cb9e437af2cd30246de55f5a205162726f777365722e79616e6465782e636f6d
 https://t.me/proxy?server=207.180.203.24&port=443&secret=7uBwJkgHh8uyF8nq_Te86VtzMy5hbWF6b25hd3MuY29t
-https://t.me/proxy?server=91.107.169.174&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=chipolata.flavorus.hoaxer.rattrap.scrub.akoypinoytv.net&port=7800&secret=bf027426b873e9821394c097a696ba61
 tg://proxy?server=andreabot.duckdns.org&port=8444&secret=21bb689a715bb089460f14cd7b18f933
 tg://proxy?server=72.56.8.143&port=443&secret=ee8b24e8078ea51d85a1b9d7030fe205f56d61782e7275
