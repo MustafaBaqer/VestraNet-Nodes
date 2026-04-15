@@ -564,11 +564,14 @@ tg://proxy?server=www.yzffffff450.co.uk&port=443&secret=eecBAgABAAfwAwOG4kw63QAA
 https://t.me/proxy?server=bmw.hezarsh-mashal0.co.uk.zttpykhad-sdj.co.uk.vjhkgttrrhks-sdcj.co.uk.pwkxjjrhks-skci.co.uk.pwkxjjrhks-ikcj.co.uk.fskxjjrhks-rkcr.co.uk.&port=7443&@MTProtoTG&secret=eeRighJJvXrFGRMCIMJdCQ&@MTProtoTG
 https://t.me/proxy?server=167.86.78.176&port=443&secret=eed5c573c0e1f78c4e377e9882b06e3c50636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=proxy-tube.duckdns.org&port=443&secret=ee47d8b029af97e26480fccc7ab5cf83a170726f78792d747562652e6475636b646e732e6f7267
+tg://proxy?server=142.132.232.226&port=4455&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=141.98.6.192&port=443&secret=ee2c7dab3c75adbe7da5d466f44ee2bc4a78702e6170706c652e636f6d
 https://t.me/proxy?server=psql.s1nqq.fun&port=5432&secret=0e5360aecceecd4c27f7acd6aa79a7d5
 https://t.me/proxy?server=68.209.58.149&port=443&secret=7jFMSRrub9JuyovG5wb7BUJtYWlsLnJ1
 https://t.me/proxy?server=173.249.36.34&port=443&secret=ee13012cfc85c1d5d1e970636d6fe5b542636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=51.250.17.20&port=443&secret=0b40e95e35e50d449ea341aaeb375109
+tg://proxy?server=frhb90498flex.ikexpress.com&port=443&secret=ee5df55ec73ac44c90b83e29641e28fd26676f6f676c652e636f6d
+https://t.me/proxy?server=tproxy.neuropath.ru&port=10443&secret=e7b7ae25defab0e07be5d30fadbfc105
 tg://proxy?server=mt3.vpn-one.net&port=5223&secret=7ae73ddfd70b8e549aae657b4da1bf03
 tg://proxy?server=37.152.189.200&port=1657&secret=eed1924052e662cdcd91163979def278e07777772e676f6f676c652e636f6d
 tg://proxy?server=92.113.147.75&port=8443&secret=eed1a874f7b2ab053b0067b702c8c79ed27777772e687362632e636f2e756b
@@ -622,6 +625,8 @@ tg://proxy?server=2.26.83.110&port=443&secret=ee79612e7275536e14fb0bd805d0ad7f
 tg://proxy?server=37.32.28.215&port=1657&secret=ee9edbe6e0c6ce8dcbc85567f6d6d043477777772e676f6f676c652e636f6d
 tg://proxy?server=65.109.61.14&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=82.27.2.223&port=443&secret=9f27410725ab8ab84ed17daf14723236
+tg://proxy?server=31.220.78.96&port=443&secret=ee3be8b0dd88684ce762b7a34def93044b636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=proxy-v2-3.sapog-host.ru&port=443&secret=ee0b0535863e1462dabb9c9e00c5861d14726164696f7265636f72642e7275
 https://t.me/proxy?server=mir.n3o.ooo&port=4444&secret=00000044004004000000400040000000
 tg://proxy?server=104.238.183.122&port=443&secret=9673dd2cd90fb7e75141144f6d14098e
 https://t.me/proxy?server=prx.today&port=443&secret=b3f0c7f6af7dc2dc2e9c80d0d80e8162&@zibanabz
@@ -1059,7 +1064,6 @@ https://t.me/proxy?server=77.221.142.123&port=3443&secret=eeeeaf2a08cb735517c611
 https://t.me/proxy?server=mt.hq-vpn.com&port=8443&secret=dd77870ef8bdf3625b6eb083bc2f55877e
 tg://proxy?server=prosto.regavo.sbs&port=443&secret=ee79612e72756039543b96de91e27fed
 tg://proxy?server=order-development.edlar.ru&port=444&secret=7irtnW2eVmrXa7Q3VPhp
-tg://proxy?server=142.132.232.226&port=4455&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=91.107.174.85&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=37.152.186.108&port=1682&secret=ee8062dd1e53d584b4b1e2673e9855a68b7777772e676f6f676c652e636f6d)🦋
 tg://proxy?server=82.208.20.149&port=443&secret=eeecd9eafc5070fb91da9b529a305a92b5636c6f7564666c6172652e636f6d](https://t.me/proxxxy2026
