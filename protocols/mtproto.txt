@@ -195,6 +195,7 @@ tg://proxy?server=tg.klymra.online&port=443&secret=7kBfT5IRlHYoJqNwl6yyh7Z3Yi5yd
 tg://proxy?server=31.220.78.146&port=443&secret=ee981c79d929c9fbf81ef6d233940a538a636c6f7564666c6172652e636f6d
 tg://proxy?server=tg.belka.network&port=443&secret=107cb7c1a3e23228d9e45226a2ac0785
 tg://proxy?server=194.163.159.151&port=443&secret=ee30be06dacdb12302ab0934640b778d8d636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=mtproto.eu&port=443&secret=bd22cd34081c9420e8515a153186e632
 https://t.me/proxy?server=FAST.tgsecurity.online&port=443&secret=ee7c5d4e1f2a3b9c8d7e6f5a4b3c2d1e0f766b2e636f6d
 https://t.me/proxy?server=193.233.82.134&port=443&secret=4428c7014df8c8251795fdd6f985ee7d
 https://t.me/proxy?server=193.233.82.101&port=443&secret=78a76f41b4e0eb5399d78dce2cbd3504
