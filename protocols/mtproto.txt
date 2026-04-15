@@ -1,3 +1,4 @@
+tg://proxy?server=83.166.255.236&port=443&secret=dd000102030405060708090a0b0c0d0e0f
 https://t.me/proxy?server=194.87.252.116&port=443&secret=6356ebb33a57b6deda8a1c3cf2aee557
 tg://proxy?server=158.160.245.131&port=17372&secret=314ce48f4f975874163a7961444c3b66
 tg://proxy?server=fruktozka.space&port=443&secret=ee6d7433ac868119eb36e9c9d9bbbba346636c6f7564666c6172652e636f6d
