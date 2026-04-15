@@ -4034,6 +4034,7 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.0.54.238:2096?allowInsecure=1&e
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@216.205.52.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@49.13.171.76:8444?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AXX
 vless://3f9c8463-8610-3ed8-86c8-a26713067825@188.114.98.0:443?path=/db10240eb751d6ab&security=tls&encryption=none&host=dabaius2.sylu.net&type=ws&sni=dabaius2.sylu.net#@v2rayconfigamir
+vless://e0a446bc-5e87-4a54-ac72-48462a0ca233@2.27.61.17:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=i5a8i2AWUSMZ-rYA6hGBRCBBoe7W5ah33SCdF5JkMk4&security=reality&sid=8bcfe256cf216fd8&sni=apple.com&type=tcp#%F0%9F%95%8A%EF%B8%8F35@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.77.213.238:8443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&security=tls&sni=sni.111000.dynv6.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.195.118.15:2053?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AXX
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@54.36.98.93:2053?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
