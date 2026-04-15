@@ -934,6 +934,7 @@ tg://proxy?server=bosnia.capture.misdeem.offcast.washerwoman.pinoyteleseryehd.ne
 tg://proxy?server=tg.servervless.ru&port=9443&secret=0867e1b95cc9aa87049f7d68fa83760d
 tg://proxy?server=94.237.55.164&port=443&secret=ddf52a77e85155cbda48b63b20d7ef6b71&ref=09f00dd69e5b7c4ddf184feaf707ec39
 tg://proxy?server=173.212.229.99&port=443&secret=eefea85401978c4b18d790fe3aaed5764c636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=aftermost.blastolation.dodging.dornoch.jeep.pinoyfilms.net&port=8450&secret=f2697137ca13fc2ad81a4b0d4ec2a3d1
 tg://proxy?server=66.42.95.15&port=443&secret=87f7086c55dd4b1fbc73a9d44baad735
 tg://proxy?server=91.108.189.184&port=443&secret=eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275
 tg://proxy?server=31.58.137.124&port=443&secret=eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275
@@ -989,6 +990,10 @@ tg://proxy?server=103.56.114.117&port=20001&secret=eea5942ff95e1bc79f3598114dfc7
 tg://proxy?server=xy.dc6.icu&port=41528&secret=feff39bcddb62859ade093fcad935858
 tg://proxy?server=nid24.mtproxygram.pro&port=443&secret=ee5d32cb9e437af2cd30246de55f5a205162726f777365722e79616e6465782e636f6d
 https://t.me/proxy?server=207.180.203.24&port=443&secret=7uBwJkgHh8uyF8nq_Te86VtzMy5hbWF6b25hd3MuY29t
+tg://proxy?server=31.220.72.60&port=443&secret=ee399a6e8dbe6399816eba10c0fa78609d636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=151.247.196.72&port=443&secret=eebfd6f2c074e99a71f1218eebaa156c376170706c652e636f6d
+tg://proxy?server=31.220.72.224&port=443&secret=eea53322ad1baa135a8fcc2d5d6bff6e3a636c6f7564666c6172652e636f6d
+tg://proxy?server=31.220.72.192&port=443&secret=ee7efc984a2466c817293e34c37d871459636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=chipolata.flavorus.hoaxer.rattrap.scrub.akoypinoytv.net&port=7800&secret=bf027426b873e9821394c097a696ba61
 tg://proxy?server=andreabot.duckdns.org&port=8444&secret=21bb689a715bb089460f14cd7b18f933
 tg://proxy?server=72.56.8.143&port=443&secret=ee8b24e8078ea51d85a1b9d7030fe205f56d61782e7275
