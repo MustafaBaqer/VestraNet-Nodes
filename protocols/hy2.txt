@@ -20,4 +20,3 @@ hy2://strong-secret-pass-777@45.15.171.80:444?sni=www.microsoft.com&obfs=salaman
 hy2://auth@65.109.178.92:443?sni=cdn.cloudflare.com#%40Hddify
 hy2://dongtaiwang.com@62.210.25.116:40022?sni=www.microsoft.com#%F0%9F%A4%9621%40oneclickvpnkeys
 hy2://hysteria2_fastlane_4il18i3ep@150.241.79.201:443?sni=de5.h.fastlanehosting.ru#%F0%9F%A7%AB32%40oneclickvpnkeys
-hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%3E%3E%40oneclickvpnkeys%3A%3AXX
