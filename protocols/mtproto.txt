@@ -1,4 +1,3 @@
-tg://proxy?server=144.31.156.184&port=443&secret=df645a386c81f6fd8875c307ddf89e69
 tg://proxy?server=87.121.89.227&port=8443&secret=eeba15e0c527433a3a686b97f09254f5a0796f6e73652e6f7267
 https://t.me/proxy?server=194.87.252.116&port=443&secret=6356ebb33a57b6deda8a1c3cf2aee557
 tg://proxy?server=158.160.245.131&port=17372&secret=314ce48f4f975874163a7961444c3b66
@@ -33,6 +32,7 @@ https://t.me/proxy?server=2.144.7.247&port=8443&secret=7gnbgVptgqMf2nb4ciMMaddwa
 tg://proxy?server=77.72.80.103&port=25565&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=XB1YN.MTP.IPSENTER.NET&port=443&secret=ee18b60b291a8043f7834790af2cc028c4676f6f676c652e636f6d
 tg://proxy?server=prx.fastexte.pro&port=8443&secret=ee650fb0356e691161e5af0f3ca862290a70726f782e66617374657874652e70726f
+tg://proxy?server=144.31.156.184&port=443&secret=df645a386c81f6fd8875c307ddf89e69
 https://t.me/proxy?server=connect.rebelworldwide.online&port=2096&secret=0b4b570140af218753e8980c963f091a
 tg://proxy?server=31.59.39.25&port=5342&secret=eee9a0eae2977983f363238c90c950a44c7275747562652e7275
 tg://proxy?server=199.247.23.222&port=443&secret=21d3f327eec4b908083ad2e1bec542d1
@@ -654,7 +654,6 @@ tg://proxy?server=yield7d7c-b1940a66.proxytg.ink&port=443&secret=eeffc2c18bc8c00
 tg://proxy?server=s3.fluctuation.online&port=443&secret=eedd345afe9188a4e5a94dc706e1aa6cef78352e7275
 tg://proxy?server=51.250.72.173&port=8443&secret=ddbfd846b76b7374c38a008c6af9255fdc
 tg://proxy?server=167.86.81.232&port=443&secret=ee225f29b78fa2a218d8bd70158e9ecc2c636c6f7564666c6172652e636f6d
-tg://proxy?server=49.13.136.242&port=443&secret=dd104462821249bd7ac519130220c25d09](
 tg://proxy?server=mtproto.steelrat.space&port=854&secret=79d479153578b97561f528032026af12
 tg://proxy?server=207.180.240.199&port=443&secret=eea53b6e987fc7b16bb71bff869731448e636c6f7564666c6172652e636f6d
 tg://proxy?server=212.80.7.139&port=443&secret=ee3f354f86e59e2c166c83031772d92d6379612e7275
