@@ -4450,3 +4450,4 @@ vless://4799c1a4-9d5a-4404-b1bb-84db70cd6991@217.16.27.42:443?flow=xtls-rprx-vis
 vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.199:8443?allowInsecure=0&sni=ams1.fromblancwithlove.com&security=tls#🇳🇱[openproxylist.com]
 vless://8b648e4c-ac38-4809-951b-e1c8862b13d1@45.149.115.148:443?security=reality&encryption=none&pbk=0pX0dvxDHHJS2uK0t_SHauP1LB65JsRD1kQp9MK9vjI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=96#Filter_breaker
 vless://14144ce1-afac-4351-8253-0b806fc68938@51.250.3.107:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=esg.x5.ru&pbk=6S9Wy_u58vloVUxfyds4xCl8QCLklDKwP3uXTyd3THw&sid=4702ef30e8f49051&spx=/#🇷🇺
+vless://14144ce1-afac-4351-8253-0b806fc68938@95.163.213.207:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=img.perekrestok.ru&pbk=6QuXF9h6zSZaShf__6zJVSt7v2PBoHl_93srUQ1cylo&sid=9feb491b95867c5a&spx=/#🇷🇺
