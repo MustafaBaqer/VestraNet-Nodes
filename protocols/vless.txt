@@ -3264,7 +3264,6 @@ vless://5a4d8ee4-f2f7-4ce1-8987-fbe5421e2db0@188.225.74.242:10443?flow=xtls-rprx
 vless://9caafed4-04ba-41b2-9c64-e4ce39a985d6@104.21.224.5:2053?allowInsecure=1&encryption=none&host=fz3.sellink.ir&path=%2F&security=tls&sni=fz3.sellink.ir&type=ws#🇨🇭[openproxylist.com]
 vless://fad2b7e0-d80c-4b7b-a84f-d86e0e49f627@45.15.128.75:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=BSsqyfTD-avgb1CyUdy_qJA95HwyMadBMJt7-EQjggk&sid=e473bbc75224b9df&spx=/#🇵🇱[openproxylist.com]
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@94.131.101.135:443?&security=tls&sni=sni.111000.v6.navy&type=ws&headerType=none&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%20%40wangcai2#🇺🇸[openproxylist.com]
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.53.182:23576?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fuck.rkn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&type=tcp&headerType=none#NormanV2ray-149
 vless://a56d2e87-b6d6-4e55-a9f1-c7f334c8a7d7@104.18.16.56:80?encryption=none&security=none&type=ws&host=pc01.8sm.ir&path=/ir2#Free
 vless://a56d2e87-b6d6-4e55-a9f1-c7f334c8a7d7@172.64.149.54:80?encryption=none&security=none&type=ws&host=pc01.8sm.ir&path=/ir2#Free
 vless://0f771058-7892-4d46-b77e-a69e811b9cbc@91.84.115.17:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Q15z1J7L4r_PNKs9E3n5kAPxGsVlahY4ff3nOM8v3E8&security=reality&sid=f716fd72&sni=hls-svod.itunes.apple.com&type=tcp#🧸95@TeleProxyTele
