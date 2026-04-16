@@ -3,10 +3,10 @@ https://t.me/proxy?server=194.87.252.116&port=443&secret=6356ebb33a57b6deda8a1c3
 tg://proxy?server=158.160.245.131&port=17372&secret=314ce48f4f975874163a7961444c3b66
 https://t.me/proxy?server=insnapp.space&port=2053&secret=eeaac85835fb7d25b992ea0416b2ede075696e736e6170702e7370616365
 tg://proxy?server=free-nl.kimt.space&port=443&secret=ee3efced182e68e689a17d58c71ff6fafe667265652d6e6c2e6b696d742e7370616365
-tg://proxy?server=83.228.246.77&port=443&secret=7qyvn1g6m2Qsh0OplMz2nLd2ay5jb20
+tg://proxy?server=150.241.65.206&port=443&secret=ee903703943e487a63dccbf1d654a7417d6d792e6369616f776e65722e6c6f6c&comment=xxx
 tg://proxy?server=havene5c9-c9862954.proxytg.ink&port=443&secret=b968de5d8c88024af77ee0ed494abb74
 tg://proxy?server=185.68.246.15&port=443&secret=ee75c4397cff7299ada6b05ae598cf91d57777772e636c6f7564666c6172652e636f6d
-tg://proxy?server=150.241.65.206&port=443&secret=ee903703943e487a63dccbf1d654a7417d6d792e6369616f776e65722e6c6f6c&comment=xxx
+tg://proxy?server=83.228.246.77&port=443&secret=7qyvn1g6m2Qsh0OplMz2nLd2ay5jb20
 https://t.me/proxy?server=ger1.agera-connect.lol&port=443&secret=ee1378018235f440ce3cc21d689db275bc676572312e61676572612d636f6e6e6563742e6c6f6c
 tg://proxy?server=tg.elysium.su&port=8443&secret=eee2933d1dcaba391455908ca4fd1f94dd74672e656c797369756d2e7375
 tg://proxy?server=proxy-sosavpn.duckdns.org&port=8443&secret=f5a36ceadd9bbedd919fbd9f1c9387dd
