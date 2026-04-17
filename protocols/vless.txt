@@ -4514,3 +4514,4 @@ vless://276fb08a-bebc-4e27-a2be-88b27891c3e0@158.160.52.102:443?flow=xtls-rprx-v
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:2053?encryption=none&type=ws&host=sni.111000.dynv6.net&security=tls&sni=sni.111000.dynv6.net#🇺🇸
 vless://27460465-eb9a-439f-9502-f840d73f219d@146.185.240.172:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=d515d6cfdfe60b02#🇷🇺
 vless://4799c1a4-9d5a-4404-b1bb-84db70cd6991@217.16.27.42:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=id.x5.ru&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&sid=111111#🇷🇺
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.5.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
