@@ -8475,8 +8475,8 @@ ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#%F0%9F%87%B0%F0%9F
 sdns://gRExODUuMTA3LjgwLjg0OjQ0Mw
 vless://098fd515-29de-4d74-b77d-d8ab878a7e2c@172.64.32.133:443?encryption=none&type=ws&host=rivvers.info&path=/resgdws&security=tls&sni=rivvers.info#[🇨🇦]t.me/ConfigsHub
 ssr://anAtYW00OC02LmVxbm9kZS5uZXQ6ODA4MTpvcmlnaW46YWVzLTI1Ni1jZmI6dGxzMS4yX3RpY2tldF9hdXRoOlpVRnZhMkpoUkU0Mi8/Z3JvdXA9YUhSMGNITTZMeTkyTW5KaGVYTmxMbU52YlE9PSZyZW1hcmtzPThKK0hyL0NmaDdWZlNsQmY1cGVsNXB5cw==------------------------------------------å¿…è¿›ï¼šã€�TGå…¨ç½‘å¯¼èˆªã€‘
-vmess://eyJhZGQiOiI4Mi4xOTguMjQ2LjQ2IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsIm5ldCI6InRjcCIsInBhdGgiOiJcLyIsInBvcnQiOiIxODAiLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOFtvcGVucHJveHlsaXN0LmNvbV0gdm1lc3MtVVMiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNmJ0YlJ2SkNvM3VUUS0teWFhVDhNdmgwQ2dxaFlUTA@145.249.115.115:8388#🇳🇱
+vmess://eyJhZGQiOiI4Mi4xOTguMjQ2LjQ2IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsIm5ldCI6InRjcCIsInBhdGgiOiJcLyIsInBvcnQiOiIxODAiLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOFtvcGVucHJveHlsaXN0LmNvbV0gdm1lc3MtVVMiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
 vless://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@148.135.195.95:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&security=reality&sid=6ba85179e30d4fc2&sni=www.vk.com&type=tcp#🇳🇴[openproxylist.com]
 tg://proxy?server=89.117.61.184&port=443&secret=eedec404cfa8eda63cce9e838547dee3dc636c6f7564666c6172652e636f6d
 tg://proxy?server=31.57.82.212&port=6793&secret=ee000000000000000000000000000000
