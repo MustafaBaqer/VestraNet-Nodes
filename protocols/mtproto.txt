@@ -31,8 +31,6 @@ tg://proxy?server=89.124.64.13&port=443&secret=ee17ae2b46d2b106af164facdd9d7472
 https://t.me/proxy?server=2.144.7.247&port=8443&secret=7gnbgVptgqMf2nb4ciMMaddwa2didWlsZC5vcmc&@zibanabz
 tg://proxy?server=77.72.80.103&port=25565&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=XB1YN.MTP.IPSENTER.NET&port=443&secret=ee18b60b291a8043f7834790af2cc028c4676f6f676c652e636f6d
-tg://proxy?server=prx.fastexte.pro&port=8443&secret=ee650fb0356e691161e5af0f3ca862290a70726f782e66617374657874652e70726f
-tg://proxy?server=144.31.156.184&port=443&secret=df645a386c81f6fd8875c307ddf89e69
 https://t.me/proxy?server=connect.rebelworldwide.online&port=2096&secret=0b4b570140af218753e8980c963f091a
 tg://proxy?server=31.59.39.25&port=5342&secret=eee9a0eae2977983f363238c90c950a44c7275747562652e7275
 tg://proxy?server=199.247.23.222&port=443&secret=21d3f327eec4b908083ad2e1bec542d1
