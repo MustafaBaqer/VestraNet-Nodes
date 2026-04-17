@@ -881,8 +881,10 @@ tg://proxy?server=23.26.156.211&port=41528&secret=feff39bcddb62859ade093fcad9358
 tg://proxy?server=nl.veesp.idind.ru&port=4433&secret=ee4524202907d996fd9f1ed38b971902187a72616d2e6964696e642e7275
 tg://proxy?server=62.171.183.101&port=443&secret=ee36ee4a84e1fa2cca6f1d430eee851de7636c6f7564666c6172652e636f6d
 tg://proxy?server=fr.easy.idind.ru&port=4433&secret=ee0680b483a5e854b47984152b57ee444c7a72616d2e6964696e642e7275
+tg://proxy?server=akenai.tg&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
 https://t.me/proxy?server=obxod2.vpnforum.ru&port=443&secret=bf9f2d60e8d4ca1b376a71ea5400c7d2
 tg://proxy?server=pr.a.storefiles.top&port=2096&secret=dd283eb38241e01788410388ccb656eead
+tg://proxy?server=news1704.mtproxygram.lol&port=443&secret=ee608248722a8f45103ed03c7994abf9b062726f777365722e79616e6465782e636f6d
 tg://proxy?server=116.203.0.182&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=45.129.39.135&port=8869&secret=767cf6f14f461cdd166b54eddb53e1b0
 tg://proxy?server=rkn.tg&port=1337&secret=dda2d3fa639a6ddcf8d6d1c5913d001531
