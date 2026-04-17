@@ -6257,8 +6257,8 @@ vless://a384c715-aeb5-45e8-859b-f687ca6c083f@5.180.97.139:443?encryption=none&fl
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.223.24.65:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#🇩🇪[openproxylist.com]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@nbmrcg003507ck6.cybervena.com:50099
 vless://0c9fb268-0bd5-4be2-9168-f2d0fe53269e@158.160.194.60:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=5post-gate.x5.ru&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&sid=111111&spx=/#🇷🇺
-hy2://zhangyang@130.61.50.75:6443?sni=dash.cloudflare.com#telegram%3A%20%40hupivpn
 vless://a47fb050-8477-4d86-9332-5f687f572d94@de.faceppm.ru:1888?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=GaVpyGU5Xqyd5SYmchrCIajjTiXF69bmCnUdftmrwTM&security=reality&sid=6b&sni=www.kernel.org&type=tcp#🐤14@oneclickvpnkeys
+hy2://zhangyang@130.61.50.75:6443?sni=dash.cloudflare.com#telegram%3A%20%40hupivpn
 ssr://MTQuMjkuMTI0LjE2ODoyNDAwNTpvcmlnaW46YWVzLTEyOC1jZmI6cGxhaW46VVdGNlJXUmpWR2RpTVRVNVFDUXEvP29iZnNwYXJhbT0mcmVtYXJrcz04SiUyQkhxUENmaDdORFRpMHhOQzR5T1M0eE1qUXVNVFk0TFRFMk16QSUzRCZwcm90b3BhcmFtPQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD15%201.2MB%2Fs
 tg://proxy?server=test.alotaxi.info&port=8443&secret=ee25773d1e79da8a2f549d1c38da5aae41626f6f6b696e672e636f6d
