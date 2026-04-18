@@ -346,7 +346,6 @@ https://t.me/proxy?server=p4.new-ai.uk&port=443&secret=eea55f874d57980ec9b48ab10
 tg://proxy?server=144.91.71.245&port=443&secret=ee0b2abbe3b912d1c71c2116af79ce7f03636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=176.12.69.32&port=443&secret=ee79612e72758e84feb907475118033d
 https://t.me/proxy?server=72.62.150.190&port=2053&secret=7a16ad3840d31414dcb461b22fe5b200
-https://t.me/proxy?server=138.124.68.7&port=443&secret=6356ebb33a57b6deda8a1c3cf2aee557
 tg://proxy?server=167.86.98.8&port=443&secret=eed220b192bc0bd885be93e478f7b4926d636c6f7564666c6172652e636f6d
 tg://proxy?server=czr.eights.cloud&port=443&secret=ee9eb94476b50257ed1d92cf2504d81ab9637a722e6569676874732e636c6f7564
 tg://proxy?server=tele.djnapalm.ru&port=443&secret=eefd624c18549e495e8365b38a812ac350676f6f676c652e636f6d
@@ -699,6 +698,7 @@ tg://proxy?server=mtpjp2.onetaplink.app&port=22124&secret=ddebeb7f379c5cdb9aa4e6
 tg://proxy?server=mtpjp3.onetaplink.app&port=32332&secret=ddebeb7f379c5cdb9aa4e6f75f02a403bf
 tg://proxy?server=50.7.230.106&port=443&secret=eec0ab2dc91cd75da14bf8bde752ca8222766473696e612e7275
 tg://proxy?server=66.135.2.114&port=443&secret=bbdd3ba2140d7a4de7fe4f38d08d4d28
+https://t.me/proxy?server=138.124.68.7&port=443&secret=6356ebb33a57b6deda8a1c3cf2aee557
 tg://proxy?server=qcold.online&port=443&secret=ee102030405060708090a0b0c0d0e0f00079616e6465782e7275
 https://t.me/proxy?server=cloudflare.modirpodir.ir&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=45.76.19.217&port=443&secret=e580c361c040d829673962536b44fe52
