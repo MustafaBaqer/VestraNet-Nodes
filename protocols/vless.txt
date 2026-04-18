@@ -4579,4 +4579,3 @@ vless://1e97f262-296c-45cf-afc0-6ed86f768013@57.129.119.115:443?encryption=none&
 vless://60dd5ed3-2b9d-44f7-9cd0-9831bc3e2dc4@217.16.26.210:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=e57932a42872a362#🇷🇺
 vless://21e8a520-7219-45e2-b0f1-19d414a97d0d@185.39.206.220:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=max.ru&pbk=TGCn_54sGMSXxlj9IpG8NCcxUlqBrUDzt-5vNwYNXhU&sid=b2a6e3d42f05c3d1&spx=/#🇷🇺
 vless://276fb08a-bebc-4e27-a2be-88b27891c3e0@158.160.52.102:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=api-maps.yandex.ru&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4&spx=/#🇷🇺
-vless://4dc0b42a-1a8a-4337-851b-5d8a1f149fca@104.16.80.73:8443?path=/&security=tls&encryption=none&host=superconducting.turboo-server.space&type=ws&sni=superconducting.turboo-server.space#🇺🇸

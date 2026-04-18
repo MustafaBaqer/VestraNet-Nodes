@@ -714,6 +714,7 @@ tg://proxy?server=85.198.99.185&port=8443&secret=dd28df1727029aed45d15f3a44d31e7
 tg://proxy?server=he.de-fa.1.mtproto.ru&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d
 tg://proxy?server=82.152.162.20&port=10004&secret=ee548593a9c0688f4f7d9d57377897d964636c6f7564666c6172652e636f6d
 tg://proxy?server=tg.vless.cloud&port=25565&secret=eec52989e32ab86d01d07ad0e9ab642846696d616765732e6170706c652e636f6d
+https://t.me/proxy?server=193.23.195.203&port=443&secret=dd6ca4bc3ac2493c924bd21db211bb910d
 tg://proxy?server=89.117.56.81&port=443&secret=ee934784a1863647fef211e0fdb91dbdd3636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=178.154.199.119&port=443&secret=470d380b9edcc756e4623d2b4cfebf47
 tg://proxy?server=free-mtproto.anti-zapret.com&port=63771&secret=39a36277e8fe6939b422875d1dd8765c
