@@ -701,9 +701,9 @@ https://t.me/proxy?server=138.124.68.7&port=443&secret=6356ebb33a57b6deda8a1c3cf
 tg://proxy?server=qcold.online&port=443&secret=ee102030405060708090a0b0c0d0e0f00079616e6465782e7275
 https://t.me/proxy?server=cloudflare.modirpodir.ir&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=45.76.19.217&port=443&secret=e580c361c040d829673962536b44fe52
+https://t.me/proxy?server=217.60.61.27&port=1&secret=2d24bc724e49fdf32f2e00dd554989fc
 tg://proxy?server=176.108.242.30&port=443&secret=dd7c5d4e1f2a3b9c8d7e6f5a4b3c2d1e0f
 tg://proxy?server=89.208.199.56&port=443&secret=ddb4b54ddf0b9f3b82dd7b4a5a888ea82d
-https://t.me/proxy?server=217.60.61.27&port=1&secret=2d24bc724e49fdf32f2e00dd554989fc
 tg://proxy?server=149.28.211.184&port=443&secret=188d375951009db9ee4278002393cb3c
 tg://proxy?server=de1.kael.fuckrkn.net&port=443&secret=ee1a499af9a7a18282da82e30714402e157777772e6165726f666c6f742e7275
 tg://proxy?server=96.30.197.251&port=443&secret=723c9d20b75ccfcd778a5eae9141c251
