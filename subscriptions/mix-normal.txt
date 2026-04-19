@@ -7093,13 +7093,13 @@ tg://proxy?server=93.77.163.16&port=443&secret=dddc35618e5df194b814ac9ac5d2fd5b2
 tg://proxy?server=157.173.122.85&port=4515&secret=cc63d963f06aaacd6d9c6a4d15da35d9
 tg://proxy?server=176.123.165.52&port=443&secret=dd7c5d4e1f2a3b9c8d7e6f5a4b3c2d1e0f
 trojan://de7d6444-a7a8-4b3a-bf26-bc6939bb0279@n1.chateditimage.com:443?security=tls&sni=n1.chateditimage.com#🏳[openproxylist.com]
+hy2://strong-secret-pass-777@2.56.172.83:444?sni=www.microsoft.com&obfs=salamander&obfs-password=cry_me_a_r1ver_2026#%F0%9F%AA%BA82%40oneclickvpnkeys
 vless://0cd74655-7850-4f9b-bac2-b5e8af7bc584@95.163.208.115:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&sid=4ffc99daad0f261f#🇷🇺
 vless://15f2b372-46df-4cf4-b9f7-a3a37d278943@185.130.113.8:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=id.x5.ru&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&sid=111111#🇷🇺
 tg://proxy?server=149.120.147.201&port=443&secret=ee6719f637173dc2276468b703e739f00e7777772e62696e672e636f6d
 tg://proxy?server=167.86.100.17&port=443&secret=eed2c4dc1c928e717578dc046e6213f1ee636c6f7564666c6172652e636f6d
 tg://proxy?server=104.207.157.105&port=443&secret=6642d7ccbac0c56d773d7b8ba470826e
 vmess://eyJhZGQiOiAiMTY1LjE0MC4yMTYuMTQxIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJlN2Q3MmE4ZC0yNmYyLTRiNTQtYjM2Ni0wYzQzZTBiY2JhN2QiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogNDQzLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAibmFtZSI6ICI+PkB2MnJheV9jb25maWdzX3Bvb2w6OlVTOjpVUzo6VVM6OlVTOjpVUzo6VVM6OlVTOjpVUzo6VVM6OlhYOjpVUzo6WFg6OlhYOjpYWDo6WFg6OlVTOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYOjpVUzo6VVM6OlVTOjpVUzo6VVM6OlVTOjpVUzo6VVM6OlVTOjpVUzo6VVM6OlVTOjpVUzo6VVM6OlVTOjpVUzo6VVM6OlVTOjpVUzo6VVM6OlVTOjpVUzo6VVM6OlVTOjpVUyIsICJwcyI6ICLwn4e68J+HuCA4OSAtIFVTIC0gVk1lc3MgLSA0NDMifQ==
-hy2://strong-secret-pass-777@2.56.172.83:444?sni=www.microsoft.com&obfs=salamander&obfs-password=cry_me_a_r1ver_2026#%F0%9F%AA%BA82%40oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.63.60:2053?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#🇩🇪
 vless://5a2e2675-5ea2-477a-b06d-93fab256a1f3@193.233.251.222:47842?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=pg-bot.gigatapbot.top&pbk=VWhynxStqii0ll4ttnUJWG4Qy9dJFXhZu6Y8OiIO5Vk&sid=abef13603304c528#🇷🇺
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.99.243:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#🌱71@oneclickvpnkeys
