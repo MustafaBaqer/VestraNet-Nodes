@@ -4,6 +4,7 @@ tg://proxy?server=compassionate-heyrovsky.cfd&port=1984&secret=ddc76b8cb6d99f20a
 tg://proxy?server=cz.ciaowner.lol&port=443&secret=ee3bde6d51d22cf4b0b48127147ca830f869642e766b2e636f6d
 https://t.me/proxy?server=prx.today&port=443&secret=eeb3f0c7f6af7dc2dc2e9c80d0d80e81627a65726f2e6c6f63616c
 https://t.me/proxy?server=insnapp.space&port=2053&secret=eeaac85835fb7d25b992ea0416b2ede075696e736e6170702e7370616365
+tg://proxy?server=91.107.189.181&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=150.241.65.206&port=443&secret=ee903703943e487a63dccbf1d654a7417d6d792e6369616f776e65722e6c6f6c&comment=xxx
 tg://proxy?server=landing.ad-places.ru&port=8443&secret=eee2933d1dcaba391455908ca4fd1f94dd6c616e64696e672e61642d706c616365732e7275
 tg://proxy?server=havene5c9-c9862954.proxytg.ink&port=443&secret=b968de5d8c88024af77ee0ed494abb74
@@ -1085,16 +1086,3 @@ tg://proxy?server=37.32.31.16&port=1682&secret=ee5d5470a90609394d51281c62b31f07b
 tg://proxy?server=159.100.18.163&port=3444&secret=06cab4b61c436410bb231839bbf9ed19
 tg://proxy?server=72.62.150.190&port=2053&secret=7a16ad3840d31414dcb461b22fe5b200
 tg://proxy?server=37.32.28.215&port=1682&secret=eec2786f2f02f2c437c6fe1d6a34f8908e7777772e676f6f676c652e636f6d)🌿
-tg://proxy?server=37.32.31.16&port=1682&secret=ee5d5470a90609394d51281c62b31f07b57777772e676f6f676c652e636f6d)🌨️
-tg://proxy?server=37.32.28.215&port=1682&secret=eec2786f2f02f2c437c6fe1d6a34f8908e7777772e676f6f676c652e636f6d
-tg://proxy?server=158.220.115.52&port=443&secret=ee70a7cdefd71ce8402a97d26a8115b23c636c6f7564666c6172652e636f6d
-tg://proxy?server=89.117.61.200&port=443&secret=ee2cf049e834169fcb01c35bb92357e641636c6f7564666c6172652e636f6d](https://t.me/proxxxy2026
-tg://proxy?server=158.220.114.142&port=443&secret=ee35514a03f74ead2efe8d09c76650b72e636c6f7564666c6172652e636f6d
-tg://proxy?server=37.152.189.200&port=1682&secret=eeff2464ce4af7c811a3a4a9366480e5c77777772e676f6f676c652e636f6d)⚡
-tg://proxy?server=2.27.23.23&port=8443&secret=ddf5a97ceadd1bbedd918fbd9f1c9387dd
-tg://proxy?server=65.109.245.159&port=443&secret=dd104462821249bd7ac519130220c25
-tg://proxy?server=95.85.248.235&port=443&secret=3e62c19547064a69f1a5814fab84e3df
-tg://proxy?server=37.152.186.108&port=1682&secret=ee8062dd1e53d584b4b1e2673e9855a68b7777772e676f6f676c652e636f6d
-tg://proxy?server=72.60.186.130&port=8444&secret=dd21bb689a715bb089460f14cd7b18f933
-tg://proxy?server=vavan.xyz&port=443&secret=dd104462821249bd7ac519130220c25d09](https://t.me/proxxxy2026
-tg://proxy?server=FAST.tgsecurity.online&port=443&secret=dd7c5d4e1f2a3b9c8d7e6f5a4b3c2d1e0f
