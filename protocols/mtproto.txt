@@ -1099,4 +1099,3 @@ tg://proxy?server=72.60.186.130&port=8444&secret=dd21bb689a715bb089460f14cd7b18f
 tg://proxy?server=vavan.xyz&port=443&secret=dd104462821249bd7ac519130220c25d09](https://t.me/proxxxy2026
 tg://proxy?server=FAST.tgsecurity.online&port=443&secret=dd7c5d4e1f2a3b9c8d7e6f5a4b3c2d1e0f
 tg://proxy?server=158.220.115.76&port=443&secret=ee5ca225658ba14e61d864b4ea5e07bcda636c6f7564666c6172652e636f6d
-tg://proxy?server=37.152.189.200&port=1682&secret=eeff2464ce4af7c811a3a4a9366480e5c77777772e676f6f676c652e636f6d
