@@ -1,4 +1,4 @@
-sdns://AQcAAAAAAAAAE1syNjAyOmZiOTQ6MTozOTo6YV0g1OKRDMWAtnBoieTPNbjK-OrVjcuML2vQMc6gh-ZmYpAZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
+sdns://gRZbMmEwMzpmODA6Mzg2OmI3ZjY6OjFd
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@1.161.246.129:50099
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MWQ2NjU1ZDM2MjVmZDE0@185.244.208.150:11201#@v2rayconfigamir
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@87.236.146.32:2083?allowInsecure=1&host=xo.e0f.cx&path=/trojan-ws&sni=xo.e0f.cx&type=ws#🧸65@oneclickvpnkeys
@@ -145,7 +145,6 @@ vmess://eyJ2IjoiMiIsInBzIjoiQHYycmF5Y29uZmlnYW1pciA4NTA2IiwiYWRkIjoibjE3NTMzNTYz
 vless://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@188.126.76.159:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&security=reality&sid=6ba85179e30d4fc2&sni=www.google.com&type=tcp#🤖62@oneclickvpnkeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@36.230.13.161:50099#🇹🇼
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgImFkZCI6ICJ2MzAuaGRhY2QuY29tIiwgInBvcnQiOiAiMzA4MzAiLCAidHlwZSI6ICJub25lIiwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiL29iaiIsICJob3N0IjogImltZzE0LjM2MGJ1eWltZy5jb20iLCAidGxzIjogIiJ9
-sdns://AQcAAAAAAAAADTUuMTc1LjE4MC4xNzEg_5w5GH6bnmpKPcqtR58x5VHe2qD5-mSZeGIsqaukhr4ZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
 sdns://gRNbMmEwMzo5MGMwOjg1OjoxMDJd
 sdns://gRtbMmEwMzpjN2MwOjUyOjI2NDE6MTgwOjoxM10
 sdns://AQcAAAAAAAAAH1syYzBmOmU4Zjg6MjAwMDoyMzM6OjQyNTQ6YzViMl0g1UzQqRcyl0rdT1wzlCaQUSngLgRgr2nu13WTR5O6k8cZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
@@ -163,6 +162,7 @@ sdns://AQcAAAAAAAAADjE3Ni4xMjMuMTAuMTA1IEJtkG567ZvN_tTXhVcSyywcrDRhziwxmbnyohp5u
 sdns://AQcAAAAAAAAAHVsyMDAxOjY3ODo2ZDQ6NTA4MDo6M2RlYToxMDldIEJtkG567ZvN_tTXhVcSyywcrDRhziwxmbnyohp5u8gPGTIuZG5zY3J5cHQtY2VydC5kbnNjcnkucHQ
 sdns://gRRbMmEwZjpjNDQyOjgwMDA6OjMyXQ
 sdns://AQcAAAAAAAAADTIzLjIzMC4yNTMuOTgg1OKRDMWAtnBoieTPNbjK-OrVjcuML2vQMc6gh-ZmYpAZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
+sdns://AQcAAAAAAAAAE1syNjAyOmZiOTQ6MTozOTo6YV0g1OKRDMWAtnBoieTPNbjK-OrVjcuML2vQMc6gh-ZmYpAZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@148.135.195.95:2083?path=/trojan-ws&security=tls&host=xo.e0f.cx&type=ws&sni=xo.e0f.cx#🇳🇴[openproxylist.com]
 vmess://eyJhZGQiOiJkMmZvZzRmbGNmZ2I4Yy5jbG91ZGZyb250Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlMDcwZTU2Ny03OTk2LTQ1YTktOTAxNi0wMTQzNDIwOTQ2ZWYiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvODUzNmNiMTkyNmMyNGJiYzk5ZDdiZDkzMzUwZWM1NjQiLCJwb3J0IjoiNDQzIiwicHMiOiI+PkB2Mm5vZGVzOjpERTo6WFg6OlhYIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiItLSIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0
 ss://YWVzLTI1Ni1nY206OXBQS0oybVRkWnVRNlJPSnR5bHVtZllSR1M1ZUJxNzJnbzBoTTV6SDd4Zz0=@83.222.8.148:23753#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20
@@ -215,7 +215,7 @@ vless://98060071-bb2e-4b2e-81f4-6c7f6b0d1e19@45.151.30.160:8443?encryption=none&
 vless://31922c21-4292-5183-8e3b-52341ed80660@5.182.37.151:443?flow=xtls-rprx-vision&security=tls&encryption=none&sni=crghxqxyoy-518237151-direct.bahame.co&type=tcp&path=/#🇷🇴
 vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?security=none&encryption=none&type=ws&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&path=/vless/#🇫🇷
 vless://329ec52d-18a4-4138-a661-487b43d3ec84@146.185.240.117:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&sid=4ffc99daad0f261f#🇷🇺
-tg://proxy?server=150.241.65.206&port=443&secret=ee903703943e487a63dccbf1d654a7417d6d792e6369616f776e65722e6c6f6c&comment=xxx
+tg://proxy?server=31.47.51.152&port=8582&secret=ddbb01e59aa510ca70ce9e935c471df2d8
 trojan://T9BpZIVMNv@sweden.vmaxpanel.com:8443?allowInsecure=1&host=sweden.vmaxpanel.com&path=/amd&type=ws#1🫑@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.135.255.177:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&security=tls&sni=sni.111000.dynv6.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AXX
 tg://proxy?server=landing.ad-places.ru&port=8443&secret=eee2933d1dcaba391455908ca4fd1f94dd6c616e64696e672e61642d706c616365732e7275
@@ -226,7 +226,6 @@ trojan://BvzUvt45hON9We5X9wM6I9ZrxHRcYd46QK@216.238.102.254:26593?security=tls&s
 tg://proxy?server=83.228.246.77&port=443&secret=7qyvn1g6m2Qsh0OplMz2nLd2ay5jb20
 tg://proxy?server=185.68.246.15&port=443&secret=ee75c4397cff7299ada6b05ae598cf91d57777772e636c6f7564666c6172652e636f6d
 vless://1022f8bc-6582-4eec-b316-2aacbd7f4129@82.202.159.193:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&sid=6419bed7fd0a2cff#🇷🇺
-tg://proxy?server=31.47.51.152&port=8582&secret=ddbb01e59aa510ca70ce9e935c471df2d8
 https://t.me/proxy?server=ger1.agera-connect.lol&port=443&secret=ee1378018235f440ce3cc21d689db275bc676572312e61676572612d636f6e6e6563742e6c6f6c
 tg://proxy?server=proxy-sosavpn.duckdns.org&port=8443&secret=f5a36ceadd9bbedd919fbd9f1c9387dd
 tg://proxy?server=prxtg.enterlancevpn.com&port=443&secret=7l4DKhfeVb4_vfIbTvIr5Bxnb29nbGVhcGlzLmNvbQ
@@ -9998,3 +9997,4 @@ vless://21e8a520-7219-45e2-b0f1-19d414a97d0d@37.139.35.229:443?flow=xtls-rprx-vi
 ssr://ejAxMTMuc2VjdXJpdHktY2xvdWRmcm9udC1jZG4uY29tOjQyODMzOm9yaWdpbjphZXMtMjU2LWNmYjpodHRwX3NpbXBsZTpXWEJZTW05d1FtSnlabkZLZW5wTmN3PT0vP29iZnNwYXJhbT0mcmVtYXJrcz04SiUyQkhwdkNmaDdwQlZTMHpMakV3TlM0eU1URXVNVGt4TFRFek1UWSUzRCZwcm90b3BhcmFtPQ==
 vless://a5e746f7-328f-4b65-a65f-e2e2a4a5b1a9@212.34.142.191:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=wNcFqVd4_PkgJbfgJJeouSU6Pn_Swuce4q4Chw5T0hY&security=reality&sid=f7aa9e61197d3ac6&sni=tradingview.com&type=tcp#[28058]
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@158.220.88.180:8443?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.indevs.in&path=/&security=tls&sni=sni.111000.indevs.in&type=ws#[28072]
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.137.59:443?security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#[27271]
