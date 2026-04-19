@@ -197,11 +197,11 @@ tg://proxy?server=150.241.65.206&port=443&secret=ee903703943e487a63dccbf1d654a74
 tg://proxy?server=83.228.246.77&port=443&secret=7qyvn1g6m2Qsh0OplMz2nLd2ay5jb20
 trojan://T9BpZIVMNv@sweden.vmaxpanel.com:8443?allowInsecure=1&host=sweden.vmaxpanel.com&path=/amd&type=ws#1🫑@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.135.255.177:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&security=tls&sni=sni.111000.dynv6.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AXX
+tg://proxy?server=landing.ad-places.ru&port=8443&secret=eee2933d1dcaba391455908ca4fd1f94dd6c616e64696e672e61642d706c616365732e7275
 tg://proxy?server=havene5c9-c9862954.proxytg.ink&port=443&secret=b968de5d8c88024af77ee0ed494abb74
 tg://proxy?server=tg.elysium.su&port=8443&secret=eee2933d1dcaba391455908ca4fd1f94dd74672e656c797369756d2e7375
 hy2://62b7824e-47dc-11ef-9f2d-f23c9164ca5d@WangCai.hk1.hyhuawei.com:443/?insecure=1&sni=WangCai.hk1.hyhuawei.com#🇭🇰HK_@WangCai_8
 trojan://BvzUvt45hON9We5X9wM6I9ZrxHRcYd46QK@216.238.102.254:26593?security=tls&sni=sao2.cdn-graph.click#⚡
-tg://proxy?server=landing.ad-places.ru&port=8443&secret=eee2933d1dcaba391455908ca4fd1f94dd6c616e64696e672e61642d706c616365732e7275
 tg://proxy?server=185.68.246.15&port=443&secret=ee75c4397cff7299ada6b05ae598cf91d57777772e636c6f7564666c6172652e636f6d
 vless://1022f8bc-6582-4eec-b316-2aacbd7f4129@82.202.159.193:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&sid=6419bed7fd0a2cff#🇷🇺
 tg://proxy?server=31.47.51.152&port=8582&secret=ddbb01e59aa510ca70ce9e935c471df2d8
@@ -8358,8 +8358,8 @@ ssr://Y2RuMDIuMDgyMS5tZWl0dWFuODguY29tOjYwMTQ6YXV0aF9hZXMxMjhfbWQ1OmNoYWNoYTIwLW
 trojan://IL37892054@select-marmoset.rooster465.autos:443?security=tls&sni=select-marmoset.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-3.34.140.83-0202
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.180.80:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#🌱94@oneclickvpnkeys
 vless://d4a8c4b0-6375-44ab-93f0-0be6c7594fe6@riverroad.oakvalley.digital:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=bWkUF_xQmpm5JyoapyYhWq_WLwubqVA6DuwCfJgnOyc&security=reality&sid=69038a1b2dd582c9&sni=riverroad.oakvalley.digital&type=tcp#🌱99@oneclickvpnkeys
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7gg576O5Zu9IiwiYWRkIjoiMjAwMTpiYzg6MzJkNzozMDI6OjEwIiwicG9ydCI6IjQ0NTc5IiwidHlwZSI6Im5vbmUiLCJpZCI6IjhlMzRlMTcwLTEzYWUtNDg5Mi05ZDIwLTA1OTYyYWNjOWY4NCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiJ9
 https://t.me/proxy?server=91.107.189.181&port=8443&secret=dd104462821249bd7ac519130220c25d09
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7gg576O5Zu9IiwiYWRkIjoiMjAwMTpiYzg6MzJkNzozMDI6OjEwIiwicG9ydCI6IjQ0NTc5IiwidHlwZSI6Im5vbmUiLCJpZCI6IjhlMzRlMTcwLTEzYWUtNDg5Mi05ZDIwLTA1OTYyYWNjOWY4NCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiJ9
 hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?sni=api.kermanshahi.org%40freenettir&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%3A%20Free_VPN_CH%40%20%233
 vless://3c085d0d-fd2b-4990-b855-43476d8cb11b@51.250.86.196:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=eh.vk.com&pbk=SIxleL0-a3-i7zY_Zv_Qe0pbbRNIQbmaH6S9hGAMqUE&sid=3af8cee9&spx=/#🇷🇺
 vless://3c085d0d-fd2b-4990-b855-43476d8cb11b@51.250.86.196:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=event.yandex.ru&pbk=SIxleL0-a3-i7zY_Zv_Qe0pbbRNIQbmaH6S9hGAMqUE&sid=f09e0a2988ac6988&spx=/#🇷🇺
