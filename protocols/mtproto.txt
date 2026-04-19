@@ -697,7 +697,6 @@ tg://proxy?server=mtpjp2.onetaplink.app&port=22124&secret=ddebeb7f379c5cdb9aa4e6
 tg://proxy?server=mtpjp3.onetaplink.app&port=32332&secret=ddebeb7f379c5cdb9aa4e6f75f02a403bf
 tg://proxy?server=50.7.230.106&port=443&secret=eec0ab2dc91cd75da14bf8bde752ca8222766473696e612e7275
 tg://proxy?server=66.135.2.114&port=443&secret=bbdd3ba2140d7a4de7fe4f38d08d4d28
-https://t.me/proxy?server=138.124.68.7&port=443&secret=6356ebb33a57b6deda8a1c3cf2aee557
 tg://proxy?server=qcold.online&port=443&secret=ee102030405060708090a0b0c0d0e0f00079616e6465782e7275
 https://t.me/proxy?server=cloudflare.modirpodir.ir&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=45.76.19.217&port=443&secret=e580c361c040d829673962536b44fe52
@@ -1100,3 +1099,4 @@ tg://proxy?server=95.85.248.235&port=443&secret=3e62c19547064a69f1a5814fab84e3df
 tg://proxy?server=37.152.186.108&port=1682&secret=ee8062dd1e53d584b4b1e2673e9855a68b7777772e676f6f676c652e636f6d
 tg://proxy?server=72.60.186.130&port=8444&secret=dd21bb689a715bb089460f14cd7b18f933
 tg://proxy?server=vavan.xyz&port=443&secret=dd104462821249bd7ac519130220c25d09](https://t.me/proxxxy2026
+tg://proxy?server=FAST.tgsecurity.online&port=443&secret=dd7c5d4e1f2a3b9c8d7e6f5a4b3c2d1e0f
