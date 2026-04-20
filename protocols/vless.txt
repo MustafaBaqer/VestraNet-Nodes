@@ -485,7 +485,6 @@ vless://05061f46-f3d1-4131-9ecc-e2b5e475a815@89.208.198.240:443?flow=xtls-rprx-v
 vless://05061f46-f3d1-4131-9ecc-e2b5e475a815@89.208.198.240:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=max.ru&pbk=qBKCvZQlSjc1ufOS1Srt6fJjp1z8iuXiQRtM7KsOj3E&sid=ebb9cf048f6b0ac7#🇷🇺
 vless://05061f46-f3d1-4131-9ecc-e2b5e475a815@81.200.149.163:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=api.yandex.ru&pbk=UZ2NoBGMbrUpBav3lcqN-E43SxZTIvkjJuHNy-Yk_go&sid=d26763126a7cf4fe#🇷🇺
 vless://05061f46-f3d1-4131-9ecc-e2b5e475a815@81.200.149.163:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=travel.yandex.ru&pbk=KY8KUGcr79Ysw3QBwPX7nsRf0OEoTd8jF41eyIPQsn4&sid=fce83b6352a65b4a#🇷🇺
-vless://0d6b5af6-17df-4bb1-af76-e524f00602a5@172.232.248.242:2321/?type=tcp&encryption=none
 vless://7270612b-49f6-4b04-999c-34d8263da767@162.159.44.45:443?path=/aymdlws&security=tls&encryption=none&host=picassooo.info&type=ws&sni=picassooo.info#@filembad
 vless://e6567a1e-260f-4b0e-8de3-e2e12f90e854@152.53.80.40:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&security=reality&sid=ff776ff77be48b88&sni=sha.helper-internet.com&type=tcp#🫑79@oneclickvpnkeys
 vless://16653247-5e78-48e8-bd3c-1674fc4fc7ff@62.233.43.250:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=04bf0403f96e5b4b#🇷🇺
@@ -2146,7 +2145,6 @@ vless://ee6817f6-50fe-4114-b7ff-ce853b144282@87.121.38.33:59999?type=tcp&securit
 vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@188.114.98.0:443?allowInsecure=1&alpn=http/1.1&encryption=none&host=639075478000711639.civic-perma.info&path=/cahttingws&security=tls&sni=639075478000711639.civic-perma.info&type=ws#🇬🇧[openproxylist.com]
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.153.231:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#🇸🇬[openproxylist.com]
 vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@162.159.38.99:443?allowInsecure=1&encryption=none&host=639073677259599430.civic-perma.info&path=/cahttingws&security=tls&sni=639073677259599430.civic-perma.info&type=ws#🇬🇧[openproxylist.com]
-vless://5952ea01-0669-4f5e-8010-61f8abee3600@fi2.grizzlyvpn.work:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=rPuuq2HGz8VfN9xjDjnjoi-HgTFi-ZvY5l8Ebktuqmc&security=reality&sid=7501ae7ef79c300d&sni=
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@168.138.192.16:54584?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&Telegram🇨🇳+@WangCai2#@v2rayconfigamir
 vless://43913d44-55f6-40e3-b8ce-a22109d84057@213.171.26.10:2443?encryption=none&type=xhttp&security=reality&path=/&mode=auto&extra=null&fp=chrome&sni=max.ru&pbk=XqH-gNEL9eJfr1pglaI8WU3OvE654_5duXYBS35UXlM&sid=abcdef0123456789#🇷🇺
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.137.233:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#🇬🇧
@@ -2223,7 +2221,6 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.75.16.244:2053?allowInsecure=1&e
 vless://386ec39f-427c-4aa8-854f-8c405ec47ac9@161.104.105.122:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=9Y-_jCI3Z1x6SXK2tHdZ6V1CN9IJPNPnoxSW0cbXxD8&sid=50e09046c0c00159#🇷🇺
 vless://43488128-319e-f480-64ea-0acdc712e2a8@5.182.38.193:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=www.mol.hu&fp=chrome&pbk=w6Z8qD0CCeAW68-mdkJ6b-eHf1o3j_DEoXtlN7lnaCw&sid=a7c8f0630da31f6a&type=tcp&path=/#🇭🇺
 vless://305419ed-4ef5-3e5a-8d48-b803c58853d3@chatgpt.com:443?alpn=h3%2Ch2&encryption=none&host=s6.oboob.cn&path=%2Fdb10248afdcb0daf&security=tls&sni=s6.oboob.cn&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AXX
-vless://5e62ddcf-78c9-4b15-803a-436c8c839ddc@v3.dabache.top:2052/?type=ws&encryption=none&flow=&host=oBEDiENt-noiseqJf5ja18yF.wIndLer.CO.UK&path=
 vless://2d263fef-fd46-4168-afb0-e1e37e24351a@213.219.215.243:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=9Y-_jCI3Z1x6SXK2tHdZ6V1CN9IJPNPnoxSW0cbXxD8&sid=50e09046c0c00159#🇷🇺
 vless://49ce7256-c35c-423d-a970-3fa10f835f2b@82.202.159.119:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=tradingview.com&pbk=EMS0wzISeSbEe4JABPD8EgDnyLXgDmrX4_lcfG6VVX4&sid=dbbe8dca27a92c35#🇷🇺
 vless://49ce7256-c35c-423d-a970-3fa10f835f2b@82.202.159.119:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=tradingview.com&pbk=EMS0wzISeSbEe4JABPD8EgDnyLXgDmrX4_lcfG6VVX4&sid=c76ba2c2fb172e8b#🇷🇺
