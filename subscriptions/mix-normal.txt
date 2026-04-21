@@ -200,10 +200,6 @@ tg://proxy?server=prxtg.enterlancevpn.com&port=443&secret=7l4DKhfeVb4_vfIbTvIr5B
 tg://proxy?server=landing.ad-places.ru&port=8443&secret=eee2933d1dcaba391455908ca4fd1f94dd6c616e64696e672e61642d706c616365732e7275
 tg://proxy?server=83.228.246.77&port=443&secret=7qyvn1g6m2Qsh0OplMz2nLd2ay5jb20
 trojan://BvzUvt45hON9We5X9wM6I9ZrxHRcYd46QK@216.238.102.254:26593?security=tls&sni=sao2.cdn-graph.click#⚡
-tg://proxy?server=31.47.51.152&port=8582&secret=ddbb01e59aa510ca70ce9e935c471df2d8
-tg://proxy?server=tg.elysium.su&port=8443&secret=eee2933d1dcaba391455908ca4fd1f94dd74672e656c797369756d2e7375
-tg://proxy?server=havene5c9-c9862954.proxytg.ink&port=443&secret=b968de5d8c88024af77ee0ed494abb74
-vless://1022f8bc-6582-4eec-b316-2aacbd7f4129@82.202.159.193:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&sid=6419bed7fd0a2cff#🇷🇺
 sdns://AQcAAAAAAAAAFFsyMDAxOmFjODo0MDpkZjo6NTNdIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
 sdns://gRBbMmEwNTo5NDA0Ojo4OTld
 sdns://gQw0NS45MC41OS4xOTM
@@ -221,6 +217,10 @@ sdns://gQs5Ni45LjIyOC4yNw
 sdns://gRlbMjAwMTpkZjE6ODAxOmEwMjI6OmM0OmFd
 sdns://AQcAAAAAAAAAFVsyNjAyOmY3YTM6MDo1MjAwOjphXSAi9eUB5T3gcSitFeYv8NjxugJJpqqQLBdit8yf-lFZXRkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@148.135.195.95:2083?path=/trojan-ws&security=tls&host=xo.e0f.cx&type=ws&sni=xo.e0f.cx#🇳🇴[openproxylist.com]
+tg://proxy?server=31.47.51.152&port=8582&secret=ddbb01e59aa510ca70ce9e935c471df2d8
+tg://proxy?server=tg.elysium.su&port=8443&secret=eee2933d1dcaba391455908ca4fd1f94dd74672e656c797369756d2e7375
+tg://proxy?server=havene5c9-c9862954.proxytg.ink&port=443&secret=b968de5d8c88024af77ee0ed494abb74
+vless://1022f8bc-6582-4eec-b316-2aacbd7f4129@82.202.159.193:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&sid=6419bed7fd0a2cff#🇷🇺
 https://t.me/proxy?server=ger1.agera-connect.lol&port=443&secret=ee1378018235f440ce3cc21d689db275bc676572312e61676572612d636f6e6e6563742e6c6f6c
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.36.20:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&security=tls&sni=sni.jpmj.dev&type=ws#🇸🇬[openproxylist.com]
 trojan://WwipNOSqUh49CEapMmIrv6m6AZLf-EC0+T@104.238.162.6:13109?allowInsecure=1&sni=ord2.edge-command.click#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20Choopa%E5%85%AC%E5%8F%B8%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
