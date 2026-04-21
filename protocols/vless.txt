@@ -4686,3 +4686,4 @@ vless://144dff94-40d3-028e-9daf-61f3cd1ad5c1@158.160.250.116:443?flow=xtls-rprx-
 vless://9c6b6f27-f7d2-4d14-a09b-e40d4e54d3d9@194.147.221.79:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=pbO31C8T53OfUhnw152DBaQ0qRPPcStHth61s5OYdV4&security=reality&sid=aabbccdd&sni=www.microsoft.com&type=tcp#🧬8@oneclickvpnkeys
 vless://144dff94-40d3-4396-9daf-61f3cd1ad5c1@158.160.254.48:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=5post-gate.x5.ru&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&sid=111111#🇷🇺
 vless://8b648e4c-ac38-4809-951b-e1c8862b13d1@45.149.115.148:443?security=reality&encryption=none&pbk=0pX0dvxDHHJS2uK0t_SHauP1LB65JsRD1kQp9MK9vjI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=96#Join
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.98.0:2096?path=/&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#[🇨🇦]t.me/ConfigsHub
