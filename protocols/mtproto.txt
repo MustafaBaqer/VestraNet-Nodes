@@ -677,6 +677,7 @@ tg://proxy?server=207.180.195.37&port=443&secret=eedfa08dad56087f585c3948423aba9
 tg://proxy?server=80.249.131.53&port=3232&secret=dd3e0848dc48c09f0a8731af8c088fc5f5
 tg://proxy?server=190.2.144.63&port=443&secret=eea3c15217ac9f487f3a9c2a1cab661ebb7777772e676f6f676c652e636f6d
 tg://proxy?server=212.233.89.91&port=443&secret=ddf4b54d805ffeff430be106aa80d94f7f
+https://t.me/proxy?server=proxy.proxymtproto.net&port=443&secret=dd97caa3c6888366f26b12f994f02ecf1a
 tg://proxy?server=charlie.freetelega.me&port=8443&secret=eec2eec77016252e334767f27d5b208fb27265672e7275
 tg://proxy?server=tg.nurvpn.de&port=443&secret=f4b54d805ffeff430be106aa80d94f7f
 tg://proxy?server=194.163.137.37&port=443&secret=ee39e45164d090fe9f04b0271050d957c7636c6f7564666c6172652e636f6d
@@ -892,6 +893,7 @@ tg://proxy?server=akenai.tg&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d
 https://t.me/proxy?server=obxod2.vpnforum.ru&port=443&secret=bf9f2d60e8d4ca1b376a71ea5400c7d2
 tg://proxy?server=pr.a.storefiles.top&port=2096&secret=dd283eb38241e01788410388ccb656eead
 tg://proxy?server=news1704.mtproxygram.lol&port=443&secret=ee608248722a8f45103ed03c7994abf9b062726f777365722e79616e6465782e636f6d
+https://t.me/proxy?server=46.62.219.0&port=4367&secret=ee104462821249bd7ac519130220c25d096d61696c2e7275
 tg://proxy?server=116.203.0.182&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=45.129.39.135&port=8869&secret=767cf6f14f461cdd166b54eddb53e1b0
 tg://proxy?server=rkn.tg&port=1337&secret=dda2d3fa639a6ddcf8d6d1c5913d001531
