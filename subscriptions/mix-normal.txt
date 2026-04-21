@@ -5653,6 +5653,7 @@ tg://proxy?server=95.215.8.7&port=8443&secret=ee0255093dda82210420e832b376b77299
 ssr://bGl2ZS5iaWxpYmlsaWNsb3VkMDEuY29tOjU0MTEzOmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjAtaWV0ZjpwbGFpbjpUWFkwWlRCUlNGZFFkMlJpUzJsRFJnPT0vP29iZnNwYXJhbT0mcmVtYXJrcz04SiUyQkhyZkNmaDdCSVN5MHhNVEl1TVRJd0xqRXdOeTR5TWkwME9EQXcmcHJvdG9wYXJhbT0=
 ssr://Y2RuMDIuMDgyMS5tZWl0dWFuODguY29tOjMyMDI6YXV0aF9hZXMxMjhfbWQ1OmNoYWNoYTIwLWlldGY6cGxhaW46WkdreE5WQlcvP29iZnNwYXJhbT1NekZrTkRFeU56VTNMbVJ2ZFhscGJpNWpiMjAlM0QmcmVtYXJrcz04SiUyQkhyZkNmaDdCSVN5MDBNeTR5TlRVdU1URTVMakl4TFRRNE1ESSUzRCZwcm90b3BhcmFtPQ==
 vless://3f046836-2249-4f3d-a6f1-baeacdb224f5@51.250.116.192:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=x5.ru&pbk=NdsEcB_ts3yRYjovC8Ks4cpe56QWhot0D4njOApLeWI&sid=f4e2b8971d5c3a9f#🇷🇺
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NGFhZTA1MTAxODhlOGM1@141.95.106.127:11201#[🇩🇪]t.me/ConfigsHub
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNyAzMi40TUIvcyIsImFkZCI6IjE2NS4xNDAuMjE2LjE0MSIsInBvcnQiOiI0NDMiLCJpZCI6ImU3ZDcyYThkLTI2ZjItNGI1NC1iMzY2LTBjNDNlMGJjYmE3ZCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjcifQ==
 trojan://WwipNOSqUh49CEapMmIrv6m6AZLf-EC0+T@104.238.162.6:13109?sni=ord2.edge-command.click#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD7
 vless://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@95.85.243.216:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&security=reality&sid=6ba85179e30d4fc2&sni=www.google.com&type=tcp#🧸66@oneclickvpnkeys
@@ -9997,4 +9998,3 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.91.248.253:443?path=/?Telegram�
 https://t.me/proxy?server=mt.jebance.ru&port=8443&secret=dd28df1727029aed45d15f3a44d31e7e20
 vless://5d950f22-a120-42c3-86f8-8ee81bfa08c9@vpn.nnet.online:443?allowInsecure=1&encryption=none&host=nnet.online&path=%2Fvless-tls&security=tls&sni=VPN.NNET.Online&type=ws#🇩🇪[openproxylist.com]
 sdns://AgMAAAAAAAAAFlsyNjA2OjQ3MDA6NDcwMDo6MTAwMl0AGlsyNjA2OjQ3MDA6NDcwMDo6MTAwMl06NDQzCi9kbnMtcXVlcnk
-https://t.me/proxy?server=77.221.142.123&port=3443&secret=eeeeaf2a08cb735517c611e9e2817526
