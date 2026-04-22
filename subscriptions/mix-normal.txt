@@ -107,8 +107,8 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBO
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgImFkZCI6ICJ2MTIuaGRhY2QuY29tIiwgInBvcnQiOiAiMzA4MTIiLCAidHlwZSI6ICJub25lIiwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiP2VkPTIwNDgiLCAiaG9zdCI6ICJ2MTIuaGRhY2QuY29tIiwgInRscyI6ICIifQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001287h3p.cybervena.com:50099#🇹🇼[openproxylist.com]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@namrcg002771r35.cybervena.com:50099#🇹🇼[openproxylist.com]
-https://t.me/proxy?server=prx.today&port=443&secret=eeb3f0c7f6af7dc2dc2e9c80d0d80e81627a65726f2e6c6f63616c
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@87.251.69.71:2083?allowInsecure=1&host=xo.e0f.cx&path=/trojan-ws&sni=xo.e0f.cx&type=ws#🇦🇹
+https://t.me/proxy?server=prx.today&port=443&secret=eeb3f0c7f6af7dc2dc2e9c80d0d80e81627a65726f2e6c6f63616c
 vless://394f6981-a782-4779-9a85-e6cf22935d93@84.17.37.19:8443?security=tls&encryption=none&sni=hkg1.fromblancwithlove.com&alpn=h2&type=tcp&path=/#🇭🇰
 vless://3f9c8463-8610-3ed8-86c8-a26713067825@dabaius2.sylu.net:443?security=tls&encryption=none&sni=dabaius2.sylu.net&fp=chrome&type=ws&host=dabaius2.sylu.net&path=/db10240eb751d6ab&allow_insecure=0#🇺🇸
 vless://4dde0df3-aa67-417c-882e-28beb3886961@38.107.232.35:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=usa.pinkweb.one&pbk=1KcbQU2qtusi8zaFc0sTu_kjwNkBO1SDBGZ6G95ZuDo&sid=2a4b439db2a0dacf#🇺🇸
