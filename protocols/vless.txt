@@ -4688,3 +4688,4 @@ vless://8b648e4c-ac38-4809-951b-e1c8862b13d1@45.149.115.148:443?security=reality
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.98.0:2096?path=/&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#[🇨🇦]t.me/ConfigsHub
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.146.12.230:443?path=/?ed=2560&Telegram🎖@YamYamProxy&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#@v2rayconfigamir
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.38.227.72:2053?host=sni.111000.indevs.in&path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=tls&sni=sni.111000.indevs.in&type=ws#@v2rayconfigamir
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.59.120.161:2053?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&Telegram🇨🇳
