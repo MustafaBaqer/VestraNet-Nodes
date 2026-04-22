@@ -1006,6 +1006,7 @@ tg://proxy?server=8.211.194.85&port=8443&secret=ee000000000000000000000000000000
 tg://proxy?server=mt-pro.geodema.network&port=853&secret=ee995d681aee6459ebeed332871bcffea97777772e676f6f676c652e636f6d
 tg://proxy?server=82.21.117.211&port=443&secret=eed68ca126ce59a445b0b038ef701c4c1a6974756e65732e6170706c652e636f6d
 tg://proxy?server=burner.paid.pantshoes.ramiform.tippler.pinoyfilms.net&port=8400&secret=3e39b3881bc146caa294c4a6ea64c601
+tg://proxy?server=194.163.187.71&port=443&secret=ee74f7e9c27b124443a45680e0f30d1dcc636c6f7564666c6172652e636f6d
 tg://proxy?server=136.244.109.78&port=8443&secret=eecf6ad6e4f27809043ee93b578fc71947646c2e676f6f676c652e636f6d
 tg://proxy?server=66.135.9.27&port=443&secret=1896813ebd70c0b8945a7ee39487dafc
 tg://proxy?server=tgpvtsly.ru&port=443&secret=ee3169bf1a8f81645df916974a743f22fd7467707674736c792e7275
@@ -1023,6 +1024,10 @@ tg://proxy?server=194.163.166.59&port=443&secret=ee8441047534900cf5d61df8b4e07b7
 https://t.me/proxy?server=t1.staxel.top&port=443&secret=eed821f85a3caff97bd748701cbbc4886a74312e73746178656c2e746f70
 tg://proxy?server=185.23.19.86&port=443&secret=cd29cc6379a3e9d20205c1386e2aa683
 https://t.me/proxy?server=tumantg.krotmonstr.online&port=443&secret=ddec0367788320df58c479f429956545
+tg://proxy?server=194.163.167.213&port=443&secret=ee316df12aa93e4b3b96a782d5b9112a05636c6f7564666c6172652e636f6d
+tg://proxy?server=194.163.165.73&port=443&secret=ee5b0d176070681ea5d49184d258f65601636c6f7564666c6172652e636f6d
+tg://proxy?server=mt-public.potatoe.shop&port=443&secret=ee10c8c72610d581b4716d5b353ed33aae6564612e79616e6465782e7275
+tg://proxy?server=5.189.181.70&port=443&secret=ee4e4aa044400ea1c2b73bcb46039dcc1a636c6f7564666c6172652e636f6d
 tg://proxy?server=204.168.238.0&port=443&secret=b3f0c7f6af7dc2dc2e9c80d0d80e8162
 tg://proxy?server=47.76.77.155&port=8888&secret=dd9035de6b150c249f1b6f7156092757b4
 tg://proxy?server=47.238.118.153&port=8888&secret=dd1c29c9e2cf1bebef973063bf5cee2ab6
