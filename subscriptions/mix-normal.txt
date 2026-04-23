@@ -8773,9 +8773,9 @@ ssr://c2hvdy5iaWxpYmlsaWNsb3VkMDEuY29tOjU0MTAyOmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMj
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNSIsImFkZCI6InBxLWh1bmdhcnkxLjA5dnBuLmNvbSIsInBvcnQiOiI4MCIsImlkIjoiNzAzZjcyMmEtNGJkZi00ZTlkLTlhZmQtYTY4MWZkZjg3Yzc0IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiIiwicGF0aCI6Ii92bWVzcy8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiI1In0=
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMjUgMi40TUIvcyIsImFkZCI6InBxLWh1bmdhcnkxLjA5dnBuLmNvbSIsInBvcnQiOiI4MCIsImlkIjoiNzAzZjcyMmEtNGJkZi00ZTlkLTlhZmQtYTY4MWZkZjg3Yzc0IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiIiwicGF0aCI6Ii92bWVzcy8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIyNSJ9
 trojan://4123ae62-0999-4984-8ead-091630e594a9@n2.chateditimage.com:443?security=tls&sni=n2.chateditimage.com#%F0%9F%87%BA%F0%9F%87%B8US-64.186.254.102-0158
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRN2NqaVZEMG9LTkUybzlzVW5aS1Fn@46.101.196.138:23243#%F0%9F%87%A9%F0%9F%87%AADE-46.101.196.138-0295
 vless://0ddfc8ce-745e-44f6-97d2-aaeeadbaaec8@srvusjrp.samanidempire.org:443?encryption=none&host=srvusjrp.samanidempire.org&path=%2Fafb18b42&security=tls&sni=srvusjrp.samanidempire.org&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@103.97.88.133:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#[27456]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRN2NqaVZEMG9LTkUybzlzVW5aS1Fn@46.101.196.138:23243#%F0%9F%87%A9%F0%9F%87%AADE-46.101.196.138-0295
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMjkgMzUuMU1CL3MiLCJhZGQiOiIxNzIuMjMzLjIyOS45MSIsInBvcnQiOiIxNDEwMiIsImlkIjoiMjdiYTg3ZmMtNTgzZi00NzYzLTkwNjAtODNjZjBiOTI2NGRiIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMjkifQ==
 https://t.me/proxy?server=207.180.203.24&port=443&secret=7uBwJkgHh8uyF8nq_Te86VtzMy5hbWF6b25hd3MuY29t
 vless://Telegram-Parsashonam@8.6.112.0:443?mode=auto&path=/&security=tls&encryption=none&insecure=0&host=test.atlasw.ir&type=xhttp&allowInsecure=0&sni=test.atlasw.ir#@melibazz
