@@ -271,7 +271,6 @@ vless://35d7d0bd-a7f5-4890-a902-9de506715568@94.228.127.168:4449?flow=xtls-rprx-
 vless://35d7d0bd-a7f5-4890-a902-9de506715568@94.228.127.168:4449?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=n7SozQLXoCxDya7vBJwS5ebj39r4KCUZrfsnBfcCLGs&sid=5803806787f2e298#🇷🇺
 vless://35d7d0bd-a7f5-4890-a902-9de506715568@94.228.127.168:4449?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=n7SozQLXoCxDya7vBJwS5ebj39r4KCUZrfsnBfcCLGs&sid=a2#🇷🇺
 vless://35d7d0bd-a7f5-4890-a902-9de506715568@94.228.127.168:4449?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=n7SozQLXoCxDya7vBJwS5ebj39r4KCUZrfsnBfcCLGs&sid=33652caa6c#🇷🇺
-vless://bf432795-1383-46e5-8823-d638b956cabe@144.31.233.146:43361?encryption=none&fp=chrome&pbk=OVkz4f4FnObOQT4vz8SqpiuzFDmTjYH4OZk2wIbjgCk&security=reality&sid=55ba93eb8c&sni=www.nvidia.com&type=tcp#🏳[openproxylist.com]
 vless://386c490f-4344-4517-b960-a2ccfc6857cc@158.160.107.201:1443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=L1unFGAC-eFD2iw9rfrUunqfBgn0RpCqwsfR5qhn3Bw#🇷🇺
 vless://5d950f22-a120-42c3-86f8-8ee81bfa08c9@172.67.134.216:443?allowInsecure=1&encryption=none&host=nnet.online&path=%2Fvless-tls&security=tls&sni=VPN.NNET.Online&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://36ba73b8-31e6-455d-8c55-91cd384be18c@158.160.242.161:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=ads.x5.ru&pbk=6I6-qYlY6rUY4BowDZzHpdfVPy6KvO4c2KC5QK3dMGQ&sid=6af4b1c3#🇷🇺
@@ -4741,3 +4740,4 @@ vless://5d544104-6bb9-4165-be32-5743eda492bc@81.200.148.11:443?flow=xtls-rprx-vi
 vless://1c60ecee-0304-4a34-8235-44bdea27848b@90.156.213.51:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=pimg.mycdn.me&pbk=huWdAp17AaYx7KNwH2aIkVEqAaPBzSAMfsPWIqx-6jg&spx=/#🇷🇺
 vless://sGLzG6kUwBpZd73sW0nq@81.208.170.142:1500?security=reality&encryption=none&pbk=VQxVgczORkbSNdDrkNOYs6zMBINpViztTKDuWCeQsVE&fp=chrome&type=grpc&sni=www.ebay.com&sid=775eb6408888248e#🇸🇦[openproxylist.com]
 vless://248d1886-8ae0-4079-a281-4d21bdb74ba4@144.31.122.171:7443?flow=xtls-rprx-vision&security=reality&sni=chat.deepseek.com&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=d82fb387&type=tcp&path=/#🇳🇱
+vless://2d965dfd-598b-4ed6-8cb5-3324276f1654@159.195.69.251:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=fastsync.xyz&pbk=eHgRhHYifD2njbtjzgMsNPGnvbpAK8SSXC5-wFuQnQ4&sid=65b5280b52e0532c&spx=/#🇩🇪
