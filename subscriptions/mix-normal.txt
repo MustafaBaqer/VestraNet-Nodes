@@ -7925,6 +7925,7 @@ ssr://c2hvdy5iaWxpYmlsaWNsb3VkMDEuY29tOjU0MTAyOmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMj
 ssr://bGl2ZS5iaWxpYmlsaWNsb3VkMDEuY29tOjUzODQ1OmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjAtaWV0ZjpwbGFpbjpUWFkwWlRCUlNGZFFkMlJpUzJsRFJnPT0vP29iZnNwYXJhbT0mcmVtYXJrcz04SiUyQkhyZkNmaDdCSVN5MHhNVEl1TVRJd0xqRXdOeTR5TWkwME56ZzEmcHJvdG9wYXJhbT0=
 ssr://c2hvdy5iaWxpYmlsaWNsb3VkMDEuY29tOjU0MTE0OmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjAtaWV0ZjpwbGFpbjpUWFkwWlRCUlNGZFFkMlJpUzJsRFJnPT0vP29iZnNwYXJhbT0mcmVtYXJrcz04SiUyQkhyZkNmaDdCSVN5MHhNVEl1TVRJd0xqRXdOeTR5TWkwME56ZzImcHJvdG9wYXJhbT0=
 ssr://Y2RuMDIuMDgyMS5tZWl0dWFuODguY29tOjYwMDE6YXV0aF9hZXMxMjhfbWQ1OnJjNC1tZDU6dGxzMS4yX3RpY2tldF9hdXRoOlpHa3hOVkJXLz9vYmZzcGFyYW09TXpGa05ERXlOelUzTG1SdmRYbHBiaTVqYjIwJTNEJnJlbWFya3M9OEolMkJIcmZDZmg3QklTeTAwTXk0eU5UVXVNVEU1TGpJeExUUTNPRGMlM0QmcHJvdG9wYXJhbT0=
+trojan://1234567890@147.45.210.78:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/?ed=2560&https://t.me/WangCai2🇨🇳#🇩🇪
 vless://43488128-319e-f480-64ea-0acdc712e2a8@178.159.10.78:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=6tORX9bm6UlGJ4dR8L2kzOd21oSrOyzpN7gC6SqGGyc&security=reality&sid=d27683580fc15f1e&sni=www.vodafone.co.uk&type=tcp#🏳️
 vless://Telegram-Parsashonam@8.6.112.0:443?path=/&security=tls&encryption=none&insecure=0&host=test.atlasw.ir&type=ws&allowInsecure=0&sni=test.atlasw.ir#@Parsashonam-17:34-1
 vless://35796021-099d-4db0-b48c-687758b0ab96@51.250.108.98:4443?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=4iZWExolJV2s1BcPnZvhBbFVE7tbzWCShLyTWy7h9SY&sid=e9b3#🇷🇺
@@ -9997,4 +9998,3 @@ vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?security=tls&en
 vless://248d1886-8ae0-4079-a281-4d21bdb74ba4@45.43.92.20:7443?flow=xtls-rprx-vision&security=reality&sni=chat.deepseek.com&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=d82fb387&type=tcp&path=/#🇳🇱
 vless://00000000-0000-4000-8000-000000000000@37.114.50.157:4002?allowInsecure=1&encryption=none&host=sub.mot.ip-ddns.com&path=/&security=tls&sni=sub.mot.ip-ddns.com&type=ws#🇩🇪
 vless://10d8a405-abcb-418d-bb53-f996c5a2ea12@95.163.209.155:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=max.ru&pbk=x-VSf_bBIC1iELDvaoM4SKMTK2YAAnUlVkhAWBbvpSc&sid=ccad786414bbb5#🇷🇺
-vless://651a858c-2975-4b96-96b7-82745b38714c@8.6.112.0:443?path=/WITH_CHACHA20_POLY1305_SHA256&security=tls&alpn=http/1.1&encryption=none&host=api.frest.ir&fp=chrome&type=ws&sni=api.frest.ir#@Config0plus

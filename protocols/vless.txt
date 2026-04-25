@@ -4745,4 +4745,3 @@ vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?security=tls&en
 vless://248d1886-8ae0-4079-a281-4d21bdb74ba4@45.43.92.20:7443?flow=xtls-rprx-vision&security=reality&sni=chat.deepseek.com&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=d82fb387&type=tcp&path=/#🇳🇱
 vless://00000000-0000-4000-8000-000000000000@37.114.50.157:4002?allowInsecure=1&encryption=none&host=sub.mot.ip-ddns.com&path=/&security=tls&sni=sub.mot.ip-ddns.com&type=ws#🇩🇪
 vless://10d8a405-abcb-418d-bb53-f996c5a2ea12@95.163.209.155:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=max.ru&pbk=x-VSf_bBIC1iELDvaoM4SKMTK2YAAnUlVkhAWBbvpSc&sid=ccad786414bbb5#🇷🇺
-vless://651a858c-2975-4b96-96b7-82745b38714c@8.6.112.0:443?path=/WITH_CHACHA20_POLY1305_SHA256&security=tls&alpn=http/1.1&encryption=none&host=api.frest.ir&fp=chrome&type=ws&sni=api.frest.ir#@Config0plus
