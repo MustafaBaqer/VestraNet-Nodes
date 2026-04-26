@@ -445,8 +445,8 @@ vless://35d7d0bd-a7f5-4890-a902-9de506715568@152.89.244.2:443?flow=xtls-rprx-vis
 vless://35d7d0bd-a7f5-4890-a902-9de506715568@213.219.212.15:4449?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=n7SozQLXoCxDya7vBJwS5ebj39r4KCUZrfsnBfcCLGs&sid=33652caa6c#🇷🇺
 vless://35d7d0bd-a7f5-4890-a902-9de506715568@213.219.212.15:4449?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=n7SozQLXoCxDya7vBJwS5ebj39r4KCUZrfsnBfcCLGs&sid=3689d0c3#🇷🇺
 vless://1e97f262-296c-45cf-afc0-6ed86f768013@57.129.119.115:443?encryption=none&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MGM0NTVjOWYxOWFhM2E1@57.129.94.79:11206#%F0%9F%87%A9%F0%9F%87%AADE-57.129.94.79-4515
 ssr://Y2RuMDIuMDgyMS5tZWl0dWFuODguY29tOjYwMDU6YXV0aF9hZXMxMjhfbWQ1OmNoYWNoYTIwLWlldGY6cGxhaW46WkdreE5WQlcvP29iZnNwYXJhbT1NekZrTkRFeU56VTNMbVJ2ZFhscGJpNWpiMjAlM0QmcmVtYXJrcz04SiUyQkhyZkNmaDdCSVN5MDBNeTR5TlRVdU1URTVMakl4TFRRNE16VSUzRCZwcm90b3BhcmFtPQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MGM0NTVjOWYxOWFhM2E1@57.129.94.79:11206#%F0%9F%87%A9%F0%9F%87%AADE-57.129.94.79-4515
 vless://528bf7f6-2a4f-4701-a1a7-d91f7980e6d5@pq-india1.09vpn.com:80?encryption=none&security=none&type=ws&path=/vless/#🇮🇳
 vless://07af37fa-fc51-49ed-a6f9-62116e7be302@146.185.240.172:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=d515d6cfdfe60b02#🇷🇺
 trojan://hCjWaBe5vTkewfiljOL=9FS9DYg0c09c.t@81.29.149.212:18390?security=tls&sni=osl8.solidly.click#%F0%9F%87%A8%F0%9F%87%ADCH%E7%91%9E%E5%A3%AB2
