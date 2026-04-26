@@ -38,7 +38,6 @@ vless://94daa8ad-75ed-4dbf-a6de-d05036d98df5@172.66.47.45:443?allowInsecure=1&en
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@172.64.147.133:443?allowInsecure=1&encryption=none&host=terazhediii.info&path=%2Fsghiyws&security=tls&sni=terazhediii.info&type=ws#🇩🇪[openproxylist.com]
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.102.228.238:2096?path=/&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#🇸🇬[openproxylist.com]
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.99.243:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%F0%9F%9B%A1%20V%2082%20%40Outline_Vpn
-vless://334674ac-c048-4873-9d8d-1f5a88a67fdd@2.27.41.179:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=deepl.com&pbk=E4fcHEEJeDE6HJ9DvP1WekRcYodDEGEUfEKxfS_N4z0&sid=1a2b0d1e889e10#🇺🇸
 vless://394f6981-a782-4779-9a85-e6cf22935d93@84.17.37.19:8443?security=tls&encryption=none&sni=hkg1.fromblancwithlove.com&alpn=h2&type=tcp&path=/#🇭🇰
 vless://3f9c8463-8610-3ed8-86c8-a26713067825@dabaius2.sylu.net:443?security=tls&encryption=none&sni=dabaius2.sylu.net&fp=chrome&type=ws&host=dabaius2.sylu.net&path=/db10240eb751d6ab&allow_insecure=0#🇺🇸
 vless://4dde0df3-aa67-417c-882e-28beb3886961@38.107.232.35:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=usa.pinkweb.one&pbk=1KcbQU2qtusi8zaFc0sTu_kjwNkBO1SDBGZ6G95ZuDo&sid=2a4b439db2a0dacf#🇺🇸
@@ -4746,3 +4745,4 @@ vless://1c60ecee-0304-4a34-8235-44bdea27848b@90.156.213.51:443?flow=xtls-rprx-vi
 vless://sGLzG6kUwBpZd73sW0nq@81.208.170.142:1500?security=reality&encryption=none&pbk=VQxVgczORkbSNdDrkNOYs6zMBINpViztTKDuWCeQsVE&fp=chrome&type=grpc&sni=www.ebay.com&sid=775eb6408888248e#🇸🇦[openproxylist.com]
 vless://248d1886-8ae0-4079-a281-4d21bdb74ba4@144.31.122.171:7443?flow=xtls-rprx-vision&security=reality&sni=chat.deepseek.com&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=d82fb387&type=tcp&path=/#🇳🇱
 vless://2d965dfd-598b-4ed6-8cb5-3324276f1654@159.195.69.251:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=fastsync.xyz&pbk=eHgRhHYifD2njbtjzgMsNPGnvbpAK8SSXC5-wFuQnQ4&sid=65b5280b52e0532c&spx=/#🇩🇪
+vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?security=tls&encryption=none&sni=uk1.fromblancwithlove.com&type=tcp&headerType=none&path=/&allow_insecure=0#🇬🇧
