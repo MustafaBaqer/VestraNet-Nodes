@@ -29,7 +29,6 @@ tg://proxy?server=31.59.39.25&port=5342&secret=eee9a0eae2977983f363238c90c950a44
 tg://proxy?server=199.247.23.222&port=443&secret=21d3f327eec4b908083ad2e1bec542d1
 https://t.me/proxy?server=mt.space-link.cloud&port=443&secret=eeee09513d515ee0c9ab950eb3698a1b0e6d742e73706163652d6c696e6b2e636c6f7564
 tg://proxy?server=153.76.122.15&port=443&secret=ee79612e7275304970b1b892abfa2b66
-https://t.me/proxy?server=168.222.254.23&port=443&secret=a6246e1e4dcf0e9167f48431a7cf590a
 tg://proxy?server=150.241.92.16&port=443&secret=ee79612e7275e23019510a44d77ad8cd
 tg://proxy?server=194.163.171.96&port=443&secret=ee3d7bf0e971d77085537fb81feae0df01636c6f7564666c6172652e636f6d
 tg://proxy?server=194.163.166.32&port=443&secret=eef085ba54f0dfb78fcb714f653f0011f5636c6f7564666c6172652e636f6d
