@@ -1,4 +1,3 @@
-trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.146.129:443?allowInsecure=1&alpn=http/1.1&fp=chrome&host=sni.111000.dynv6.net&path=/?proxyip=ip.111000.de5.net:443&sni=sni.111000.dynv6.net&type=ws#[31809]
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@87.236.146.32:2083?allowInsecure=1&host=xo.e0f.cx&path=/trojan-ws&sni=xo.e0f.cx&type=ws#🧸65@oneclickvpnkeys
 trojan://BvzUvt45hON9We5X9wM6I9ZrxHRcYd46QK@216.238.102.254:26593?allowInsecure=0&sni=sao2.cdn-graph.click#⚡
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@178.17.51.45:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
