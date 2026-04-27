@@ -214,7 +214,6 @@ https://t.me/proxy?server=de-03.satoshidiary.org&port=8443&secret=ee6d33147f1bbc
 tg://proxy?server=77.72.80.80&port=9443&secret=79e344818749bd7ac519130220c25d09
 https://t.me/proxy?server=138.124.32.130&port=443&secret=f36a968b7b96f0e406d535aaccd7c3a7
 tg://proxy?server=159.194.221.26&port=443&secret=ee208f23ace1558102572914066d21107f7777772e79616e6465782e7275
-https://t.me/proxy?server=t.freedomconnect.xyz&port=443&secret=eebe9ba010e83c95aa690b10c541d1db227777772e676f6f676c652e636f6d
 tg://proxy?server=network.flashgatevpn.ru&port=443&secret=eee8d5c4d8214b722017d8fd09de82e934636c69636b2e666c6173686761746576706e2e7275
 https://t.me/proxy?server=95.85.248.235&port=443&secret=3e62c19547064a69f1a5814fab84e3df
 tg://proxy?server=45.77.74.218&port=443&secret=4bfd854ee995a28600e162da14a0f129
