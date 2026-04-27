@@ -1,3 +1,4 @@
+tg://proxy?server=89.117.56.77&port=443&secret=eef36b6e0fa4002d14a31587ab6ba39673636c6f7564666c6172652e636f6d
 tg://proxy?server=178.156.131.76&port=1080&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=proxytg.live&port=443&secret=ee347358dc309fbf96304b28460ef7cd7a70726f787974672e6c697665
 tg://proxy?server=landing.ad-places.ru&port=8443&secret=eee2933d1dcaba391455908ca4fd1f94dd6c616e64696e672e61642d706c616365732e7275
