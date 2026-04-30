@@ -1,6 +1,5 @@
 hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-021.fastervpn.world:443?sni=vpn-us-021.fastervpn.world#%F0%9F%87%BA%F0%9F%87%B8US_13%7C2.0MB%2Fs
 hy2://62b7824e-47dc-11ef-9f2d-f23c9164ca5d@WangCai.hk1.hyhuawei.com:443/?insecure=1&sni=WangCai.hk1.hyhuawei.com#🇭🇰HK_@WangCai_8
-hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-002.fastervpn.world:443?sni=vpn-us-002.fastervpn.world#B%20-%20%F0%9F%87%BA%F0%9F%87%B8%20US%2028%20TG%3A%20%40nodpai
 hy2://dongtaiwang.com@163.172.113.118:41283?sni=www.microsoft.com#A%20-%20%F0%9F%87%AB%F0%9F%87%B7%20FR%2001%20TG%3A%20%40nodpai
 hy2://github.com/Alvin9999-newpac/fanqiang@83.243.86.103:12855?sni=www.microsoft.com#%F0%9F%87%A9%F0%9F%87%AADE_2%7C1.0MB%2Fs
 hy2://813fbbe3-4679-4a7f-afd3-c2e5319b5e3b@hk-aws-15.hi2026.net:40000?obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%F0%9F%87%AD%F0%9F%87%B0HK_1%7C1.3MB%2Fs
