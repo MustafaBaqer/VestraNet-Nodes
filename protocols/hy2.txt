@@ -4,4 +4,3 @@ hy2://dongtaiwang.com@163.172.113.118:41283?sni=www.microsoft.com#A%20-%20%F0%9F
 hy2://813fbbe3-4679-4a7f-afd3-c2e5319b5e3b@hk-aws-15.hi2026.net:40000?obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%F0%9F%87%AD%F0%9F%87%B0HK_1%7C1.3MB%2Fs
 hy2://813fbbe3-4679-4a7f-afd3-c2e5319b5e3b@hk-aws-17.hi2026.net:40000?obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%F0%9F%87%AD%F0%9F%87%B0HK_2%7C1.4MB%2Fs
 hy2://813fbbe3-4679-4a7f-afd3-c2e5319b5e3b@hk-aws-23.hi2026.net:40000?obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%F0%9F%87%AD%F0%9F%87%B0HK_3%7C2.0MB%2Fs
-hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-uk-002.fastervpn.world:443?sni=vpn-uk-002.fastervpn.world#%F0%9F%87%AC%F0%9F%87%A7GB_1%7C1.2MB%2Fs
