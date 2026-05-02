@@ -868,6 +868,7 @@ https://t.me/proxy?server=proxy-sosavpn.duckdns.org&port=8443&secret=f5a36ceadd9
 tg://proxy?server=bereg-connect.bopen.bond&port=443&secret=eeb4b54ddf0b9f3b82dd7b4a5a888ea82d766b2e636f6d
 tg://proxy?server=31.220.73.65&port=443&secret=ee7148bf37e01e395aa33d7cde6490c540636c6f7564666c6172652e636f6d
 tg://proxy?server=vie.ae.idind.ru&port=4433&secret=eea0ea72ded0fb8b2f0b412ddc3687673e7a72616d2e6964696e642e7275
+tg://proxy?server=204.168.176.214&port=443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=62.171.164.255&port=443&secret=eed00f99d3053051a66446182549bb84c8636c6f7564666c6172652e636f6d
 tg://proxy?server=23.26.156.211&port=41528&secret=feff39bcddb62859ade093fcad935858
 tg://proxy?server=nl.veesp.idind.ru&port=4433&secret=ee4524202907d996fd9f1ed38b971902187a72616d2e6964696e642e7275
