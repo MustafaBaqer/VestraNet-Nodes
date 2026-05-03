@@ -458,6 +458,7 @@ vless://5fef9e7a-92c0-4ccf-a1c0-2a61e0bfb954@82.202.159.239:443?flow=xtls-rprx-v
 vless://576993a0-3b23-4c65-8c6d-2165b098826b@95.163.208.224:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=5bGFIWSo4vlrd9Tv1yFcpdpSjrjYYN20SOWHYfighHc&sid=aad92345#🇷🇺
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.83.129.17:443?encryption=none&security=tls&sni=sni.111000.indevs.in&allowInsecure=1&type=ws&host=sni.111000.indevs.in&path=/#🇩🇪
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.43.179.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&type=ws&host=sni.jpmj.dev&path=/?ed=2560#🇰🇿
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@54.36.98.4:2053?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#🇭🇷FreeConffning
 vless://21e8a520-7219-45e2-b0f1-19d414a97d0d@217.199.252.113:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=max.ru&pbk=TGCn_54sGMSXxlj9IpG8NCcxUlqBrUDzt-5vNwYNXhU&sid=b2a6e3d42f05c3d1&spx=/#🇷🇺
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@209.102.207.120:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#🇺🇸
 vless://1353db92-5d59-4ef5-88a9-b072735b0775@5.42.97.143:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=max.ru&pbk=TGCn_54sGMSXxlj9IpG8NCcxUlqBrUDzt-5vNwYNXhU&sid=b2a6e3d42f05c3d1&spx=/#🇷🇺
@@ -4762,4 +4763,3 @@ vless://1fc8661c-87ba-4a89-b939-d83b636e1753@188.225.82.117:443?flow=xtls-rprx-v
 vless://4b056394-2f40-11f1-bffe-46c4782ac1a7@193.233.253.73:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=FVL0r87K3-vUP2KXQX1juLMFEHJtvxwKM-nm6_PYllc&sid=deadbeef42&sni=www.apple.com&path=&host=#@v2rayconfigamir
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.88.160.144:8443?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560#🏳️
 vless://44bdff3a-16bd-4e3a-ac6c-e08b6173443c@158.160.237.122:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=wl-3-4.legendary-vpn.com&pbk=fHypiMYrxed2PhUC0dZ91ioSv8Cd0dqijKQj16Jnb1M&sid=479898e66f5e7beb#🇷🇺
-vless://038f1789-865c-4879-a439-02a6971fb894@146.185.240.172:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=d515d6cfdfe60b02#🇷🇺
