@@ -1,7 +1,6 @@
 tg://proxy?server=178.156.131.76&port=1080&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=landing.ad-places.ru&port=8443&secret=eee2933d1dcaba391455908ca4fd1f94dd6c616e64696e672e61642d706c616365732e7275
 tg://proxy?server=31.47.51.152&port=8582&secret=ddbb01e59aa510ca70ce9e935c471df2d8
-tg://proxy?server=havene5c9-c9862954.proxytg.ink&port=443&secret=b968de5d8c88024af77ee0ed494abb74
 tg://proxy?server=rkn.tg&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
 tg://proxy?server=hyper.happvpn.cc&port=8443&secret=ee4852c1c04ab83db8a328c60eaf9a0db268797065722e6861707076706e2e6363
 tg://proxy?server=nano.happvpn.cc&port=4514&secret=ee0a638f4a7bd9db9e94449c652ea963066e616e6f2e6861707076706e2e6363
@@ -1015,6 +1014,7 @@ tg://proxy?server=194.163.167.213&port=443&secret=ee316df12aa93e4b3b96a782d5b911
 tg://proxy?server=194.163.165.73&port=443&secret=ee5b0d176070681ea5d49184d258f65601636c6f7564666c6172652e636f6d
 tg://proxy?server=mt-public.potatoe.shop&port=443&secret=ee10c8c72610d581b4716d5b353ed33aae6564612e79616e6465782e7275
 tg://proxy?server=5.189.181.70&port=443&secret=ee4e4aa044400ea1c2b73bcb46039dcc1a636c6f7564666c6172652e636f6d
+tg://proxy?server=havene5c9-c9862954.proxytg.ink&port=443&secret=b968de5d8c88024af77ee0ed494abb74
 tg://proxy?server=204.168.238.0&port=443&secret=b3f0c7f6af7dc2dc2e9c80d0d80e8162
 tg://proxy?server=47.76.77.155&port=8888&secret=dd9035de6b150c249f1b6f7156092757b4
 tg://proxy?server=47.238.118.153&port=8888&secret=dd1c29c9e2cf1bebef973063bf5cee2ab6
