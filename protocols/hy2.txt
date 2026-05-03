@@ -7,6 +7,5 @@ hy2://ae845cbd-08fb-4346-929a-e28a6f3960a8@us1.shiyuandian.shop:2056?obfs=salama
 hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@18.191.202.9:443?sni=vpn-us-003.fastervpn.world#D%20-%20%F0%9F%87%BA%F0%9F%87%B8%20US%2047%20TG%3A%20%40nodpai
 hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-vn-001.fastervpn.world:443?sni=vpn-vn-001.fastervpn.world#%F0%9F%87%BB%F0%9F%87%B3VN_1%7C1.2MB%2Fs
 hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@18.117.103.156:443?sni=vpn-us-003.fastervpn.world#%F0%9F%87%BA%F0%9F%87%B8US_4%7C2.1MB%2Fs
-hy2://github.com/Alvin9999-newpac/fanqiang@83.243.86.103:38563?sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7FR_2%7C1.8MB%2Fs
 hy2://813fbbe3-4679-4a7f-afd3-c2e5319b5e3b@hk-aws-17.hi2026.net:40000?obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%F0%9F%87%AD%F0%9F%87%B0HK_2%7C1.4MB%2Fs
 hy2://813fbbe3-4679-4a7f-afd3-c2e5319b5e3b@hk-aws-23.hi2026.net:40000?obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%F0%9F%87%AD%F0%9F%87%B0HK_3%7C2.0MB%2Fs
