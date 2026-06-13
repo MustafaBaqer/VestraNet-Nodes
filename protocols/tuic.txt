@@ -1,5 +1,5 @@
-tuic://f73c64bc-9e8c-11ec-bd7c-f23c913c8d2b:f73c64bc-9e8c-11ec-bd7c-f23c913c8d2b@0e3b9310-tegxs0-twbja8-1hd7v.sjc.oshuawei.com:443?sni=0e3b9310-tegxs0-twbja8-1hd7v.sjc.oshuawei.com&alpn=h3&congestion_control=bbr&udp_relay_mode=native#D%20-%20%F0%9F%87%BA%F0%9F%87%B8%20US%2035%20TG%3A%20%40nodpai
+tuic://87bc1693-8860-41d7-acf4-e6edf49abbbb:crivAv10hAdr-fop4Lne@70.34.197.98:443?congestion_control=bbr&amp%3Budp_relay_mode=native&amp%3Balpn=h3%2Cspdy/3.1&amp%3Ballow_insecure=1#%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20TUIC%20%7C%20%40vipv2rey%20%231
+tuic://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb:strong-secret-pass-777@45.140.167.209:50043?alpn=h3&congestion_control=bbr&udp_relay_mode=native#%F0%9F%87%AC%F0%9F%87%A7GB_1%7C1.9MB%2Fs
+tuic://ef92641c-c4d9-4b79-94ac-121dd7989d47:ef92641c-c4d9-4b79-94ac-121dd7989d47@185.34.144.18:39001?sni=www.python.org&alpn=h3&congestion_control=bbr&udp_relay_mode=native#A%20-%20%F0%9F%87%BA%F0%9F%87%B8%20US%2001%20TG%3A%20%40nodpai
 tuic://a1102edc-f382-4720-99f5-ecc0a74507af:a1102edc-f382-4720-99f5-ecc0a74507af@107.148.225.224:60000?sni=apple.com&alpn=h3&congestion_control=bbr&udp_relay_mode=native#A%20-%20%F0%9F%87%BA%F0%9F%87%B8%20US%2001%20TG%3A%20%40nodpai
-tuic://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb:strong-secret-pass-777@45.140.167.209:50043?alpn=h3&congestion_control=bbr&udp_relay_mode=native#%F0%9F%87%AC%F0%9F%87%A7GB_3%7C1.4MB%2Fs
-tuic://61c4be90-6235-11ec-a8bf-f23c91cfbbc9:61c4be90-6235-11ec-a8bf-f23c91cfbbc9@284017f2-tegxs0-tr9h64-1f1f1.cu.oshuawei.com:443?congestion_control=bbr#%F0%9F%87%BA%F0%9F%87%B8US_1%7C1020KB%2Fs
-tuic://a1102edc-f382-4720-99f5-ecc0a74507af:a1102edc-f382-4720-99f5-ecc0a74507af@144.225.93.21:41535?sni=www.apple.com&alpn=h3&congestion_control=bbr&udp_relay_mode=native#A%20-%20%F0%9F%87%BA%F0%9F%87%B8%20US%2003%20TG%3A%20%40nodpai
+tuic://d7a967b5-a26b-46f9-bc76-a9e5e082ef91:aleph@95.217.188.125:443?congestion_control=bbr&alpn=h3,spdy/3.1&udp_relay_mode=native&allow_insecure=1#
