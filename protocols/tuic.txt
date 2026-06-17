@@ -1,4 +1,1 @@
-tuic://94d40708-8273-11ea-8fc9-f23c913c8d2b:94d40708-8273-11ea-8fc9-f23c913c8d2b@fc676f5c-tegxs0-ten5li-mv7m.hk2.hyhuawei.com:443?sni=fc676f5c-tegxs0-ten5li-mv7m.hk2.hyhuawei.com&alpn=h3&congestion_control=bbr&udp_relay_mode=native#A%20-%20%F0%9F%87%AD%F0%9F%87%B0%20HK%2001%20TG%3A%20%40nodpai
-tuic://ef92641c-c4d9-4b79-94ac-121dd7989d47:ef92641c-c4d9-4b79-94ac-121dd7989d47@38.135.25.44:40000?sni=www.python.org&alpn=h3&congestion_control=bbr&udp_relay_mode=native#A%20-%20%F0%9F%87%BA%F0%9F%87%B8%20US%2002%20TG%3A%20%40nodpai
-tuic://2219a1b1-9290-4ac5-94fd-6cfc1fb25280:2219a1b1-9290-4ac5-94fd-6cfc1fb25280@m61wz8.yydzx.xyz:27105?alpn=h3&congestion_control=bbr&sni=m61wz8.yydzx.xyz#
-tuic://9adb384a-0f16-4501-a8f3-b6b2556fce87:dongtaiwang.com@163.172.116.154:33887?sni=bing.com&alpn=h3&congestion_control=bbr&udp_relay_mode=native#%F0%9F%87%AB%F0%9F%87%B7FR_2%7C2.5MB%2Fs
+tuic://87bc1693-8860-41d7-acf4-e6edf49abbbb:crivAv10hAdr-fop4Lne@70.34.197.98:443?congestion_control=bbr&amp%3Budp_relay_mode=native&amp%3Balpn=h3%2Cspdy/3.1&amp%3Ballow_insecure=1#%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20
