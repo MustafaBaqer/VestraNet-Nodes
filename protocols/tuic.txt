@@ -1,3 +1,1 @@
-tuic://ef92641c-c4d9-4b79-94ac-121dd7989d47:ef92641c-c4d9-4b79-94ac-121dd7989d47@185.34.144.18:39001?sni=www.python.org&alpn=h3&congestion_control=bbr&udp_relay_mode=native#A%20-%20%F0%9F%87%BA%F0%9F%87%B8%20US%2001%20TG%3A%20%40nodpai
-tuic://328767e5-a8bb-4ce8-8a2d-c40bdedbd2d6:a990298c@31.172.83.92:21384?congestion_control=bbr&alpn=h3&udp_relay_mode=quic#
-tuic://f13f964e-f06c-11ec-a858-f23c91cfbbc9:f13f964e-f06c-11ec-a858-f23c91cfbbc9@8c284ed5-tegxs0-tt2yf5-1j61y.cu.oshuawei.com:443?allow_insecure=0&alpn=h3&congestion_control=bbr&sni=8c284ed5-tegxs0-tt2yf5-1j61y.cu.oshuawei.com&udp_relay_mode=native#D%20-%20%F0%9F%87%BA%F0%9F%87%B8%20US%2030%20TG%3A%20%40nodpai
+tuic://6e8482fb-1f9b-11ed-af5f-f23c91cfbbc9:6e8482fb-1f9b-11ed-af5f-f23c91cfbbc9@c5f9c56f-tegxs0-tkka1f-1k25p.sjc.oshuawei.com:443?alpn=h3&congestion_control=bbr&sni=c5f9c56f-tegxs0-tkka1f-1k25p.sjc.oshuawei.com&udp_relay_mode=native#B%20-%20%F0%9F%87%BA%F0%9F%87%B8%20US%2021%20TG%3A%20%40nodpai
