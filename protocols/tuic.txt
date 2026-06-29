@@ -1,3 +1,2 @@
-tuic://2209d482-3dbb-44da-817a-ddc2c8f27daa:2aaae510@45.67.35.33:25172?congestion_control=bbr&alpn=h3&udp_relay_mode=quic#
-tuic://16ba5e83-8cfb-41f9-8009-dc65cdf17f5c:16ba5e83-8cfb-41f9-8009-dc65cdf17f5c@hdfyhys1.foriran.nl:24471?congestion_control=cubic&udp_relay_mode=native&sni=hdfyhys1.foriran.nl&alpn=h3#
-tuic://16ba5e83-8cfb-41f9-8009-dc65cdf17f5c:16ba5e83-8cfb-41f9-8009-dc65cdf17f5c@hdfyhys1.foriran.trade:24470?congestion_control=cubic&udp_relay_mode=native&sni=hdfyhys1.foriran.trade&alpn=h3#
+tuic://467f2940-77cd-11ee-b5ed-f23c9164ca5d:467f2940-77cd-11ee-b5ed-f23c9164ca5d@d1bf317e-tegxs0-tf25f7-1phla.hk1.hyhuawei.com:443?alpn=h3&congestion_control=bbr&sni=d1bf317e-tegxs0-tf25f7-1phla.hk1.hyhuawei.com&udp_relay_mode=native#B%20-%20%F0%9F%87%AD%F0%9F%87%B0%20HK%2007%20TG%3A%20%40nodpai
+tuic://f73c64bc-9e8c-11ec-bd7c-f23c913c8d2b:f73c64bc-9e8c-11ec-bd7c-f23c913c8d2b@0e3b9310-tegxs0-twbja8-1hd7v.sjc.oshuawei.com:443?sni=0e3b9310-tegxs0-twbja8-1hd7v.sjc.oshuawei.com&alpn=h3&congestion_control=bbr&udp_relay_mode=native#D%20-%20%F0%9F%87%BA%F0%9F%87%B8%20US%2035%20TG%3A%20%40nodpai
