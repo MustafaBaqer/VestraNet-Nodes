@@ -1,4 +1,0 @@
-tuic://87bc1693-8860-41d7-acf4-e6edf49abbbb:crivAv10hAdr-fop4Lne@70.34.197.98:443?congestion_control=bbr&amp%3Budp_relay_mode=native&amp%3Balpn=h3%2Cspdy/3.1&amp%3Ballow_insecure=1#
-tuic://2219a1b1-9290-4ac5-94fd-6cfc1fb25280:2219a1b1-9290-4ac5-94fd-6cfc1fb25280@xbns1y.yydzx.xyz:27102?alpn=h3&congestion_control=bbr&sni=xbns1y.yydzx.xyz#
-tuic://cd1b0ae0-4010-11ee-953a-f23c9164ca5d:cd1b0ae0-4010-11ee-953a-f23c9164ca5d@de0bc027-teisg0-thtg7i-1lkt0.jp5.hyhuawei.com:443?sni=de0bc027-teisg0-thtg7i-1lkt0.jp5.hyhuawei.com&alpn=h3&congestion_control=bbr#C%20-%20%F0%9F%87%AF%F0%9F%87%B5%20JP%2018%20TG%3A%20%40nodpai
-tuic://93fb69fc-77cf-11ee-85ee-f23c91369f2d:93fb69fc-77cf-11ee-85ee-f23c91369f2d@f8cab56b-tegxs0-tm53cm-1ol97.cu.oshuawei.com:443?congestion_control=bbr#%F0%9F%87%BA%F0%9F%87%B8US_1%7C1.1MB%2Fs
