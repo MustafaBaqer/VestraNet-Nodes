@@ -1,1 +1,0 @@
-tuic://e3975a05-b89e-11ec-a50d-f23c91cfbbc9:e3975a05-b89e-11ec-a50d-f23c91cfbbc9@b4a362b0-teisg0-thntyd-1f596.jp5.hyhuawei.com:443?alpn=h3&congestion_control=bbr&sni=b4a362b0-teisg0-thntyd-1f596.jp5.hyhuawei.com#B%20-%20%F0%9F%87%AF%F0%9F%87%B5%20JP%2006%20TG%3A%20%40nodpai
