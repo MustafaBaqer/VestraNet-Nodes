@@ -1,2 +1,0 @@
-tuic://53de9ed1-c955-4136-9137-4280400fe0fb:53de9ed1-c955-4136-9137-4280400fe0fb@nat3.reconv.pl:5432?allow_insecure=1&alpn=h3&congestion_control=bbr&sni=www.python.org&udp_relay_mode=native#B%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2005%20TG%3A%20%40nodpai
-tuic://25b2699a-e18e-11ec-8e69-f23c91cfbbc9:25b2699a-e18e-11ec-8e69-f23c91cfbbc9@1101f957-tegxs0-tfo5nb-yjq0.hk2.hyhuawei.com:443?sni=1101f957-tegxs0-tfo5nb-yjq0.hk2.hyhuawei.com&alpn=h3&congestion_control=bbr&udp_relay_mode=native#D%20-%20%F0%9F%87%AD%F0%9F%87%B0%20HK%2015%20TG%3A%20%40nodpai
