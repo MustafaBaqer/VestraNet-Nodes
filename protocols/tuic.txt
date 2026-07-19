@@ -1,1 +1,2 @@
-tuic://9adb384a-0f16-4501-a8f3-b6b2556fce87:dongtaiwang.com@62.210.24.143:33888/?congestion_control=cubic&udp_relay_mode=native&sni=bing.com&alpn=h3#🇫🇷@oneclickvpnkeys
+tuic://36106e0f-4d9a-470b-a3fd-535f3b7a1e92:dongtaiwang.com@5.178.101.117:30006?sni=www.microsoft.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#
+tuic://a1102edc-f382-4720-99f5-ecc0a74507af:a1102edc-f382-4720-99f5-ecc0a74507af@192.3.130.119:60053?sni=apple.com&alpn=h3&congestion_control=bbr&udp_relay_mode=native#B%20-%20%F0%9F%87%BA%F0%9F%87%B8%20US%2013%20TG%3A%20%40nodpai
