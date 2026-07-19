@@ -1,2 +1,1 @@
-tuic://e3975a05-b89e-11ec-a50d-f23c91cfbbc9:e3975a05-b89e-11ec-a50d-f23c91cfbbc9@b4a362b0-teisg0-thntyd-1f596.jp5.hyhuawei.com:443?sni=b4a362b0-teisg0-thntyd-1f596.jp5.hyhuawei.com&alpn=h3&congestion_control=bbr#B%20-%20%F0%9F%87%AF%F0%9F%87%B5%20JP%2006%20TG%3A%20%40nodpai
-tuic://c28f2f1e-265c-4672-ab64-d038254cc362:8264dd9849a38cf8@172.67.206.75:443?congestion_control=bbr&udp_relay_mode=quic#
+tuic://48b603e6-6568-464e-a32f-4cf0526a9f1a%3A48b603e6-6568-464e-a32f-4cf0526a9f1a@8.219.215.193:5835?sni=claw.isbigdick.cc.cd&alpn=h3&insecure=0&allowInsecure=0&congestion_control=bbr#
