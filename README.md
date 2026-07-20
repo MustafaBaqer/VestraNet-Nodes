@@ -84,5 +84,5 @@ We believe in the power of open-source communities. If you have stable proxy ser
 <div align="center">
   <br>
   <i>Engineered for Command. Absolute Clarity, Total Control.</i><br>
-  <b>Maintained by the CodeVestra Team</b>
+  <b>Maintained by the CodeVestra Team.</b>
 </div>
