@@ -1,1 +1,2 @@
-tuic://467f2940-77cd-11ee-b5ed-f23c9164ca5d:467f2940-77cd-11ee-b5ed-f23c9164ca5d@d1bf317e-tegxs0-tf25f7-1phla.hk1.hyhuawei.com:443?alpn=h3&congestion_control=bbr&sni=d1bf317e-tegxs0-tf25f7-1phla.hk1.hyhuawei.com&udp_relay_mode=native#B%20-%20%F0%9F%87%AD%F0%9F%87%B0%20HK%2007%20TG%3A%20%40nodpai
+tuic://4eedcde6-d16a-11ef-973a-f23c913c8d2b:4eedcde6-d16a-11ef-973a-f23c913c8d2b@c6cc4413-tegxs0-tehvdy-1j0a4.sjc.oshuawei.com:443?alpn=h3&congestion_control=bbr&sni=c6cc4413-tegxs0-tehvdy-1j0a4.sjc.oshuawei.com&udp_relay_mode=native#A%20-%20%F0%9F%87%BA%F0%9F%87%B8%20US%2019%20TG%3A%20%40nodpai
+tuic://1ae7c1a7-53a4-49d3-87ef-597634834c6c:1ae7c1a7-53a4-49d3-87ef-597634834c6c@q5rvfp.yydzx.xyz:27104?sni=q5rvfp.yydzx.xyz&congestion_control=bbr&udp_relay_mode=native&alpn=h3#
