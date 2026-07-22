@@ -1,6 +1,0 @@
-tuic://3fed19ea-1671-11f0-bd2e-f23c9164ca5d:3fed19ea-1671-11f0-bd2e-f23c9164ca5d@c5f81b3e-tegxs0-twj07b-fm2v.cu.oshuawei.com:443?alpn=h3&congestion_control=bbr&sni=c5f81b3e-tegxs0-twj07b-fm2v.cu.oshuawei.com&udp_relay_mode=native#%F0%9F%87%BA%F0%9F%87%B8US_8%7C1.5MB/s
-tuic://a1102edc-f382-4720-99f5-ecc0a74507af:a1102edc-f382-4720-99f5-ecc0a74507af@212.192.221.153:60000?sni=www.python.org&alpn=h3&congestion_control=bbr&udp_relay_mode=native#A%20-%20%F0%9F%87%AF%F0%9F%87%B5%20JP%2004%20TG%3A%20%40nodpai
-tuic://e1dee7c0-cff7-11eb-a8bf-f23c91cfbbc9:e1dee7c0-cff7-11eb-a8bf-f23c91cfbbc9@dc0fe62a-tegxs0-teykgk-19xg1.hk1.hyhuawei.com:443?sni=dc0fe62a-tegxs0-teykgk-19xg1.hk1.hyhuawei.com&alpn=h3&congestion_control=bbr#A%20-%20%F0%9F%87%AD%F0%9F%87%B0%20HK%2002%20TG%3A%20%40nodpai
-tuic://9adb384a-0f16-4501-a8f3-b6b2556fce87:dongtaiwang.com@62.210.24.143:33888/?congestion_control=cubic&udp_relay_mode=native&sni=bing.com&alpn=h3#
-tuic://9adb384a-0f16-4501-a8f3-b6b2556fce87:dongtaiwang.com@62.210.24.143:33888?sni=bing.com&alpn=h3&udp_relay_mode=native#%F0%9F%87%AB%F0%9F%87%B7FR_5%7C2.7MB%2Fs
-tuic://93fb69fc-77cf-11ee-85ee-f23c91369f2d:93fb69fc-77cf-11ee-85ee-f23c91369f2d@f8cab56b-tegxs0-tm53cm-1ol97.cu.oshuawei.com:443?congestion_control=bbr#%F0%9F%87%BA%F0%9F%87%B8US_1%7C1.1MB/s
