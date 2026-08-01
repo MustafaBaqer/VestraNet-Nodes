@@ -1,0 +1,1 @@
+tuic://467f2940-77cd-11ee-b5ed-f23c9164ca5d:467f2940-77cd-11ee-b5ed-f23c9164ca5d@d1bf317e-tegxs0-tf25f7-1phla.hk1.hyhuawei.com:443?alpn=h3&congestion_control=bbr&sni=d1bf317e-tegxs0-tf25f7-1phla.hk1.hyhuawei.com&udp_relay_mode=native#B%20-%20%F0%9F%87%AD%F0%9F%87%B0%20HK%2009%20TG%3A%20%40nodpai
