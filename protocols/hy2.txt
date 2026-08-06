@@ -1,11 +1,6 @@
-hy2://uQUfGOf9Mx@140.233.177.48:33884?sni=www.oracle.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#%F0%9F%87%BA%F0%9F%87%B8US_2%7C2.9MB%2Fs
-hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-004.fastervpn.world:443?sni=vpn-us-004.fastervpn.world#%F0%9F%87%BA%F0%9F%87%B8US_1%7C1.1MB%2Fs
-hy2://strong-secret-pass-777@45.149.114.75:444?sni=www.microsoft.com&obfs=salamander&obfs-password=cry_me_a_r1ver_2026#%F0%9F%87%B3%F0%9F%87%B1NL_1%7C1.2MB%2Fs
-hy2://632d0fab-6d87-49e8-af65-1840dbc42334@1sg001.476579.xyz:8443?sni=1sg001.476579.xyz#A%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2014%20TG%3A%20%40nodpai
+hy2://T$me$V2RayyNGvpn@70.34.205.15:443?sni=www.wordreference.com&obfs=salamander&obfs-password=T.me%24V2RayyNGvpn#%F0%9F%87%B8%F0%9F%87%AA%40V2RayyNGvpn%F0%9F%87%B8%F0%9F%87%AA%20%E2%9B%94%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87%20V2Ray...
+hy2://elknam6l7izf3z71@assets.gateway-stream.com:52013?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=cukfjxud1ebjuuzs#%40Leecher56%20%231
+hy2://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@jp-hy2.onetaplink.app:5443?sni=hy2-jp.onetaplink.app&obfs=salamander&obfs-password=CF7WJGiw6r1c8imX#B%20-%20%F0%9F%87%AF%F0%9F%87%B5%20JP%2001%20TG%3A%20%40nodpai
 hy2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga9.api3-max.ru:443?sni=taga9.api3-max.ru#%F0%9F%87%B9%F0%9F%87%B7%E5%9C%9F%E8%80%B3%E5%85%B6%20%234
-hy2://9794d18f-9280-3553-a7a5-a23da75aca76@192.3.118.133:443?sni=u691611udb8727a3s2316.sspcccdn.xyz#%F0%9F%87%BA%F0%9F%87%B8US-%F0%9F%9A%80%40VPNine1%20%231
-hy2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.199:8449?sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%AB%F0%9F%87%AEFI_3%7C2.1MB%2Fs
-hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.250.29.24:443?sni=vpn-sg-001.fastervpn.world#%F0%9F%AA%BC48%40oneclickvpnkeys
-hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-003.fastervpn.world:443?sni=vpn-jp-003.fastervpn.world#C%20-%20%F0%9F%87%AF%F0%9F%87%B5%20JP%2010%20TG%3A%20%40nodpai
-hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-de-002.fastervpn.world:443?sni=vpn-de-002.fastervpn.world#A%20-%20%F0%9F%87%A9%F0%9F%87%AA%20DE%2008%20TG%3A%20%40nodpai
-hy2://dfbxu5tmmnmf23u5@panel.riziro.ir:4526?sni=ger1.riziro.ir#%F0%9F%87%A9%F0%9F%87%AA68978%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSO...
+hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-005.fastervpn.world:443?sni=vpn-us-005.fastervpn.world#C%20-%20%F0%9F%87%BA%F0%9F%87%B8%20US%2064%20TG%3A%20%40nodpai
+hy2://Masir_Sefid@18.196.180.90:444?sni=qus.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#%F0%9F%9A%80%40V2ray_official
