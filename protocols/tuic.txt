@@ -1,1 +1,1 @@
-tuic://542bd1db-f5e7-4c81-a08a-d95da62a914b:542bd1db-f5e7-4c81-a08a-d95da62a914b@69.63.204.31:46501?alpn=h3&congestion_control=bbr&congestion_controller=bbr&sni=www.bing.com&udp_relay_mode=native&version=5#EPODONIOS
+tuic://2219a1b1-9290-4ac5-94fd-6cfc1fb25280:2219a1b1-9290-4ac5-94fd-6cfc1fb25280@m61wz8.yydzx.xyz:27105?sni=m61wz8.yydzx.xyz&alpn=h3&congestion_control=bbr#B%20-%20%F0%9F%87%B9%F0%9F%87%BC%20TW%2007%20TG%3A%20%40nodpai
