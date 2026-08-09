@@ -1,5 +1,0 @@
-tuic://628e821d-5151-48d6-8af3-e89cd74e6f4d:628e821d-5151-48d6-8af3-e89cd74e6f4d@hdfyhys2.cpionline.co:26288?alpn=h3&congestion_control=cubic&sni=hdfyhys2.cpionline.co&udp_relay_mode=native#
-tuic://c28f2f1e-265c-4672-ab64-d038254cc362:8264dd9849a38cf8@109.205.214.104:443?congestion_control=bbr&udp_relay_mode=quic#
-tuic://93fb69fc-77cf-11ee-85ee-f23c91369f2d:93fb69fc-77cf-11ee-85ee-f23c91369f2d@f8cab56b-tegxs0-tm53cm-1ol97.cu.oshuawei.com:443?congestion_control=bbr#%F0%9F%87%BA%F0%9F%87%B8US_1%7C1.1MB%2Fs
-tuic://28213b50-7ed5-11ee-add6-f23c91369f2d:28213b50-7ed5-11ee-add6-f23c91369f2d@3edd5edb-tegxs0-tqgocx-1plv4.hk2.hyhuawei.com:443?allow_insecure=0&alpn=h3&congestion_control=bbr&sni=3edd5edb-tegxs0-tqgocx-1plv4.hk2.hyhuawei.com&udp_relay_mode=native#D%20-%20%F0%9F%87%AD%F0%9F%87%B0%20HK%2027%20TG%3A%20%40nodpai
-tuic://56d8a8fd-68b8-47f8-8c7f-98cc675902db:56d8a8fd-68b8-47f8-8c7f-98cc675902db@us02.uzifan.monster:8443/?congestion_control=bbr&udp_relay_mode=native&sni=www.bing.com&alpn=h3#🇺🇸118979
