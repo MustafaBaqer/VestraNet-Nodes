@@ -1,2 +1,2 @@
-tuic://f4a047d5-f419-4e3f-9054-bd2a087e1dc2:f4a047d5-f419-4e3f-9054-bd2a087e1dc2@154.26.183.5:41603?alpn=h3&congestion_control=bbr&congestion_controller=bbr&sni=www.bing.com&udp_relay_mode=native&version=5#🦄3@oneclickvpnkeys
-tuic://f73c64bc-9e8c-11ec-bd7c-f23c913c8d2b:f73c64bc-9e8c-11ec-bd7c-f23c913c8d2b@0e3b9310-tegxs0-twbja8-1hd7v.sjc.oshuawei.com:443?alpn=h3&congestion_control=bbr&sni=0e3b9310-tegxs0-twbja8-1hd7v.sjc.oshuawei.com&udp_relay_mode=native#D%20-%20%F0%9F%87%BA%F0%9F%87%B8%20US%2035%20TG%3A%20%40nodpai
+tuic://a1102edc-f382-4720-99f5-ecc0a74507af:a1102edc-f382-4720-99f5-ecc0a74507af@107.172.250.191:443?sni=apple.com&alpn=h3&congestion_control=bbr&udp_relay_mode=native#A%20-%20%F0%9F%87%BA%F0%9F%87%B8%20US%2001%20TG%3A%20%40nodpai
+tuic://ba58ca0c-0411-444e-80f7-e361ce49012d:ba58ca0c-0411-444e-80f7-e361ce49012d@85.113.71.85:25092?alpn=h3&congestion_control=bbr&congestion_controller=bbr&sni=www.bing.com&udp_relay_mode=native&version=5#EPODONIOS
