@@ -1,5 +1,3 @@
-tuic://48b603e6-6568-464e-a32f-4cf0526a9f1a:48b603e6-6568-464e-a32f-4cf0526a9f1a@8.219.215.193:5835?sni=claw.isbigdick.cc.cd&alpn=h3&insecure=0&allowInsecure=0&congestion_control=bbr#
-tuic://3ebac90b-6977-47c0-bef5-b2e37554432c:3ebac90b-6977-47c0-bef5-b2e37554432c@89.144.35.232:17306?sni=www.microsoft.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#
-tuic://1ae7c1a7-53a4-49d3-87ef-597634834c6c:1ae7c1a7-53a4-49d3-87ef-597634834c6c@q5rvfp.yydzx.xyz:27104?sni=q5rvfp.yydzx.xyz&congestion_control=bbr&udp_relay_mode=native&alpn=h3#
-tuic://4fbf569d-bed2-4b21-a9e9-efa46cca654d:4fbf569d-bed2-4b21-a9e9-efa46cca654d@usa.uu2324.ccwu.cc:12071?alpn=h3&congestion_control=bbr&reduce_rtt=1&sni=usa.uu2324.ccwu.cc&udp_relay_mode=native&version=5#
-tuic://9adb384a-0f16-4501-a8f3-b6b2556fce87:dongtaiwang.com@163.172.118.224:33888?sni=bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#
+tuic://87bc1693-8860-41d7-acf4-e6edf49abbbb:crivAv10hAdr-fop4Lne@70.34.197.98:443?congestion_control=bbr&amp%3Budp_relay_mode=native&amp%3Balpn=h3%2Cspdy/3.1&amp%3Ballow_insecure=1#
+tuic://48b603e6-6568-464e-a32f-4cf0526a9f1a:48b603e6-6568-464e-a32f-4cf0526a9f1a@8.219.215.193:5835?alpn=h3&congestion_control=bbr&sni=claw.isbigdick.cc.cd#
+tuic://56d8a8fd-68b8-47f8-8c7f-98cc675902db:56d8a8fd-68b8-47f8-8c7f-98cc675902db@us01.uzifan.monster:8443/?congestion_control=bbr&udp_relay_mode=native&sni=azure.microsoft.com&alpn=h3#
