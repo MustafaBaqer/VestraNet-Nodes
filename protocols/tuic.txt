@@ -1,2 +1,1 @@
-tuic://261d95d4-73c0-4c33-957a-04b6d407bea2:261d95d4-73c0-4c33-957a-04b6d407bea2@83.243.86.109:27947?allow_insecure=1&alpn=h3&congestion_control=bbr&sni=bing.com&udp_relay_mode=native#%F0%9F%87%A9%F0%9F%87%AADE_2%7C2.2MB/s
-tuic://94d40708-8273-11ea-8fc9-f23c913c8d2b:94d40708-8273-11ea-8fc9-f23c913c8d2b@fc676f5c-tegxs0-ten5li-mv7m.hk2.hyhuawei.com:443?alpn=h3&congestion_control=bbr&sni=fc676f5c-tegxs0-ten5li-mv7m.hk2.hyhuawei.com&udp_relay_mode=native#A%20-%20%F0%9F%87%AD%F0%9F%87%B0%20HK%2001%20TG%3A%20%40nodpai
+tuic://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb:strong-secret-pass-777@45.82.245.37:50043?allow_insecure=1&alpn=h3&congestion_control=bbr&udp_relay_mode=native#%F0%9F%87%A8%F0%9F%87%BECY_1%7C1.1MB/s
