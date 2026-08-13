@@ -1,2 +1,5 @@
-tuic://2219a1b1-9290-4ac5-94fd-6cfc1fb25280:2219a1b1-9290-4ac5-94fd-6cfc1fb25280@rybzf0.yydzx.xyz:17838?alpn=h3&congestion_control=bbr&sni=rybzf0.yydzx.xyz#B%20-%20%F0%9F%87%AF%F0%9F%87%B5%20JP%2014%20TG%3A%20%40nodpai
-tuic://ba58ca0c-0411-444e-80f7-e361ce49012d:ba58ca0c-0411-444e-80f7-e361ce49012d@85.113.71.85:25092?alpn=h3&congestion_control=bbr&congestion_controller=bbr&sni=www.bing.com&udp_relay_mode=native&version=5#
+tuic://56d8a8fd-68b8-47f8-8c7f-98cc675902db:56d8a8fd-68b8-47f8-8c7f-98cc675902db@us02.uzifan.monster:8443/?congestion_control=bbr&udp_relay_mode=native&sni=www.bing.com&alpn=h3#EPODONIOS
+tuic://56d8a8fd-68b8-47f8-8c7f-98cc675902db:56d8a8fd-68b8-47f8-8c7f-98cc675902db@us02.uzifan.monster:8443/?congestion_control=bbr&udp_relay_mode=native&sni=www.bing.com&alpn=h3#🇺🇸118979
+tuic://a1102edc-f382-4720-99f5-ecc0a74507af:a1102edc-f382-4720-99f5-ecc0a74507af@204.152.198.183:40572?sni=www.python.org&alpn=h3&congestion_control=bbr&udp_relay_mode=native#A%20-%20%F0%9F%87%BA%F0%9F%87%B8%20US%2001%20TG%3A%20%40nodpai
+tuic://a1102edc-f382-4720-99f5-ecc0a74507af:a1102edc-f382-4720-99f5-ecc0a74507af@193.124.24.31:41008?sni=www.python.org&alpn=h3&congestion_control=bbr&udp_relay_mode=native#A%20-%20%F0%9F%87%BA%F0%9F%87%B8%20US%2003%20TG%3A%20%40nodpai
+tuic://261d95d4-73c0-4c33-957a-04b6d407bea2:261d95d4-73c0-4c33-957a-04b6d407bea2@83.243.86.109:27947?sni=bing.com&alpn=h3&congestion_control=bbr&udp_relay_mode=native#%F0%9F%87%A9%F0%9F%87%AADE_2%7C2.4MB%2Fs
