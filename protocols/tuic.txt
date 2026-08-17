@@ -1,1 +1,3 @@
-tuic://3fed19ea-1671-11f0-bd2e-f23c9164ca5d:3fed19ea-1671-11f0-bd2e-f23c9164ca5d@c5f81b3e-tegxs0-twj07b-fm2v.cu.oshuawei.com:443?alpn=h3&congestion_control=bbr&sni=c5f81b3e-tegxs0-twj07b-fm2v.cu.oshuawei.com&udp_relay_mode=native#%F0%9F%87%BA%F0%9F%87%B8US_8%7C1.5MB/s
+tuic://48b603e6-6568-464e-a32f-4cf0526a9f1a:48b603e6-6568-464e-a32f-4cf0526a9f1a@8.219.215.193:5835?sni=claw.isbigdick.cc.cd&alpn=h3&insecure=0&allowInsecure=0&congestion_control=bbr#🇸🇬51805
+tuic://9adb384a-0f16-4501-a8f3-b6b2556fce87:dongtaiwang.com@62.210.24.143:33888?sni=bing.com&alpn=h3&udp_relay_mode=native#%F0%9F%87%AB%F0%9F%87%B7FR_3%7C3.5MB%2Fs
+tuic://a1102edc-f382-4720-99f5-ecc0a74507af:a1102edc-f382-4720-99f5-ecc0a74507af@136.0.41.47:40000?sni=www.python.org&alpn=h3&congestion_control=bbr&udp_relay_mode=native#B%20-%20%F0%9F%87%BA%F0%9F%87%B8%20US%2002%20TG%3A%20%40nodpai
