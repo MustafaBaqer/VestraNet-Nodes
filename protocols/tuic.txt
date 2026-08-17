@@ -1,4 +1,1 @@
-tuic://3ebac90b-6977-47c0-bef5-b2e37554432c:3ebac90b-6977-47c0-bef5-b2e37554432c@89.144.35.232:17306?allow_insecure=1&alpn=h3&congestion_control=bbr&sni=www.microsoft.com&udp_relay_mode=native#%F0%9F%87%A9%F0%9F%87%AADE_2%7C2.1MB/s
-tuic://56d8a8fd-68b8-47f8-8c7f-98cc675902db:56d8a8fd-68b8-47f8-8c7f-98cc675902db@us02.uzifan.monster:8443?allow_insecure=1&alpn=h3&congestion_control=bbr&sni=www.bing.com&udp_relay_mode=native#%F0%9F%87%BA%F0%9F%87%B8US_1%7C2.5MB/s
-tuic://56d8a8fd-68b8-47f8-8c7f-98cc675902db:56d8a8fd-68b8-47f8-8c7f-98cc675902db@us02.uzifan.monster:8443?sni=www.bing.com&alpn=h3&congestion_control=bbr&udp_relay_mode=native#%F0%9F%87%BA%F0%9F%87%B8US_1%7C2.5MB%2Fs
-tuic://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb:strong-secret-pass-777@45.140.167.209:50043?allow_insecure=1&alpn=h3&congestion_control=bbr&udp_relay_mode=native#%F0%9F%87%AC%F0%9F%87%A7GB_1%7C1.9MB/s
+tuic://56d8a8fd-68b8-47f8-8c7f-98cc675902db:56d8a8fd-68b8-47f8-8c7f-98cc675902db@us01.uzifan.monster:8443?sni=azure.microsoft.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#
