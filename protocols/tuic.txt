@@ -1,3 +1,3 @@
-tuic://542bd1db-f5e7-4c81-a08a-d95da62a914b:542bd1db-f5e7-4c81-a08a-d95da62a914b@69.63.204.31:46501?alpn=h3&congestion_control=bbr&congestion_controller=bbr&sni=www.bing.com&udp_relay_mode=native&version=5#EPODONIOS
-tuic://cd1b0ae0-4010-11ee-953a-f23c9164ca5d:cd1b0ae0-4010-11ee-953a-f23c9164ca5d@de0bc027-teisg0-thtg7i-1lkt0.jp5.hyhuawei.com:443?alpn=h3&congestion_control=bbr&sni=de0bc027-teisg0-thtg7i-1lkt0.jp5.hyhuawei.com&udp_relay_mode=native#B%20-%20%F0%9F%87%AF%F0%9F%87%B5%20JP%2012%20TG%3A%20%40nodpai
 tuic://f4a047d5-f419-4e3f-9054-bd2a087e1dc2:f4a047d5-f419-4e3f-9054-bd2a087e1dc2@154.26.183.5:41603?alpn=h3&congestion_control=bbr&congestion_controller=bbr&sni=www.bing.com&udp_relay_mode=native&version=5#🦄3@oneclickvpnkeys
+tuic://56d8a8fd-68b8-47f8-8c7f-98cc675902db:56d8a8fd-68b8-47f8-8c7f-98cc675902db@jp01.uzifan.monster:8443/?congestion_control=bbr&udp_relay_mode=native&sni=www.bing.com&alpn=h3#🇯🇵118980
+tuic://87bc1693-8860-41d7-acf4-e6edf49abbbb:crivAv10hAdr-fop4Lne@70.34.197.98:443?congestion_control=bbr&amp%3Budp_relay_mode=native&amp%3Balpn=h3%2Cspdy/3.1&amp%3Ballow_insecure=1#%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20
