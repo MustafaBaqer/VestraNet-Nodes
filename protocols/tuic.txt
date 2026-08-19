@@ -1,2 +1,5 @@
-tuic://9adb384a-0f16-4501-a8f3-b6b2556fce87:dongtaiwang.com@163.172.118.224:33888?sni=bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#
-tuic://542bd1db-f5e7-4c81-a08a-d95da62a914b:542bd1db-f5e7-4c81-a08a-d95da62a914b@69.63.204.31:46501?alpn=h3&congestion_control=bbr&congestion_controller=bbr&sni=www.bing.com&udp_relay_mode=native&version=5#
+tuic://28213b50-7ed5-11ee-add6-f23c91369f2d:28213b50-7ed5-11ee-add6-f23c91369f2d@3edd5edb-tegxs0-tqgocx-1plv4.hk2.hyhuawei.com:443?sni=3edd5edb-tegxs0-tqgocx-1plv4.hk2.hyhuawei.com&alpn=h3&congestion_control=bbr&udp_relay_mode=native#B%20-%20%F0%9F%87%AD%F0%9F%87%B0%20HK%2006%20TG%3A%20%40nodpai
+tuic://2d1ad594-80a4-4bfb-87a6-038e39701f51:2d1ad594-80a4-4bfb-87a6-038e39701f51@sg2-8sb.6121999.dpdns.org:33738?alpn=h3&congestion_control=bbr&sni=sg2-8sb.6121999.dpdns.org&udp=true&udp_relay_mode=quic#
+tuic://ba58ca0c-0411-444e-80f7-e361ce49012d:ba58ca0c-0411-444e-80f7-e361ce49012d@85.113.71.85:25092?alpn=h3&congestion_control=bbr&congestion_controller=bbr&sni=www.bing.com&udp_relay_mode=native&version=5#EPODONIOS
+tuic://d076280a-0d5f-11f0-8a7b-f23c913c8d2b:d076280a-0d5f-11f0-8a7b-f23c913c8d2b@50906cc2-tegxs0-twemfo-se45.cu.oshuawei.com:443?allow_insecure=0&alpn=h3&congestion_control=bbr&sni=50906cc2-tegxs0-twemfo-se45.cu.oshuawei.com&udp_relay_mode=native#A%20-%20%F0%9F%87%BA%F0%9F%87%B8%20US%2006%20TG%3A%20%40nodpai
+tuic://56d8a8fd-68b8-47f8-8c7f-98cc675902db:56d8a8fd-68b8-47f8-8c7f-98cc675902db@us01.uzifan.monster:8443/?congestion_control=bbr&udp_relay_mode=native&sni=azure.microsoft.com&alpn=h3#
