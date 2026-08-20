@@ -1,1 +1,1 @@
-tuic://2209d482-3dbb-44da-817a-ddc2c8f27daa:2aaae510@45.67.35.33:25172?congestion_control=bbr&alpn=h3&udp_relay_mode=quic#
+tuic://53de9ed1-c955-4136-9137-4280400fe0fb:53de9ed1-c955-4136-9137-4280400fe0fb@151.245.32.32:46981?sni=www.python.org&alpn=h3&congestion_control=bbr&udp_relay_mode=native#B%20-%20%F0%9F%87%BA%F0%9F%87%B8%20US%2012%20TG%3A%20%40nodpai
