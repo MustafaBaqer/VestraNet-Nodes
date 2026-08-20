@@ -1,0 +1,1 @@
+tuic://2209d482-3dbb-44da-817a-ddc2c8f27daa:2aaae510@45.67.35.33:25172?congestion_control=bbr&alpn=h3&udp_relay_mode=quic#
