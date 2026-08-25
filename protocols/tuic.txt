@@ -1,2 +1,1 @@
-tuic://56d8a8fd-68b8-47f8-8c7f-98cc675902db:56d8a8fd-68b8-47f8-8c7f-98cc675902db@us02.uzifan.monster:8443?allow_insecure=1&alpn=h3&congestion_control=bbr&sni=www.bing.com&udp_relay_mode=native#%F0%9F%87%BA%F0%9F%87%B8US_1%7C2.5MB/s
-tuic://3ebac90b-6977-47c0-bef5-b2e37554432c:3ebac90b-6977-47c0-bef5-b2e37554432c@89.144.35.232:17306?allow_insecure=1&alpn=h3&congestion_control=bbr&sni=www.microsoft.com&udp_relay_mode=native#%F0%9F%87%A9%F0%9F%87%AADE_2%7C2.1MB/s
+tuic://467f2940-77cd-11ee-b5ed-f23c9164ca5d:467f2940-77cd-11ee-b5ed-f23c9164ca5d@d1bf317e-tegxs0-tf25f7-1phla.hk1.hyhuawei.com:443?sni=d1bf317e-tegxs0-tf25f7-1phla.hk1.hyhuawei.com&alpn=h3&congestion_control=bbr&udp_relay_mode=native#B%20-%20%F0%9F%87%AD%F0%9F%87%B0%20HK%2007%20TG%3A%20%40nodpai
