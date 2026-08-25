@@ -1,1 +1,1 @@
-tuic://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb:strong-secret-pass-777@45.140.167.209:50043?alpn=h3&congestion_control=bbr&udp_relay_mode=native#%F0%9F%87%AC%F0%9F%87%A7GB_1%7C1.9MB%2Fs
+tuic://56d8a8fd-68b8-47f8-8c7f-98cc675902db:56d8a8fd-68b8-47f8-8c7f-98cc675902db@us02.uzifan.monster:8443/?congestion_control=bbr&udp_relay_mode=native&sni=www.bing.com&alpn=h3#🇺🇸1t@oneclickvpnkeys
