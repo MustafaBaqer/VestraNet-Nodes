@@ -1,2 +1,2 @@
-tuic://48b603e6-6568-464e-a32f-4cf0526a9f1a:48b603e6-6568-464e-a32f-4cf0526a9f1a@8.219.215.193:5835?sni=claw.isbigdick.cc.cd&alpn=h3&congestion_control=bbr#%F0%9F%87%B8%F0%9F%87%ACSG_4%7C1.2MB%2Fs
-tuic://28a8a4d0-3e02-11eb-a8bf-f23c91cfbbc9:28a8a4d0-3e02-11eb-a8bf-f23c91cfbbc9@40c70488-tegxs0-ts3rye-mrtr.hk2.hyhuawei.com:443?alpn=h3&congestion_control=bbr&sni=40c70488-tegxs0-ts3rye-mrtr.hk2.hyhuawei.com&udp_relay_mode=native#B%20-%20%F0%9F%87%AD%F0%9F%87%B0%20HK%2012%20TG%3A%20%40nodpai
+tuic://28a8a4d0-3e02-11eb-a8bf-f23c91cfbbc9:28a8a4d0-3e02-11eb-a8bf-f23c91cfbbc9@40c70488-tegxs0-ts3rye-mrtr.hk2.hyhuawei.com:443?sni=40c70488-tegxs0-ts3rye-mrtr.hk2.hyhuawei.com&alpn=h3&congestion_control=bbr&udp_relay_mode=native#
+tuic://9adb384a-0f16-4501-a8f3-b6b2556fce87:dongtaiwang.com@163.172.118.224:33888?sni=bing.com&alpn=h3&congestion_control=bbr&udp_relay_mode=native#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C3.1MB%2Fs
