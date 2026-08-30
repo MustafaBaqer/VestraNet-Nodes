@@ -1,1 +1,4 @@
-tuic://f13f964e-f06c-11ec-a858-f23c91cfbbc9:f13f964e-f06c-11ec-a858-f23c91cfbbc9@8c284ed5-tegxs0-tt2yf5-1j61y.cu.oshuawei.com:443?allow_insecure=0&alpn=h3&congestion_control=bbr&sni=8c284ed5-tegxs0-tt2yf5-1j61y.cu.oshuawei.com&udp_relay_mode=native#D%20-%20%F0%9F%87%BA%F0%9F%87%B8%20US%2030%20TG%3A%20%40nodpai
+tuic://a1102edc-f382-4720-99f5-ecc0a74507af:a1102edc-f382-4720-99f5-ecc0a74507af@108.165.122.82:43602?sni=www.python.org&alpn=h3&congestion_control=bbr&udp_relay_mode=native#A%20-%20%F0%9F%87%BA%F0%9F%87%B8%20US%2001%20TG%3A%20%40nodpai
+tuic://25a54c97-c3c3-4505-8d11-93d742eff8fb:RBK3FbuEqeWNvM5JxAtKV0bI@147.224.251.52:443?sni=129.146.243.146.sslip.io&congestion_control=bbr&udp_relay_mode=native&alpn=h3#
+tuic://48b603e6-6568-464e-a32f-4cf0526a9f1a:48b603e6-6568-464e-a32f-4cf0526a9f1a@8.219.215.193:5835?sni=claw.isbigdick.cc.cd&alpn=h3&insecure=0&allowInsecure=0&congestion_control=bbr#🇸🇬51805
+tuic://28a8a4d0-3e02-11eb-a8bf-f23c91cfbbc9:28a8a4d0-3e02-11eb-a8bf-f23c91cfbbc9@40c70488-tegxs0-ts3rye-mrtr.hk2.hyhuawei.com:443?sni=40c70488-tegxs0-ts3rye-mrtr.hk2.hyhuawei.com&alpn=h3&congestion_control=bbr&udp_relay_mode=native#
