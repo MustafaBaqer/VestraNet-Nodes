@@ -1,3 +1,0 @@
-tuic://3ebac90b-6977-47c0-bef5-b2e37554432c:3ebac90b-6977-47c0-bef5-b2e37554432c@89.144.35.232:17306?allow_insecure=1&alpn=h3&congestion_control=bbr&sni=www.microsoft.com&udp_relay_mode=native#%F0%9F%87%A9%F0%9F%87%AADE_2%7C2.0MB/s
-tuic://28a8a4d0-3e02-11eb-a8bf-f23c91cfbbc9:28a8a4d0-3e02-11eb-a8bf-f23c91cfbbc9@40c70488-tegxs0-ts3rye-mrtr.hk2.hyhuawei.com:443?sni=40c70488-tegxs0-ts3rye-mrtr.hk2.hyhuawei.com&alpn=h3&congestion_control=bbr&udp_relay_mode=native#B%20-%20%F0%9F%87%AD%F0%9F%87%B0%20HK%2012%20TG%3A%20%40nodpai
-tuic://ef92641c-c4d9-4b79-94ac-121dd7989d47:ef92641c-c4d9-4b79-94ac-121dd7989d47@185.34.144.18:39001?sni=www.python.org&alpn=h3&congestion_control=bbr&udp_relay_mode=native#A%20-%20%F0%9F%87%BA%F0%9F%87%B8%20US%2001%20TG%3A%20%40nodpai
