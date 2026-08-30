@@ -1,2 +1,2 @@
-tuic://48b603e6-6568-464e-a32f-4cf0526a9f1a%3A48b603e6-6568-464e-a32f-4cf0526a9f1a@8.219.215.193:5835?sni=claw.isbigdick.cc.cd&alpn=h3&insecure=0&allowInsecure=0&congestion_control=bbr#
-tuic://9adb384a-0f16-4501-a8f3-b6b2556fce87:dongtaiwang.com@163.172.116.154:33887?sni=bing.com&alpn=h3&congestion_control=bbr&udp_relay_mode=native#%F0%9F%87%AB%F0%9F%87%B7FR_2%7C2.5MB%2Fs
+tuic://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb:strong-secret-pass-777@45.82.245.37:50043?alpn=h3&congestion_control=bbr&udp_relay_mode=native#%F0%9F%87%A8%F0%9F%87%BECY_1%7C1.1MB%2Fs
+tuic://87bc1693-8860-41d7-acf4-e6edf49abbbb:crivAv10hAdr-fop4Lne@70.34.197.98:443?congestion_control=bbr&amp%3Budp_relay_mode=native&amp%3Balpn=h3%2Cspdy/3.1&amp%3Ballow_insecure=1#%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20
