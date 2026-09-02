@@ -1,1 +1,0 @@
-tuic://c5031c3d-bc5a-47fd-9ab2-636c307eec59:c5031c3d-bc5a-47fd-9ab2-636c307eec59@singapore.ruixing.fun:58441/?congestion_control=bbr&udp_relay_mode=native&sni=singapore.ruixing.fun&alpn=h3#EPODONIOS
