@@ -1,0 +1,2 @@
+tuic://f13f964e-f06c-11ec-a858-f23c91cfbbc9:f13f964e-f06c-11ec-a858-f23c91cfbbc9@8c284ed5-tegxs0-tt2yf5-1j61y.cu.oshuawei.com:443?alpn=h3&congestion_control=bbr&sni=8c284ed5-tegxs0-tt2yf5-1j61y.cu.oshuawei.com#A%20-%20%F0%9F%87%BA%F0%9F%87%B8%20US%2015%20TG%3A%20%40nodpai
+tuic://c5031c3d-bc5a-47fd-9ab2-636c307eec59:c5031c3d-bc5a-47fd-9ab2-636c307eec59@singapore.ruixing.fun:58441/?congestion_control=bbr&udp_relay_mode=native&sni=singapore.ruixing.fun&alpn=h3#EPODONIOS
