@@ -1,1 +1,2 @@
-tuic://2d1ad594-80a4-4bfb-87a6-038e39701f51:2d1ad594-80a4-4bfb-87a6-038e39701f51@sg2-8sb.6121999.dpdns.org:33738?alpn=h3&congestion_control=bbr&congestion_controller=bbr&sni=sg2-8sb.6121999.dpdns.org&udp_relay_mode=quic&version=5#🇸🇬156000
+tuic://ef92641c-c4d9-4b79-94ac-121dd7989d47:ef92641c-c4d9-4b79-94ac-121dd7989d47@108.165.121.116:40000?sni=www.python.org&alpn=h3&congestion_control=bbr&udp_relay_mode=native#D%20-%20%F0%9F%87%BA%F0%9F%87%B8%20US%2026%20TG%3A%20%40nodpai
+tuic://4eedcde6-d16a-11ef-973a-f23c913c8d2b:4eedcde6-d16a-11ef-973a-f23c913c8d2b@c6cc4413-tegxs0-tehvdy-1j0a4.sjc.oshuawei.com:443?alpn=h3&congestion_control=bbr&sni=c6cc4413-tegxs0-tehvdy-1j0a4.sjc.oshuawei.com&udp_relay_mode=native#A%20-%20%F0%9F%87%BA%F0%9F%87%B8%20US%2019%20TG%3A%20%40nodpai
