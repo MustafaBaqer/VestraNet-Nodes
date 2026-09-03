@@ -1,1 +1,0 @@
-tuic://28a8a4d0-3e02-11eb-a8bf-f23c91cfbbc9:28a8a4d0-3e02-11eb-a8bf-f23c91cfbbc9@40c70488-tegxs0-ts3rye-mrtr.hk2.hyhuawei.com:443?allow_insecure=0&alpn=h3&congestion_control=bbr&sni=40c70488-tegxs0-ts3rye-mrtr.hk2.hyhuawei.com&udp_relay_mode=native#D%20-%20%F0%9F%87%AD%F0%9F%87%B0%20HK%2011%20TG%3A%20%40nodpai
