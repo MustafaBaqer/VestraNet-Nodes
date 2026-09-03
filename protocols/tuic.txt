@@ -1,4 +1,0 @@
-tuic://25a54c97-c3c3-4505-8d11-93d742eff8fb:RBK3FbuEqeWNvM5JxAtKV0bI@147.224.251.52:443?sni=129.146.243.146.sslip.io&congestion_control=bbr&udp_relay_mode=native&alpn=h3#
-tuic://56d8a8fd-68b8-47f8-8c7f-98cc675902db:56d8a8fd-68b8-47f8-8c7f-98cc675902db@soskeynets.uzifan.monster:8443/?congestion_control=bbr&udp_relay_mode=native&sni=www.bing.com&alpn=h3#
-tuic://3ebac90b-6977-47c0-bef5-b2e37554432c:3ebac90b-6977-47c0-bef5-b2e37554432c@89.144.35.232:17306?sni=www.microsoft.com&alpn=h3&congestion_control=bbr&udp_relay_mode=native#%F0%9F%87%A9%F0%9F%87%AADE_2%7C2.1MB%2Fs
-tuic://56d8a8fd-68b8-47f8-8c7f-98cc675902db:56d8a8fd-68b8-47f8-8c7f-98cc675902db@us01.uzifan.monster:8443?sni=azure.microsoft.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#
