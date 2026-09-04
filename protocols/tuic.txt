@@ -1,0 +1,1 @@
+tuic://19c80ce9-0935-41b9-b077-277621316a87:19c80ce9-0935-41b9-b077-277621316a87@hidd2.afsharidempire.uk:41087/?congestion_control=cubic&udp_relay_mode=native&sni=hidd2.sassanidempire.com&alpn=h3#
