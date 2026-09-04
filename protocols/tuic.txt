@@ -1,1 +1,1 @@
-tuic://19c80ce9-0935-41b9-b077-277621316a87:19c80ce9-0935-41b9-b077-277621316a87@hidd2.afsharidempire.uk:41087/?congestion_control=cubic&udp_relay_mode=native&sni=hidd2.sassanidempire.com&alpn=h3#
+tuic://53de9ed1-c955-4136-9137-4280400fe0fb:53de9ed1-c955-4136-9137-4280400fe0fb@nat3.reconv.pl:5432?sni=www.python.org&alpn=h3&congestion_control=bbr&udp_relay_mode=native#B%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2003%20TG%3A%20%40nodpai
