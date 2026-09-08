@@ -1,1 +1,2 @@
-tuic://c5031c3d-bc5a-47fd-9ab2-636c307eec59:c5031c3d-bc5a-47fd-9ab2-636c307eec59@singapore.ruixing.fun:58441/?congestion_control=bbr&udp_relay_mode=native&sni=singapore.ruixing.fun&alpn=h3#🇸🇬SG
+tuic://c5031c3d-bc5a-47fd-9ab2-636c307eec59:c5031c3d-bc5a-47fd-9ab2-636c307eec59@singapore.ruixing.fun:58441/?congestion_control=bbr&udp_relay_mode=native&sni=singapore.ruixing.fun&alpn=h3#EPODONIOS
+tuic://53de9ed1-c955-4136-9137-4280400fe0fb:53de9ed1-c955-4136-9137-4280400fe0fb@nat3.reconv.pl:5432?sni=www.python.org&alpn=h3&congestion_control=bbr&udp_relay_mode=native#B%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2003%20TG%3A%20%40nodpai
