@@ -1,1 +1,1 @@
-tuic://53de9ed1-c955-4136-9137-4280400fe0fb:53de9ed1-c955-4136-9137-4280400fe0fb@nat3.reconv.pl:5432?sni=www.python.org&alpn=h3&congestion_control=bbr&udp_relay_mode=native#B%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2003%20TG%3A%20%40nodpai
+tuic://542bd1db-f5e7-4c81-a08a-d95da62a914b:542bd1db-f5e7-4c81-a08a-d95da62a914b@69.63.204.31:46501?alpn=h3&congestion_control=bbr&congestion_controller=bbr&sni=www.bing.com&udp_relay_mode=native&version=5#🦄2@oneclickvpnkeys
